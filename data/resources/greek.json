@@ -1,0 +1,765 @@
+[
+  {
+    "id": "easy-greek",
+    "name": "Easy Greek",
+    "url": "https://www.easygreek.fm/",
+    "types": [
+      "podcast",
+      "youtube"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Unscripted Greek conversations and street interviews, subtitled in Greek and English.",
+    "notes": "Dimitris and Marilena's weekly podcast passed 280 episodes and was still publishing in August 2026, alongside a YouTube channel that films real people answering questions on the street — both subtitled in Greek and English. It is the best available bridge from textbook Greek to how Greeks actually talk, including slang and swallowed syllables. Episodes and videos are free; transcripts, vocabulary lists and the interactive transcript player come with membership. Genuinely hard below B1.",
+    "tags": [
+      "comprehensible-input",
+      "street-interviews"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EasyGreekVideos"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/easy-greek-learn-greek-with-authentic-conversations/id1547810263"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.fireside.fm/easygreek/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/57L2pnJzMpqRWzNn8tdvdX"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "super-easy-greek",
+    "name": "Super Easy Greek for Beginners",
+    "url": "https://beginners.easygreek.fm/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "The Easy Greek team's slow, deliberately simple podcast for absolute beginners.",
+    "notes": "Dimitris and Artemis speak slowly and stick to a restricted vocabulary so that beginners can follow whole episodes in Greek without translation — the missing rung below the main Easy Greek show. Around 90 episodes and still running in August 2026. Free to listen; transcripts and vocabulary support come with the same membership as the main podcast. Because it is by design repetitive and narrow, it stops being useful once you are comfortably A2.",
+    "tags": [
+      "comprehensible-input",
+      "slow-speech"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/super-easy-greek-for-beginners-listen-to-comprehensible/id1771677576"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.fireside.fm/supereasygreek/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/07Hgc35AiBCyxwdXi8Xpby"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCoTlC0saIu6WNa5ttDDe6fQ"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "greekpod101",
+    "name": "GreekPod101",
+    "url": "https://www.greekpod101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The largest structured Greek audio-lesson library, with transcripts and flashcards.",
+    "notes": "Innovative Language's Greek arm: dialogue-based audio and video lessons grouped into level pathways, each with a PDF transcript, line-by-line breakdown and an SRS flashcard deck. For Modern Greek, where structured audio courses are thin on the ground, the sheer volume is the point. A free lifetime account unlocks only part of the library, most of it needs a subscription, and the marketing emails are relentless. The public podcast feed was still updating in August 2026.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GreekPod101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-greek-greekpod101-com/id381009138"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.greekpod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "omilo",
+    "name": "Omilo",
+    "url": "https://omilo.com/",
+    "types": [
+      "course",
+      "podcast",
+      "tutoring"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "reading",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Immersion courses in Greece, plus a free intermediate story podcast with PDFs.",
+    "notes": "Omilo runs residential Greek language-and-culture courses in Athens, Nafplion, Syros, Lefkada and Naxos, plus private and online lessons — the option when you want to spend a couple of weeks inside the language. Its free side is genuinely worth having on its own: the 'Easy Greek Stories' podcast reads each story at slow and native pace with a downloadable notebook containing transcript, translation, exercises and answer key. New stories appear only about every two months, and the courses themselves are a significant expense.",
+    "tags": [
+      "immersion",
+      "study-abroad"
+    ],
+    "links": [
+      {
+        "label": "Podcast",
+        "url": "https://omilo.com/greek-podcast/"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "greek-language-portal",
+    "name": "Πύλη για την Ελληνική Γλώσσα",
+    "url": "https://www.greek-language.gr/",
+    "types": [
+      "dictionary",
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The Centre for the Greek Language's free portal: Triantafyllidis dictionary and more.",
+    "notes": "A state-backed portal hosting the Triantafyllidis Dictionary of Standard Modern Greek — the reference monolingual dictionary — together with modern Greek grammars, searchable text corpora, dialect lexicons and teaching material for Greek as a foreign language, including distance-learning courses at A1–B1. Everything is free and ad-free. It is a scholarly site in Greek, laid out for researchers rather than learners, so expect to navigate it rather than be guided through it.",
+    "tags": [
+      "monolingual",
+      "official"
+    ],
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "ellinomatheia-certification",
+    "name": "Πιστοποίηση Ελληνομάθειας (Certificate of Attainment in Greek)",
+    "url": "https://www.greek-language.gr/certification/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "reading",
+      "writing",
+      "listening",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Official Greek proficiency exam site, with free past papers and a graded text bank.",
+    "notes": "The Centre for the Greek Language runs the state Certificate of Attainment in Modern Greek, the qualification recognised for Greek universities and public-sector posts. The site publishes past exam papers and audio for every level plus a searchable bank of texts graded by level, which is useful for self-assessment even if you never sit the exam. The material is free; only the exam itself costs money, and the site is almost entirely in Greek.",
+    "tags": [
+      "exam-prep",
+      "official"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "filoglossia",
+    "name": "Filoglossia",
+    "url": "http://www.xanthi.ilsp.gr/filog/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Free multimedia beginner course from Greece's language-technology institute.",
+    "notes": "Built by ILSP (the Institute for Language and Speech Processing) as public-funded courseware, Filoglossia teaches beginner Greek through dialogues with audio, vocabulary and exercises, entirely free with no registration. It is still one of very few complete free beginner courses for Modern Greek. The catch is its age — the material dates from 2001–2009 and the frame-based interface looks and behaves accordingly — but the content itself remains sound.",
+    "tags": [
+      "archive",
+      "free-course"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "lexigram",
+    "name": "Lexigram",
+    "url": "https://www.lexigram.gr/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "writing"
+    ],
+    "price": "freemium",
+    "pitch": "Inflection dictionary for Greek: every form of every word, plus synonyms.",
+    "notes": "Lexigram's inflectional dictionary covers tens of thousands of lemmas and millions of inflected forms, and will conjugate a verb through tense and mood or decline a noun and adjective for you — exactly the lookup Greek learners need most, given how much of the grammar sits in endings. A synonyms-and-definitions dictionary sits alongside it. The interface is in Greek, aimed largely at Greek schoolchildren, and some sections push you toward an account.",
+    "tags": [
+      "inflection",
+      "conjugation"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "neurolingo-lexiscope",
+    "name": "Neurolingo Λεξισκόπιο",
+    "url": "https://www.neurolingo.gr/online_tools/lexiscope.htm",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Paste any Greek word form and get its lemma and full morphological analysis.",
+    "notes": "A free morphological analyser: give it an inflected form you met in a text and it tells you the dictionary headword and the grammatical analysis — the fastest way out of the common beginner problem of not knowing which word to look up. Useful for reading authentic Greek where endings obscure the stem. It is a single-purpose tool with a spartan, Greek-only interface, and it analyses rather than translates.",
+    "tags": [
+      "morphology"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "cooljugator-greek",
+    "name": "Cooljugator — Greek",
+    "url": "https://cooljugator.com/gr",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Free Modern Greek verb conjugator with English glosses for each form.",
+    "notes": "Enter a Greek verb and get the full paradigm — tenses, aspects, moods and persons — with an English gloss beside each form, which makes the aorist/imperfective distinction much easier to see than a textbook table does. Free and needs no account. It is a lookup tool only: it will not explain why Greek splits aspect the way it does, so pair it with a grammar when the pattern rather than the form is what's confusing you.",
+    "tags": [
+      "conjugation"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "learn-greek-naturally",
+    "name": "Ελληνικά, Φυσικά! (Learn Greek Naturally)",
+    "url": "https://www.youtube.com/@LearnGreekNaturally",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Story-based comprehensible input in Greek, told slowly with visual support.",
+    "notes": "A comprehensible-input channel that teaches through short stories in Greek — a character goes to the market, has a difficult conversation — repeated and paraphrased so that meaning comes from context rather than translation. This is the closest Modern Greek has to the story-based input channels that exist for Spanish. Free, though uploads come in seasons and the most recent run ended in mid-2026, so treat it as a strong archive rather than a weekly habit.",
+    "tags": [
+      "comprehensible-input",
+      "stories"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "greek-lessons-online",
+    "name": "Greek Lessons Online",
+    "url": "https://www.youtube.com/@greeklessonsonlinevideos",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Numbered B1 and B2 lessons — the level most free Greek channels skip.",
+    "notes": "A teacher working through explicitly level-tagged lesson series (B1 lesson 11 on family and relationships, B2 lesson 4 on the συν- prefix), which makes this one of the few free channels you can follow sequentially at upper-intermediate. Still publishing in August 2026. Uploads are irregular — sometimes months apart — and the presentation is plain, but the level targeting is unusually honest and useful.",
+    "tags": [
+      "structured-course"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "learn-greek-with-katerina",
+    "name": "Learn Greek with Katerina",
+    "url": "https://www.youtube.com/@learngreekwithkaterina",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Focused grammar explainers on the verbs and prepositions learners get wrong.",
+    "notes": "Katerina publishes weekly, mixing longer explainers (B2 prepositions in twenty minutes) with short 'don't conjugate this verb wrong again' clips on high-frequency irregulars like λέω and κάθομαι. The targeting is good: she picks the specific mistakes learners repeat rather than covering grammar in textbook order. Free on YouTube, with paid lessons advertised. The shorts-heavy format means the archive is fragmented rather than sequential.",
+    "tags": [
+      "grammar"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/5zvGyjTnyAJGvqeHfpsjmB"
+      }
+    ],
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "simple-greek-with-reveka",
+    "name": "Simple Greek with Reveka",
+    "url": "https://www.youtube.com/@SimpleGreekLessons",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Slow spoken Greek and beginner stories, including listening with no subtitles.",
+    "notes": "Reveka does slow, clearly enunciated Greek for people starting from zero — short stories, vocabulary challenges, and 'listen to slow Greek' conversations deliberately published without subtitles so you have to work at comprehension. Active through August 2026. It is a small channel with a mix of full videos and shorts and no fixed curriculum, so use it as listening practice alongside a structured course rather than in place of one.",
+    "tags": [
+      "comprehensible-input",
+      "slow-speech"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "my-greek-teacher",
+    "name": "My Greek Teacher (Efi Asvesti)",
+    "url": "https://www.mygreekteacher.com/",
+    "types": [
+      "tutoring",
+      "podcast"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Online classes with a Greek teacher, plus a free slow-Greek podcast archive.",
+    "notes": "Efi Asvesti teaches adults online with a deliberately low-pressure method — vocabulary-first, minimal homework, writing added only at advanced level — and publishes a free 'slow Greek' podcast that reached around 75 episodes by early 2026, together with free articles and a small library. The free podcast alone is worth subscribing to for graded listening. The classes are paid and pricing is not published, so you have to enquire; it is a single teacher, so availability is limited.",
+    "tags": [
+      "slow-speech"
+    ],
+    "popularity": 2,
+    "methods": [
+      "conversation-practice",
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "ellinopoula",
+    "name": "Ellinopoula",
+    "url": "https://www.ellinopoula.com/",
+    "types": [
+      "app",
+      "course"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "vocabulary",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "Game-based Greek e-learning for children, built around mythology and culture.",
+    "notes": "An e-learning platform aimed at children of the Greek diaspora: interactive games, animated videos, quizzes and speech-recognition pronunciation practice, sequenced by age and level and aligned with Greek Ministry of Education material, with optional live classes and parent progress tracking. It is the strongest option if you are raising children with Greek rather than studying it yourself. Subscription-based with a free trial; adult learners will find the framing and pace unsuitable.",
+    "tags": [
+      "for-kids",
+      "diaspora"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCorbM5Z-P-YQarffxWP233Q"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=ellinopoula.com.ellinopoulapremium"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "gamified"
+    ]
+  },
+  {
+    "id": "sbs-greek",
+    "name": "SBS Greek",
+    "url": "https://www.sbs.com.au/language/greek",
+    "types": [
+      "media",
+      "podcast"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Daily Greek-language news bulletins from Australia's public broadcaster, free.",
+    "notes": "SBS broadcasts news in Greek for Australia's Greek community and publishes it as short daily podcast episodes plus articles — clearly-read, standard Greek in bite-sized items, which makes it far more approachable than a full Greek news broadcast. Completely free with no account, and available in any podcast app. There is no learner scaffolding and a good share of the coverage is Australian domestic news, which may not be what you want to be reading about.",
+    "tags": [
+      "news"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/sbs-greek-sbs-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC/id161304336"
+      },
+      {
+        "label": "RSS",
+        "url": "https://sbs-ondemand.streamguys1.com/sbs-greek/"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/au/app/sbs-audio/id470808084"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.thisisaim.yourlanguage"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/0jg3AfXsIV2WBvw4oGgFFW"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "ertflix",
+    "name": "ERTFLIX",
+    "url": "https://www.ertflix.gr/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Greek public broadcasting's free streaming catalogue of series, film and documentary.",
+    "notes": "ERT's streaming platform carries its drama series, documentaries, children's programming and archive material at no cost, which makes it the obvious source of long-form native Greek once subtitled learner content stops stretching you. Registration is free. Two caveats: availability of individual titles varies by country, so check what actually plays from where you are, and Greek subtitles are inconsistent across the catalogue — plan on listening without a safety net.",
+    "tags": [
+      "tv",
+      "immersion"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "greek-comprehensive-grammar",
+    "name": "Greek: A Comprehensive Grammar of the Modern Language",
+    "url": "https://www.routledge.com/Greek-A-Comprehensive-Grammar-of-the-Modern-Language/Holton-Mackridge-Philippaki-Warburton-Spyropoulos/p/book/9780415592024",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Holton, Mackridge and Philippaki-Warburton's standard reference grammar of Modern Greek.",
+    "notes": "The definitive English-language description of Modern Greek, covering the whole verb system, clitics, mood and aspect, and register variation, with copious real examples. It is what you consult when a course book's rule doesn't account for what you're reading. Strictly a reference — organised by structure, not sequenced for study — and priced accordingly. Most learners should start with the same authors' shorter 'Greek: An Essential Grammar' and only graduate to this one.",
+    "tags": [
+      "reference-grammar"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "greek-essential-grammar",
+    "name": "Greek: An Essential Grammar",
+    "url": "https://www.routledge.com/Greek-An-Essential-Grammar/Holton-Mackridge-Philippaki-Warburton-Georgiafentis/p/book/9781138930681",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "The compact companion grammar — short chapters, clear rules, worth having early.",
+    "notes": "The same team's condensed grammar, written for learners rather than linguists: short chapters, plain explanations and the essential paradigms, without the exhaustive coverage that makes the comprehensive volume slow to search. This is the reference to buy alongside whatever course you use, from around A2 onward. It deliberately omits edge cases and gives no exercises, so it complements a course rather than replacing one.",
+    "tags": [
+      "reference-grammar"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "reddit-greek",
+    "name": "r/GREEK",
+    "url": "https://www.reddit.com/r/GREEK/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "greek"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The main English-language forum for Modern Greek learners' questions.",
+    "notes": "The default place to check a translation, ask why a verb takes the form it does, or get resource recommendations vetted by people who have actually used them, with native speakers answering regularly. Especially handy for the register questions — καθαρεύουσα leftovers, slang, formality — that grammars handle badly. Threads sometimes drift into Ancient Greek and etymology, and reply quality varies with who happens to be around.",
+    "tags": [
+      "q-and-a"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

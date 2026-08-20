@@ -1,0 +1,1185 @@
+[
+  {
+    "id": "tofugu-kana-guides",
+    "name": "Tofugu's Learn Hiragana & Katakana Guides",
+    "url": "https://www.tofugu.com/japanese/learn-hiragana/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "reading",
+      "writing",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Free mnemonic guides that get you reading hiragana and katakana in a weekend.",
+    "notes": "Two long-form articles with a mnemonic and a practice sheet for every character, plus a spaced-out study schedule you can follow in a couple of days. This is the standard first step almost every serious Japanese learner is pointed at, and it costs nothing. Do these before touching any app — kana first is not optional, and romaji-based courses will slow you down later.",
+    "tags": [
+      "kana",
+      "writing-system"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "tofugu",
+    "name": "Tofugu",
+    "url": "https://www.tofugu.com/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Deep, well-researched articles on Japanese grammar, kanji and study methods.",
+    "notes": "Free blog and grammar reference from the team behind WaniKani, covering everything from particle nuance to honest reviews of other learning resources. Its resource-review database is genuinely useful when you are deciding what to buy. It is reference reading rather than a curriculum, so it works best alongside a structured course.",
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "wanikani",
+    "name": "WaniKani",
+    "url": "https://www.wanikani.com/",
+    "types": [
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Mnemonic-driven SRS that takes you through 2,000 kanji and 6,000 words in order.",
+    "notes": "Radicals build into kanji which build into vocabulary, all on a spaced-repetition schedule you cannot rush — that enforced pacing is exactly why it works for people who bounce off self-managed Anki decks. Levels 1–3 are free; after that it is $9/month, $89/year or $299 lifetime (lifetime goes on sale most Decembers). Downsides: you cannot skip kanji you already know, the pace is fixed at roughly 1.5 years to finish, and it teaches readings rather than how to use the words in sentences.",
+    "tags": [
+      "kanji",
+      "srs"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/tsurukame-for-wanikani/id1367114761"
+      }
+    ],
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "bunpro",
+    "name": "Bunpro",
+    "url": "https://bunpro.jp/",
+    "types": [
+      "website",
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "SRS for grammar points, N5 to N1, with links out to the best explanation of each.",
+    "notes": "Fills the gap Anki and WaniKani leave: it drills grammar in cloze sentences and, for every point, links to the relevant page in Tae Kim, Genki, Imabi and others so you can read a real explanation before reviewing. There is a permanent free tier plus a 30-day full trial; Premium is $5/month or $150 lifetime, which is cheap for what it covers. It assumes you already have kana and some vocabulary, and it is a review tool rather than a first-time teacher.",
+    "tags": [
+      "grammar",
+      "srs",
+      "jlpt"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/bunpro-japanese-srs/id1615337616"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=bunpro.jp.bunpro_srs"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@bunpro"
+      }
+    ],
+    "methods": [
+      "flashcards",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "tae-kim-guide",
+    "name": "Tae Kim's Guide to Learning Japanese",
+    "url": "https://guidetojapanese.org/learn/",
+    "types": [
+      "website",
+      "course",
+      "book"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The classic free grammar guide that teaches Japanese from a Japanese perspective.",
+    "notes": "Explains the language on its own terms — the copula, the real function of は versus が, plain form before polite form — instead of forcing it into English grammar categories. Completely free online, and available as a cheap ebook or app. It is dense and dry, uses casual forms early (which surprises people used to textbooks), and the last update was years ago, but as a grammar reference it has aged well.",
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "imabi",
+    "name": "Imabi",
+    "url": "https://imabi.org/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Encyclopedic free grammar reference covering points no textbook goes near.",
+    "notes": "Hundreds of lessons that go far deeper than any commercial course, including Classical Japanese, dialects and rare constructions, all free. This is where you go when you hit a grammar point nothing else explains properly. Absolutely not a beginner's first course — the writing is academic and the sheer volume is discouraging if you start at lesson one.",
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "genki-textbook",
+    "name": "Genki (3rd Edition)",
+    "url": "https://genki3.japantimes.co.jp/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "writing",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "The standard university beginner textbook; two volumes take you to roughly N4.",
+    "notes": "Balanced coverage of grammar, kanji, reading, listening and production, with a workbook and audio, which is why most university courses use it. Buying both volumes plus workbooks runs to roughly $150, and it really wants a teacher or study partner for the pair-work exercises. If you are self-studying, pair it with the free ToKini Andy video walkthroughs, which are keyed chapter by chapter.",
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "tobira-gateway",
+    "name": "Tobira: Gateway to Advanced Japanese",
+    "url": "https://tobiraweb.9640.jp/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "reading",
+      "grammar",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "The usual next textbook after Genki, built around content-based reading.",
+    "notes": "Chapters are organised around topics — geography, history, pop culture, technology — with substantial Japanese-language readings rather than the drill-a-grammar-point structure of beginner books. The official site hosts free audio, vocabulary lists and supplementary material. It is a genuine step up in difficulty and expects you to already know Genki-level grammar and around 300 kanji; many learners find the jump from Genki 2 uncomfortable.",
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "jisho",
+    "name": "Jisho.org",
+    "url": "https://jisho.org/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The default English–Japanese dictionary: search by kanji, radical, reading or meaning.",
+    "notes": "Built on the free JMdict/KANJIDIC data, it handles wildcard searches, deconjugates verbs, draws kanji by radical or handwriting, and tags words by JLPT level and commonness. Free with no account required. The example sentences come from Tatoeba and vary in quality, and for nuance between near-synonyms a monolingual dictionary will serve you better once you can read one.",
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "takoboto",
+    "name": "Takoboto",
+    "url": "https://takoboto.jp/",
+    "types": [
+      "dictionary",
+      "app"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free offline Japanese dictionary for Android and Windows, with Anki export.",
+    "notes": "Works entirely offline, shows conjugation tables and example sentences, supports handwriting input, and can export selected words straight to Anki — which makes it the practical companion to a paper textbook or a book you are reading on the train. Completely free with no ads. Android and Windows only; iOS users should use Shirabe Jisho instead.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/japanese-dictionary-takoboto/id6743079369"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=jp.takoboto"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "yomitan",
+    "name": "Yomitan",
+    "url": "https://yomitan.wiki/",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Hover-over pop-up dictionary for reading Japanese web pages, with one-click Anki cards.",
+    "notes": "The maintained successor to Yomichan, which was discontinued in 2023 — Yomitan is the version to install now, and it is actively developed, free and open source (Chrome, Firefox, Edge, and Android via Kiwi-style browsers). Hover any word to get readings, definitions, pitch accent and audio, then send the whole sentence to Anki as a mining card. Setup is fiddly: you must download and import dictionary files yourself, and the Anki integration needs the AnkiConnect add-on.",
+    "tags": [
+      "mining",
+      "browser-extension"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "mokuro",
+    "name": "Mokuro",
+    "url": "https://github.com/kha-white/mokuro",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "OCRs manga into selectable text so pop-up dictionaries work on the speech bubbles.",
+    "notes": "Runs OCR over manga pages and produces an HTML reader where the text is real selectable text overlaid on the artwork, which means Yomitan works on it. That turns manga from a hard-to-look-things-up format into one of the most accessible ways to read Japanese. Free and open source, but it is a command-line Python tool that you point at files you already own, so expect some setup and no content included.",
+    "tags": [
+      "manga",
+      "ocr"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "jpdb",
+    "name": "jpdb.io",
+    "url": "https://jpdb.io/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Tells you the difficulty and exact vocabulary of specific anime, games and novels.",
+    "notes": "Its killer feature is per-media word lists: look up a specific show or novel, see how many words it uses and what percentage you already know, then pre-study that deck before you start. The built-in SRS is fast and keyboard-driven. It is free but rough around the edges — sparse documentation, an opinionated review algorithm, and a small one-person-project feel — and it assumes you have already got past the beginner stage.",
+    "tags": [
+      "mining",
+      "immersion"
+    ],
+    "popularity": 2,
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "kaishi-15k",
+    "name": "Kaishi 1.5k Anki Deck",
+    "url": "https://github.com/donkuri/Kaishi",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "The modern starter Anki deck: 1,500 core words with audio and clean sentence cards.",
+    "notes": "Built specifically to replace the ageing Core 2k/6k decks, with hand-checked sentences, native audio, pitch-accent marking and no broken formatting. Free on GitHub. It is deliberately small — the point is to get you to the level where you can start mining your own words from real material within a few months, not to be your whole vocabulary plan.",
+    "tags": [
+      "anki-deck",
+      "srs"
+    ],
+    "popularity": 2,
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "ringotan",
+    "name": "Ringotan",
+    "url": "https://www.ringotan.com/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "writing",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "SRS app that drills kanji handwriting stroke by stroke, on your phone.",
+    "notes": "Covers kana plus 3,500 kanji including all jōyō and jinmeiyō characters, checking your stroke order as you draw. It can sync its order to WaniKani, RTK or JLPT levels so it slots into whatever you already use. Currently free on iOS and Android (the developer has said early users keep the full version free permanently). Handwriting is a real time cost, so it only makes sense if producing kanji by hand actually matters to you.",
+    "tags": [
+      "kanji",
+      "handwriting"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/ringotan/id1633001064"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.Ringotan"
+      }
+    ],
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "kanji-study-android",
+    "name": "Kanji Study (Chase Colburn)",
+    "url": "https://www.kanjistudyapp.com/",
+    "types": [
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "writing",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "The most complete Android kanji app: custom sets, writing practice, offline.",
+    "notes": "Lets you build study sets by JLPT level, grade, frequency or your own list, with flashcards, multiple-choice quizzes, writing challenges and a built-in dictionary — all offline. The free version covers the first few JLPT levels; a single in-app purchase (around $12) unlocks everything permanently, with no subscription. Android only, and the sheer number of options takes a while to navigate.",
+    "tags": [
+      "kanji",
+      "android"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy"
+      }
+    ],
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "marumori",
+    "name": "MaruMori",
+    "url": "https://marumori.io/",
+    "types": [
+      "website",
+      "app",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "All-in-one gamified path covering grammar, kanji, vocabulary and reading in one SRS.",
+    "notes": "Aims to be WaniKani plus Bunpro plus graded reading in a single structured route from pre-N5 to N1, with human-written (explicitly not AI-generated) grammar lessons. $8.99/month, $83.88/year or $349.99 lifetime, with a 14-day trial and a free kana trainer, dictionary and grammar library. N2 content was still being completed as of 2026 and N1 has not started, so advanced learners will outrun it.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/marumori/id6642702724"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.foxlabs.marumori"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "flashcards",
+      "gamified"
+    ]
+  },
+  {
+    "id": "renshuu",
+    "name": "Renshuu",
+    "url": "https://www.renshuu.org/",
+    "types": [
+      "website",
+      "app"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "Remarkably generous free study platform with schedules built around your textbook.",
+    "notes": "One of the few sites where the free tier is a complete study system rather than a demo: kanji, vocabulary, grammar and listening schedules, quizzes in several formats, and preset lists matching Genki, Tobira and the JLPT levels. Pro adds extras but is not required. The interface is busy and old-fashioned, and the friendly-mascot presentation is not to everyone's taste, but for a free all-rounder it is hard to beat.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/renshuu-japanese-learning/id1542730063"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.renshuu.renshuu_org"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "flashcards"
+    ]
+  },
+  {
+    "id": "satori-reader",
+    "name": "Satori Reader",
+    "url": "https://www.satorireader.com/",
+    "types": [
+      "website",
+      "app"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "Graded Japanese stories with native audio and a note on every tricky sentence.",
+    "notes": "Over 1,600 episodes of original serialised stories and articles, each with human-recorded audio, per-word definitions in context, and editor notes explaining why a sentence works the way it does — that last part is what separates it from generic reading apps. You can dial furigana down as you improve, and it syncs with your WaniKani level so known kanji lose their furigana automatically. Some content is free; full access is $9/month or $89/year, and it is aimed squarely at the awkward post-Genki stage rather than absolute beginners.",
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/satori-reader/id1382950847"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.braksoftware.SatoriReader"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "tadoku-free-books",
+    "name": "Tadoku Free Graded Readers",
+    "url": "https://tadoku.org/japanese/free-books/",
+    "types": [
+      "book",
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Free downloadable graded readers, starting from a handful of words per page.",
+    "notes": "Dozens of illustrated PDF booklets sorted into levels, from near-zero Japanese up to comfortable intermediate reading, published free by the tadoku (extensive reading) organisation. Perfect for the phase where textbook dialogues are boring but native material is still impossible. The catalogue is small compared to the paid printed sets, and the stories are simple by design.",
+    "popularity": 2,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "nhk-news-web-easy",
+    "name": "NHK News Web Easy",
+    "url": "https://news.web.nhk/news/easy/",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Real NHK news rewritten in simple Japanese, with furigana and slow audio.",
+    "notes": "Daily news stories rewritten for children and non-native residents, with furigana on every kanji, definitions on hover, and a slow narrated recording of each article. Free, updated every weekday, and the single best bridge from textbook Japanese to real news. Note that NHK moved the site to news.web.nhk and renamed it NHKやさしいことばニュース; old www3.nhk.or.jp links redirect. Articles are short and the vocabulary skews toward politics and disasters.",
+    "tags": [
+      "news",
+      "graded"
+    ],
+    "popularity": 4,
+    "methods": [
+      "graded-reading",
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "natural-japanese-nij",
+    "name": "Natural Japanese (formerly Comprehensible Japanese)",
+    "url": "https://nijapanese.com/",
+    "types": [
+      "media",
+      "website",
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Graded comprehensible-input video, from complete beginner up, all in Japanese.",
+    "notes": "Yuki speaks slowly in Japanese only, using drawings, gestures and props so you understand from day one without translation — the closest thing Japanese has to Dreaming Spanish. Rebranded from Comprehensible Japanese to Natural Japanese (NIJ) and moved to nijapanese.com; cijapanese.com now redirects there. Most videos are free on YouTube; the site adds a level-sorted library, transcripts and watch-time tracking behind a subscription.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "nihongo-no-jikan",
+    "name": "にほんごのじかん / Japanese Comprehensible Input",
+    "url": "https://nihongo-jikan.com/",
+    "types": [
+      "youtube",
+      "media"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Slow, all-Japanese videos on folktales, cooking, gameplay and daily life.",
+    "notes": "A second strong comprehensible-input channel, running since 2021, covering complete beginner through advanced with a wider range of formats than most — folktales, vlogs, quizzes, let's-plays. The website is a free index that lets you filter by level, topic and style, read transcripts and download audio. Content is free; there is no structured curriculum, so you pick your own path through it.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@nihongo-no-jikan"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "cure-dolly",
+    "name": "Organic Japanese with Cure Dolly",
+    "url": "https://www.youtube.com/@organicjapanesewithcuredol49",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "The zero-copula, 'every sentence has a が' model of Japanese grammar, free on YouTube.",
+    "notes": "An archived but complete video course arguing that standard textbooks misrepresent Japanese by mapping it onto English, and rebuilding the grammar around an invisible が subject in every sentence. For a lot of learners this is the explanation that finally makes は versus が, passives and causatives click. Cure Dolly died in 2021, so nothing new is coming and the Patreon is gone; the channel and an Internet Archive mirror remain up. Be warned: the synthetic robot voice and avatar put many people off, and subtitles are essential.",
+    "tags": [
+      "grammar",
+      "archive"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "tokini-andy",
+    "name": "ToKini Andy",
+    "url": "https://www.youtube.com/@ToKiniAndy",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Chapter-by-chapter video walkthroughs of Genki and Tobira, free on YouTube.",
+    "notes": "If you are self-studying Genki or Tobira without a teacher, these lesson-by-lesson videos are the closest free substitute for a classroom explanation. Andy also covers study strategy and JLPT prep honestly, without hype. The YouTube content is free; a paid membership adds structured courses and practice material. It is tied to specific textbooks, so it is less useful if you are not using them.",
+    "tags": [
+      "genki",
+      "tobira"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "japanese-ammo-misa",
+    "name": "Japanese Ammo with Misa",
+    "url": "https://www.youtube.com/@JapaneseAmmowithMisa",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Very thorough native-speaker grammar lessons, plus how people actually talk.",
+    "notes": "Misa goes into far more detail than a textbook on individual grammar points and is unusually good at explaining the casual, contracted and slangy forms that textbooks skip entirely. Videos are long — often 30 to 60 minutes on a single point — which is a feature if you want depth and a problem if you want a quick answer. All free on YouTube.",
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "game-gengo",
+    "name": "Game Gengo",
+    "url": "https://www.youtube.com/@GameGengo",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Teaches grammar and vocabulary entirely through screenshots from Japanese video games.",
+    "notes": "Every grammar point and word is illustrated with real in-game text from titles you probably recognise, which makes it stick and shows you the language as it is actually written. Structured roughly along JLPT levels so you can follow it as a course. Free on YouTube. Obviously best if you play games in Japanese; the examples skew toward RPG and fantasy register.",
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "onomappu",
+    "name": "Onomappu",
+    "url": "https://www.youtube.com/@Onomappu",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Street interviews and onomatopoeia lessons in natural-speed Japanese with subtitles.",
+    "notes": "Ken interviews people on the street and explains slang and onomatopoeia, all in Japanese with dual Japanese/English subtitles, so you get unscripted native speech with a safety net. Excellent for the stage where structured lessons are too slow but raw TV is still too fast. Free. There is no curriculum here — it is listening practice, not a course.",
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "miku-real-japanese",
+    "name": "Miku Real Japanese",
+    "url": "https://www.youtube.com/@MikuRealJapanese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Natural spoken Japanese and nuance explained by a native teacher, mostly in Japanese.",
+    "notes": "Focuses on what native speakers actually say versus what textbooks teach — nuance between similar expressions, casual contractions, and register. Most videos are largely in Japanese with subtitles, which makes them good listening practice in their own right. Free on YouTube; Miku sells separate courses and a podcast membership. Assumes solid beginner grammar already.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6Nl8RDfPxsk4h4bfWe76Kg"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/jp/podcast/the-miku-real-japanese-podcast/id1560531490"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "speak-japanese-naturally",
+    "name": "Speak Japanese Naturally",
+    "url": "https://www.youtube.com/@SpeakJapaneseNaturally",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Everyday-life vlogs in simple Japanese with Japanese and English subtitles.",
+    "notes": "Kaname films ordinary Japanese life — convenience stores, trains, cooking, seasonal customs — speaking clearly and simply with subtitles in both languages. It gives you culture and vocabulary in the same package, which is rare. Entirely free. Not a grammar course, so treat it as listening input rather than study material.",
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "dogen",
+    "name": "Dogen (Japanese Phonetics)",
+    "url": "https://www.youtube.com/@Dogen",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "pronunciation",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The reference course on Japanese pitch accent, hidden behind comedy sketches.",
+    "notes": "The free YouTube channel is mostly comedy skits about Japanese life, but Dogen's paid phonetics series is the most systematic treatment of pitch accent and pronunciation available in English, and pitch accent is the thing almost every self-taught learner ignores until it is a hard habit to fix. The full course lives on Patreon (roughly $10/month) rather than YouTube. Only worth it once your grammar and vocabulary are solid enough that accent is your bottleneck.",
+    "tags": [
+      "pitch-accent"
+    ],
+    "popularity": 3,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "nihongo-con-teppei",
+    "name": "Nihongo con Teppei",
+    "url": "https://nihongoconteppei.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Hundreds of short all-Japanese episodes, split into beginner and intermediate feeds.",
+    "notes": "Teppei talks about everyday nothing-in-particular in slow, simplified Japanese for three to five minutes an episode, with well over a thousand episodes across separate beginner, intermediate and Z (advanced) feeds. The short format makes daily listening genuinely sustainable. Free on all podcast apps. No transcripts on the free feeds and no structure — the value is volume and consistency, not instruction.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/japanese-podcast-for-beginners-nihongo-con-teppei/id1471500012"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "japanese-with-noriko",
+    "name": "Japanese with Noriko",
+    "url": "https://www.japanesewithnoriko.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Thoughtful all-Japanese podcast on culture, work and life at natural-but-clear speed.",
+    "notes": "Noriko speaks clearly but at close to natural pace about substantive topics — working culture, living abroad, social change — which makes it a real step up from beginner slow-Japanese podcasts. The podcast itself is free; transcripts, vocabulary lists and a learner community sit behind a paid membership. Too fast for beginners; ideal for the B1 plateau.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-japanese-with-noriko/id1500470294"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/1380f800/podcast/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1lnCRxM6yMi0xz89cy7rzN"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LearnJapanesewithNoriko"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "japanesepod101",
+    "name": "JapanesePod101",
+    "url": "https://www.japanesepod101.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Enormous back catalogue of dialogue-based audio lessons across every level.",
+    "notes": "Thousands of lessons built around a short native dialogue plus line-by-line breakdown, with PDF transcripts, vocabulary lists and cultural notes at the paid tiers. The sheer volume means you can always find something at your level. Caveats worth knowing: the pricing is aggressive with constant discount emails and multiple tiers, quality varies a lot between older and newer series, and the free account is heavily limited after a trial period.",
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-japanese-japanesepod101-com-audio/id112831729"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.japanesepod101.com/wp-feed-audio.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "nihongo-no-mori",
+    "name": "日本語の森 (Nihongo no Mori)",
+    "url": "https://www.youtube.com/@nihongonomori2013",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "japanese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "grammar",
+      "listening",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "JLPT N3–N1 grammar taught entirely in Japanese by Japanese teachers.",
+    "notes": "Hundreds of free lessons working through JLPT grammar points in Japanese only, which doubles as listening practice and is the standard recommendation for N2 and N1 preparation. Free on YouTube; the company also sells structured online courses. Because it is all in Japanese with no English scaffolding, it is unusable below roughly N4 level.",
+    "tags": [
+      "jlpt"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  }
+]

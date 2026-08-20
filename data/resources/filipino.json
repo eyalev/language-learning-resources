@@ -1,0 +1,668 @@
+[
+  {
+    "id": "tagalog-com",
+    "name": "Tagalog.com",
+    "url": "https://www.tagalog.com/",
+    "types": [
+      "dictionary",
+      "website",
+      "tool",
+      "community"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "listening",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "The best Tagalog dictionary, plus a reader, video library and SRS decks in one place.",
+    "notes": "This is the hub of the Tagalog learning world: a dictionary of roughly 85,000 words with 66,000 native audio clips and 20,000 example sentences showing syllable stress and word-by-word breakdowns, alongside a text reader with click lookups, a daily-updated library of YouTube videos with transcripts, spaced-repetition decks including the well-known 2k frequency deck, and an active learner forum. If you use one Tagalog site, use this one. Much is free with an account, but the deepest dictionary and reader features sit behind a subscription, and the interface is dense rather than elegant.",
+    "tags": [
+      "tagalog"
+    ],
+    "popularity": 4,
+    "methods": [
+      "graded-reading",
+      "flashcards"
+    ]
+  },
+  {
+    "id": "filipinopod101",
+    "name": "FilipinoPod101",
+    "url": "https://www.filipinopod101.com/",
+    "types": [
+      "podcast",
+      "course",
+      "app"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The largest structured Tagalog audio course, with transcripts and vocabulary lists.",
+    "notes": "The most complete set of graded audio lessons for Tagalog, each with a transcript, breakdown and vocabulary list, and the strongest option for building listening comprehension from scratch. The free account and the YouTube channel between them cover a lot of beginner material. As with its sibling sites, navigation is cluttered, the subscription upselling is relentless, and advanced content is sparse — most learners outgrow it around B1.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FilipinoPod101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-filipino-filipinopod101-com/id534444478"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.filipinopod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "talk-to-me-in-tagalog",
+    "name": "Talk to Me in Tagalog",
+    "url": "https://www.youtube.com/@TalkToMeInTagalog",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "The largest active Tagalog teaching channel — weekly grammar and phrase lessons.",
+    "notes": "With around 165,000 subscribers, nearly 800 videos and near-daily uploads through 2026, this is the busiest free Tagalog channel going. Lessons are pitched at English speakers and work steadily through verb focus, aspect markers, ligatures and the everyday phrases those rules produce. Quality varies across such a large back catalogue and there is no single ordered path, so lean on the playlists rather than the upload feed.",
+    "tags": [
+      "tagalog"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "comprehensible-tagalog-podcast",
+    "name": "Comprehensible Tagalog Podcast",
+    "url": "https://tagalogpodcast.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "300+ free episodes of graded Tagalog conversation, from slow beginner to native speed.",
+    "notes": "Edison Miguel's comprehensible-input podcast is the standout free listening resource for Tagalog: over 300 episodes of real conversation on Filipino topics, graded so that early episodes are slow and heavily scaffolded and later ones approach normal speed. It is entirely free to listen on Spotify, Apple Podcasts and YouTube, and it was still publishing weekly in August 2026. There are no transcripts on the free tier, and the site doubles as a funnel to the host's paid tutoring.",
+    "links": [
+      {
+        "label": "Apple",
+        "url": "https://podcasts.apple.com/us/podcast/comprehensible-tagalog-podcast/id1782782419"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/comprehensible-tagalog-podcast/id1782782419"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/dd20f3cc/podcast/rss"
+      }
+    ],
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "learning-tagalog",
+    "name": "Learning Tagalog (De Vos)",
+    "url": "https://www.learningtagalog.com/",
+    "types": [
+      "course",
+      "book"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "speaking",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "60-lesson course with audio for all 1,298 phrases, plus a free online grammar reference.",
+    "notes": "Frederik and Fiona De Vos built the most carefully structured self-study course for Tagalog: 60 lessons of practical spoken language, audio for every one of its 1,298 phrases including slowed versions, exercises with an answer key, and a full grammar reference, sold as an online edition, ebook or print set. The accompanying Essential Tagalog Grammar is readable free on the site and is worth bookmarking even if you never buy the course. The course itself is paid, and the presentation is plain and text-heavy compared with app-style products.",
+    "links": [
+      {
+        "label": "Free grammar",
+        "url": "https://www.learningtagalog.com/grammar/"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "tagalog-lang",
+    "name": "Tagalog Lang",
+    "url": "https://www.tagaloglang.com/",
+    "types": [
+      "website",
+      "dictionary"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Free reference site running since 2002 — phrases, grammar notes and cultural background.",
+    "notes": "One of the oldest Tagalog sites still standing, with short explanations of words, phrases, pronunciation and grammar points alongside pages on Filipino food, music, literature and idioms. Its stated aim is helping foreigners talk to ordinary Filipinos, so it covers the Taglish and slang that formal courses skip. It is a browsable reference rather than a course — there is no sequencing, and some pages have not been touched in years.",
+    "tags": [
+      "tagalog"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "diksiyonaryo-ph",
+    "name": "Diksiyonaryo.ph",
+    "url": "https://diksiyonaryo.ph/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Monolingual Filipino dictionary — definitions in Filipino, not English glosses.",
+    "notes": "A free Filipino-to-Filipino dictionary, which is the tool you want once English glosses stop being precise enough and you need to know what a word means in its own language. Working monolingually is also the fastest way to stop translating in your head. Because everything is defined in Filipino it is unusable below roughly B1, and coverage of slang and regional words is thinner than Tagalog.com's bilingual data.",
+    "tags": [
+      "monolingual"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "speak-filipino",
+    "name": "Speak Filipino",
+    "url": "https://www.youtube.com/@SpeakFilipino",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Clear, well-produced Tagalog lessons from a teacher with a large following.",
+    "notes": "Close to 100,000 subscribers for fewer than 200 videos, which tells you the hit rate is high: focused lessons on verb focus, pronouns and everyday conversation, taught in English with clean production and no padding. It is a good structured complement to a listening-heavy resource. Uploads have paused (most recent around late 2025), so treat it as a finished archive.",
+    "tags": [
+      "tagalog",
+      "archive"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "tagalog-time-with-pat",
+    "name": "Tagalog Time with Pat",
+    "url": "https://www.youtube.com/@tagalogtimepat",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "listening",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "1,100+ short Tagalog videos — one of the deepest free archives, still updated.",
+    "notes": "Pat has published well over a thousand short videos on vocabulary, phrases and grammar points, and was still posting in mid-2026, making this both a huge back catalogue and a live channel. The bite-sized format is easy to keep up with daily. The flip side of that volume is that nothing is sequenced and the depth per video is shallow, so it works as drilling and exposure rather than as your main course.",
+    "tags": [
+      "tagalog"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "comprehensible-filipino",
+    "name": "Comprehensible Filipino",
+    "url": "https://www.youtube.com/@Comprehensible_Filipino",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Filipino taught through visual comprehensible input rather than grammar rules.",
+    "notes": "A comprehensible-input channel that teaches through pictures, gestures and slowly spoken Filipino instead of explaining rules, which suits learners who bounce off grammar-first material. It was posting new videos in August 2026. The channel is very small — a few hundred subscribers and about two dozen videos — so it is a promising supplement rather than a body of work you can live in.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "learn-tagalog-with-fides",
+    "name": "Learn Tagalog with Fides",
+    "url": "https://www.youtube.com/@LearnTagalogwithFides",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Tagalog lessons subtitled in Tagalog, English and French — useful for reading along.",
+    "notes": "Fides subtitles her lessons simultaneously in Tagalog, English and French, so you can read what you are hearing and check meaning without pausing — a rare feature and a real help for building the sound-to-spelling link. Around a hundred videos cover conversation and grammar basics. The channel stopped uploading roughly two years ago, so it is a static archive, and the French track is only useful if you read French.",
+    "tags": [
+      "archive"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "go-filipino-podcast",
+    "name": "Go Filipino: Let's Learn Tagalog",
+    "url": "https://podcasts.apple.com/us/podcast/go-filipino-lets-learn-tagalog/id1454231080",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "listening",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "55-episode grammar podcast with exercises — adjectives, pronouns, root words, aspect.",
+    "notes": "Kris Andres works through Tagalog grammar topic by topic with spoken exercises you can do in the car, which makes it one of the few audio resources that actually teaches structure rather than just phrases. All 55 episodes are free. The series ended in late 2022, so nothing new is coming, and audio-only grammar drilling suits some learners much better than others.",
+    "links": [
+      {
+        "label": "Spreaker",
+        "url": "https://www.spreaker.com/podcast/go-filipino-let-s-learn-tagalog--3587556"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/go-filipino-lets-learn-tagalog/id1454231080"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.spreaker.com/show/3587556/episodes/feed"
+      }
+    ],
+    "tags": [
+      "archive"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "learn-tagalog-filipino-podcast",
+    "name": "Learn Tagalog Filipino (Oliver Villaverde)",
+    "url": "https://learntagalogfilipino.com/",
+    "types": [
+      "podcast",
+      "tutoring"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "150+ free podcast episodes on speaking confidently, with optional paid tutor calls.",
+    "notes": "Oliver Villaverde's long-running podcast focuses on getting learners speaking with native Filipinos rather than on grammar theory, and it passed 150 episodes while still publishing in 2026. The episodes are free; one-to-one voice calls with his tutors are the paid add-on. Delivery is chatty and unstructured, so it complements a systematic course rather than replacing one.",
+    "links": [
+      {
+        "label": "Apple",
+        "url": "https://podcasts.apple.com/us/podcast/learn-tagalog-filipino/id1438764478"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-tagalog-filipino/id1438764478"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/72f5e20/podcast/rss"
+      }
+    ],
+    "popularity": 2,
+    "methods": [
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "sbs-filipino",
+    "name": "SBS Filipino",
+    "url": "https://www.sbs.com.au/language/filipino",
+    "types": [
+      "media",
+      "podcast"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C1",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Daily news and interviews entirely in Filipino, from Australia's multilingual broadcaster.",
+    "notes": "SBS produces professional Filipino-language news, interviews and features for Australia's Filipino community, published free as daily audio with accompanying articles. It is proper broadcast journalism in Filipino — the natural step up once learner podcasts stop stretching you. Speech is at full native speed with the Taglish code-switching real Filipino media uses, and much of the content is Australia-focused.",
+    "tags": [
+      "news",
+      "native-content"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/sbs-filipino-sbs-sa-wikang-filipino/id161304192"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.sbs.com.au/sbs-filipino"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/3rR5lMOznzMxL9yaH8bi9c"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/au/app/sbs-audio/id470808084"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.thisisaim.yourlanguage"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "iwanttfc",
+    "name": "iWantTFC",
+    "url": "https://www.iwanttfc.com/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "ABS-CBN's streaming service: Filipino films and teleseryes, many free with ads.",
+    "notes": "The main legal way to watch Filipino movies and teleseryes outside the Philippines, with a large free ad-supported tier and English subtitles on much of the catalogue. Drama series are excellent immersion material because the same characters and situations repeat for hundreds of episodes, so comprehension compounds quickly. Expect heavy Taglish, regional accents, and a catalogue that varies by country — some titles are premium-only.",
+    "tags": [
+      "tv",
+      "immersion"
+    ],
+    "popularity": 4,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "talk-tagalog",
+    "name": "Talk Tagalog",
+    "url": "https://talktagalog.com/",
+    "types": [
+      "website",
+      "podcast"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Free long-form articles on the Tagalog grammar points that confuse English speakers.",
+    "notes": "A free blog that explains the hard parts of Tagalog properly — verb focus and affixes, the ang/ng distinction, ligatures, aspect — at more length and with better examples than most video lessons manage. It is a useful second opinion when one explanation has not clicked. The accompanying podcast stopped after ten episodes in 2020 and new articles are infrequent, so treat the site as a reference archive.",
+    "tags": [
+      "archive"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/talk-tagalog-learn-tagalog-the-natural-way/id1448370243"
+      },
+      {
+        "label": "RSS",
+        "url": "https://talktagalog.com/feed/podcast/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCSwNmy-4NJZHnJoDQUv1eRg"
+      }
+    ],
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "talk-in-filipino",
+    "name": "Talk In Filipino",
+    "url": "https://talkinfilipino.com/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "One-time-payment course of recorded dialogues in everyday spoken Filipino.",
+    "notes": "A self-study course sold for a single lifetime fee instead of a subscription, built around recorded conversations in the Filipino people actually speak rather than formal textbook Tagalog. It is one of the few complete paid alternatives to FilipinoPod101. Most of the enthusiastic reviews online come from sites affiliated with the product, and free preview material is limited, so work through the samples before paying.",
+    "tags": [
+      "colloquial-filipino"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "reddit-tagalog",
+    "name": "r/Tagalog",
+    "url": "https://www.reddit.com/r/Tagalog/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "filipino"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Learner forum where native speakers answer translation and usage questions.",
+    "notes": "The busiest English-language forum for Tagalog learners, good for checking whether a sentence sounds natural, untangling verb focus, or asking what a piece of slang from a teleserye meant. Native speakers answer quickly and are frank about when a textbook form is technically correct but nobody says it. Question quality varies, and heritage-speaker threads about family and identity make up a fair share of the posts.",
+    "tags": [
+      "forum"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

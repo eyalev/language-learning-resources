@@ -1,0 +1,325 @@
+{
+  "generated": "2026-08-20",
+  "resources": 838,
+  "languageFiles": 33,
+  "languages": 32,
+  "universalResources": 36,
+  "resourcesWithPlatformLinks": 329,
+  "platformLinks": 751,
+  "uniquePrimaryDomains": 590,
+  "byPrice": {
+    "free": 468,
+    "freemium": 234,
+    "paid": 136
+  },
+  "byType": {
+    "course": 258,
+    "website": 217,
+    "podcast": 204,
+    "youtube": 197,
+    "media": 108,
+    "book": 92,
+    "tool": 92,
+    "dictionary": 89,
+    "app": 81,
+    "community": 40,
+    "tutoring": 37
+  },
+  "byLevel": {
+    "intermediate": 731,
+    "beginner": 594,
+    "advanced": 464
+  },
+  "bySkill": {
+    "vocabulary": 624,
+    "listening": 531,
+    "grammar": 370,
+    "reading": 360,
+    "speaking": 186,
+    "writing": 170,
+    "immersion": 155,
+    "pronunciation": 123
+  },
+  "byMethod": {
+    "structured-course": 225,
+    "comprehensible-input": 182,
+    "grammar-reference": 114,
+    "authentic-media": 92,
+    "conversation-practice": 42,
+    "graded-reading": 40,
+    "pronunciation-training": 31,
+    "flashcards": 19,
+    "audio-method": 18,
+    "gamified": 6
+  },
+  "byPopularity": {
+    "1": 24,
+    "2": 349,
+    "3": 307,
+    "4": 145,
+    "5": 13
+  },
+  "byPlatformLabel": {
+    "Apple Podcasts": 178,
+    "RSS": 167,
+    "YouTube": 151,
+    "Google Play": 77,
+    "App Store": 76,
+    "Spotify": 73,
+    "Podcast": 6,
+    "Website": 4,
+    "Apple": 3,
+    "Blog": 1,
+    "English site": 1,
+    "Grammar": 1,
+    "About": 1,
+    "Spreaker": 1,
+    "Free grammar": 1,
+    "r/LearnHindi": 1,
+    "NoW2": 1,
+    "Her på berget": 1,
+    "Grammar PDF": 1,
+    "First Year Polish": 1,
+    "Ubongo Kids": 1,
+    "Episodes": 1,
+    "Patreon": 1,
+    "r2u.org.ua": 1,
+    "r/Vietnamese": 1
+  },
+  "distinctTags": 344,
+  "perLanguage": {
+    "universal": {
+      "resources": 36,
+      "free": 8,
+      "withPlatformLinks": 19,
+      "platformLinks": 42
+    },
+    "arabic": {
+      "resources": 35,
+      "free": 18,
+      "withPlatformLinks": 9,
+      "platformLinks": 21
+    },
+    "chinese": {
+      "resources": 35,
+      "free": 16,
+      "withPlatformLinks": 17,
+      "platformLinks": 40
+    },
+    "japanese": {
+      "resources": 35,
+      "free": 20,
+      "withPlatformLinks": 13,
+      "platformLinks": 25
+    },
+    "english": {
+      "resources": 34,
+      "free": 17,
+      "withPlatformLinks": 14,
+      "platformLinks": 32
+    },
+    "german": {
+      "resources": 34,
+      "free": 18,
+      "withPlatformLinks": 13,
+      "platformLinks": 27
+    },
+    "french": {
+      "resources": 31,
+      "free": 12,
+      "withPlatformLinks": 17,
+      "platformLinks": 42
+    },
+    "italian": {
+      "resources": 31,
+      "free": 12,
+      "withPlatformLinks": 13,
+      "platformLinks": 39
+    },
+    "russian": {
+      "resources": 31,
+      "free": 14,
+      "withPlatformLinks": 9,
+      "platformLinks": 25
+    },
+    "spanish": {
+      "resources": 30,
+      "free": 13,
+      "withPlatformLinks": 16,
+      "platformLinks": 42
+    },
+    "korean": {
+      "resources": 29,
+      "free": 21,
+      "withPlatformLinks": 12,
+      "platformLinks": 21
+    },
+    "hebrew": {
+      "resources": 27,
+      "free": 13,
+      "withPlatformLinks": 13,
+      "platformLinks": 23
+    },
+    "portuguese": {
+      "resources": 27,
+      "free": 8,
+      "withPlatformLinks": 14,
+      "platformLinks": 30
+    },
+    "polish": {
+      "resources": 25,
+      "free": 14,
+      "withPlatformLinks": 9,
+      "platformLinks": 23
+    },
+    "dutch": {
+      "resources": 24,
+      "free": 14,
+      "withPlatformLinks": 10,
+      "platformLinks": 21
+    },
+    "persian": {
+      "resources": 24,
+      "free": 16,
+      "withPlatformLinks": 7,
+      "platformLinks": 15
+    },
+    "ukrainian": {
+      "resources": 24,
+      "free": 18,
+      "withPlatformLinks": 9,
+      "platformLinks": 16
+    },
+    "cantonese": {
+      "resources": 23,
+      "free": 18,
+      "withPlatformLinks": 9,
+      "platformLinks": 19
+    },
+    "finnish": {
+      "resources": 23,
+      "free": 19,
+      "withPlatformLinks": 6,
+      "platformLinks": 15
+    },
+    "danish": {
+      "resources": 22,
+      "free": 17,
+      "withPlatformLinks": 6,
+      "platformLinks": 16
+    },
+    "hindi": {
+      "resources": 22,
+      "free": 13,
+      "withPlatformLinks": 7,
+      "platformLinks": 18
+    },
+    "norwegian": {
+      "resources": 22,
+      "free": 12,
+      "withPlatformLinks": 8,
+      "platformLinks": 16
+    },
+    "czech": {
+      "resources": 21,
+      "free": 16,
+      "withPlatformLinks": 8,
+      "platformLinks": 17
+    },
+    "greek": {
+      "resources": 21,
+      "free": 12,
+      "withPlatformLinks": 7,
+      "platformLinks": 21
+    },
+    "turkish": {
+      "resources": 21,
+      "free": 12,
+      "withPlatformLinks": 6,
+      "platformLinks": 13
+    },
+    "romanian": {
+      "resources": 20,
+      "free": 16,
+      "withPlatformLinks": 6,
+      "platformLinks": 13
+    },
+    "swedish": {
+      "resources": 20,
+      "free": 14,
+      "withPlatformLinks": 6,
+      "platformLinks": 17
+    },
+    "thai": {
+      "resources": 20,
+      "free": 6,
+      "withPlatformLinks": 9,
+      "platformLinks": 15
+    },
+    "vietnamese": {
+      "resources": 20,
+      "free": 10,
+      "withPlatformLinks": 11,
+      "platformLinks": 24
+    },
+    "hungarian": {
+      "resources": 19,
+      "free": 13,
+      "withPlatformLinks": 9,
+      "platformLinks": 18
+    },
+    "filipino": {
+      "resources": 18,
+      "free": 12,
+      "withPlatformLinks": 7,
+      "platformLinks": 22
+    },
+    "indonesian": {
+      "resources": 17,
+      "free": 12,
+      "withPlatformLinks": 5,
+      "platformLinks": 12
+    },
+    "swahili": {
+      "resources": 17,
+      "free": 14,
+      "withPlatformLinks": 5,
+      "platformLinks": 11
+    }
+  },
+  "languagesDeclared": 32,
+  "languageNames": {
+    "spanish": "Spanish",
+    "french": "French",
+    "german": "German",
+    "portuguese": "Portuguese",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "italian": "Italian",
+    "russian": "Russian",
+    "chinese": "Chinese (Mandarin)",
+    "arabic": "Arabic",
+    "hebrew": "Hebrew",
+    "english": "English",
+    "dutch": "Dutch",
+    "swedish": "Swedish",
+    "norwegian": "Norwegian",
+    "danish": "Danish",
+    "finnish": "Finnish",
+    "polish": "Polish",
+    "turkish": "Turkish",
+    "greek": "Greek",
+    "czech": "Czech",
+    "ukrainian": "Ukrainian",
+    "romanian": "Romanian",
+    "hungarian": "Hungarian",
+    "hindi": "Hindi",
+    "thai": "Thai",
+    "vietnamese": "Vietnamese",
+    "indonesian": "Indonesian",
+    "swahili": "Swahili",
+    "filipino": "Filipino",
+    "persian": "Persian",
+    "cantonese": "Cantonese"
+  }
+}

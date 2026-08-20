@@ -1,0 +1,899 @@
+[
+  {
+    "id": "learndutch-bart-de-pau",
+    "name": "Learn Dutch with Bart de Pau",
+    "url": "https://www.learndutch.org/",
+    "types": [
+      "course",
+      "youtube",
+      "website"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A0–B1",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "freemium",
+    "pitch": "The best-known free Dutch video curriculum: 1000 common words plus 50 grammar lessons.",
+    "notes": "Bart de Pau's free video series are the closest thing Dutch has to a canonical beginner course — '1000 most common Dutch words' for vocabulary and a 50-lesson #dutchgrammar track, all structured and cheerfully presented. The paid side is his Dutch Summer School and Winter School language camps plus small-group virtual classrooms on Zoom. The free videos genuinely stand alone; you never have to buy anything to finish the beginner path. Uploads slowed noticeably during 2026, so treat it as a finished library rather than an active channel.",
+    "tags": [
+      "free-curriculum",
+      "structured"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LearndutchOrg"
+      },
+      {
+        "label": "Grammar",
+        "url": "https://www.learndutch.org/dutch-grammar/"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "dutchies-to-be",
+    "name": "Dutchies to be — Learn Dutch with Kim",
+    "url": "https://www.youtube.com/@learndutchwithkim",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Kim teaches Dutch in Dutch, at a pace beginners can actually follow.",
+    "notes": "The strongest single Dutch teaching channel running: Kim explains grammar and everyday phrases almost entirely in Dutch, slowly and with on-screen text, so you get comprehensible input and instruction at the same time. New videos land roughly every other Friday and she was still publishing in August 2026. Free on YouTube; her site sells self-paced courses and workbooks for people who want a structured path. Best from late A1 onward — absolute beginners may want a bilingual course alongside it.",
+    "tags": [
+      "taught-in-dutch",
+      "nt2"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.learndutchwithkim.com/"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "easy-dutch-youtube",
+    "name": "Easy Dutch",
+    "url": "https://www.youtube.com/@EasyDutch",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Street interviews with real Dutch people, dual Dutch/English subtitles throughout.",
+    "notes": "Unscripted interviews at native speed, plus 'Super Easy Dutch' episodes where the hosts slow right down for beginners, all dual-subtitled so one video serves several levels. This is the fastest way to hear how Dutch is actually spoken rather than how textbooks write it. Videos are free and still weekly in 2026; membership adds interactive transcripts, vocabulary lists and exercises. The regular episodes are genuinely hard below B1 — start with the Super Easy ones.",
+    "tags": [
+      "authentic-speech",
+      "subtitles"
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "dutchly-comprehensible-input",
+    "name": "Dutchly — Dutch Comprehensible Input",
+    "url": "https://www.youtube.com/@learnwithdutchly",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Noelle narrates everyday Dutch life at graded speeds — pure comprehensible input.",
+    "notes": "A comprehensible-input channel in the Dreaming Spanish mould: Noelle talks through ordinary topics — shopping, home renovation, daily routines — in Dutch pitched at a stated level, using visuals and gesture instead of English translation. Videos are explicitly labelled complete-beginner, intermediate or int/advanced so you can pick your difficulty. Free, and publishing steadily through 2026. The library is still young (started 2025), so there is less here than for comparable Spanish or French channels.",
+    "tags": [
+      "comprehensible-input",
+      "graded"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "zeg-het-in-het-nederlands",
+    "name": "Zeg het in het Nederlands",
+    "url": "https://www.dutchidiom.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Slow, clear Dutch monologues on Dutch history and culture, 12–30 minutes each.",
+    "notes": "One of the most-recommended Dutch listening podcasts: single-host episodes entirely in Dutch, spoken deliberately slowly, on subjects like the Afsluitdijk, Urk's fishermen and Dutch wartime history. The slow delivery makes it usable well before you can handle native podcasts. Listening is free and the show reached episode 56 by 2026, though it publishes irregularly. Transcripts are sold separately in sets of ten rather than given away, which is the main catch.",
+    "tags": [
+      "slow-speech",
+      "culture",
+      "transcripts"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/zeg-het-in-het-nederlands/id1578166672"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.soundcloud.com/users/soundcloud:users:417093849/sounds.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1JKtddIRlFHl5RWMENmOib"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "een-beetje-nederlands",
+    "name": "Een Beetje Nederlands",
+    "url": "https://www.eenbeetjenederlands.nl/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Clear-spoken Dutch on culture and history with a free transcript for every episode.",
+    "notes": "Robin van der Markt narrates Dutch history, culture and current affairs in careful but natural Dutch, and — unusually — puts a free transcript with every single episode. That combination makes it the best value listening resource for learners crossing from A2 into B1. Over ninety episodes exist and it was still publishing in mid-2026. It is aimed squarely at B1/B2; below that the sentence length will outrun you even at the slower pace.",
+    "tags": [
+      "transcripts",
+      "culture",
+      "slow-speech"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/een-beetje-nederlands/id1550089820"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/48d96938/podcast/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1oLBjGwX7TcLRuFI4Gyjbe"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "nos-journaal-makkelijke-taal",
+    "name": "NOS Journaal in Makkelijke Taal",
+    "url": "https://npo.nl/start/serie/nos-journaal-in-makkelijke-taal",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The national broadcaster's daily 10-minute news bulletin in deliberately simplified Dutch.",
+    "notes": "NOS makes a proper news programme for people still learning Dutch: three stories in about ten minutes, simpler vocabulary, and a presenter who explains background calmly instead of assuming it. It airs daily at 17:00 on NPO 1 and every episode stays online at NPO Start. This is the single best free listening resource for the A2–B1 gap, because it is real news rather than learner-fiction. Some NPO Start streams are restricted outside the Netherlands.",
+    "tags": [
+      "easy-news",
+      "public-broadcaster",
+      "daily"
+    ],
+    "links": [
+      {
+        "label": "About",
+        "url": "https://over.nos.nl/onze-programmas/journaal-in-makkelijke-taal/"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "nos-jeugdjournaal",
+    "name": "NOS Jeugdjournaal",
+    "url": "https://jeugdjournaal.nl/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Daily news for Dutch 9–12 year-olds — plain vocabulary, ordinary adult speed.",
+    "notes": "The children's news bulletin explains the day's events in straightforward language with lots of visual context, and the website carries written articles alongside the video. It is a natural step up once the Journaal in Makkelijke Taal feels easy. Be aware it is not a learner product: the delivery runs at normal Dutch speed and covers more stories per episode, so it is harder than its target age suggests. Free and updated every weekday.",
+    "tags": [
+      "easy-news",
+      "public-broadcaster",
+      "daily"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/nl/app/nos-jeugdjournaal/id319038532"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=nl.nos.jeugdjournaal"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC-bbHiTZGWKbsCjpzUfrk6Q"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "heb-je-zin",
+    "name": "Heb je zin?",
+    "url": "https://www.learndutch.org/courses/heb-je-zin/",
+    "types": [
+      "media",
+      "youtube"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "A narrated Dutch comic soap with bilingual subtitles, built to bridge to real TV.",
+    "notes": "A low-key illustrated soap opera from LearnDutch.org that follows a cast through everyday Dutch life, narrated slowly and clearly with both Dutch and English subtitles. It exists to fill the gap where textbook audio is too easy but Dutch television is still impossible, and it does that job better than most graded readers. Completely free. The animation is static and the production basic — you are here for the language, not the drama.",
+    "tags": [
+      "graded",
+      "subtitles",
+      "story-based"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC2IYiaH8iDXjJHblQIYPAyw"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "dutchpod101",
+    "name": "DutchPod101",
+    "url": "https://www.dutchpod101.com/",
+    "types": [
+      "podcast",
+      "course",
+      "app"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "A huge library of bite-sized Dutch audio lessons with native-speaker dialogues.",
+    "notes": "The Dutch arm of the Innovative Language network: hundreds of short audio and video lessons, each built around a dialogue that gets broken down line by line, plus transcripts and word banks. It is strong for beginners who want listening volume and cheap at the lower tiers, running roughly $4–$47/month depending on plan. Two real caveats: the catalogue is organised chaotically for newcomers, and the progression thins out badly past upper-intermediate. Best as a supplement, not your only course.",
+    "tags": [
+      "audio-lessons",
+      "dialogues"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-dutch-dutchpod101-com/id448501269"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.dutchpod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "dutchgrammar-com",
+    "name": "Dutch Grammar (dutchgrammar.com)",
+    "url": "https://www.dutchgrammar.com/en/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "pronunciation",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "A free, thorough Dutch grammar reference with audio and exercises for every topic.",
+    "notes": "A long-running independent reference covering spelling and pronunciation, verbs, pronouns, nouns and articles, and the word-order rules that trip up every English speaker — with sound files and exercises attached to the explanations. When you need the actual rule rather than a video's summary of it, this is where to look. Free and ad-light, with a forum where questions still get answered. The site design is firmly from an earlier era of the web.",
+    "tags": [
+      "reference",
+      "word-order"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "nedbox",
+    "name": "NedBox",
+    "url": "https://www.nedbox.be/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Free Flemish TV clips and news articles wrapped in ~2,250 graded exercises.",
+    "notes": "Built by the Flemish and Dutch university language centres, NedBox turns real television fragments and newspaper articles into exercise sets — roughly 140 items and 2,250 assignments spread across A1 to B1. You pick your own level, pace and topic rather than following a fixed syllabus. Completely free. The material is Belgian Dutch, so it is the best free way to train your ear for Flemish rather than the Randstad accent most courses teach.",
+    "tags": [
+      "flemish",
+      "authentic-material",
+      "exercises"
+    ],
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "oefenen-nl",
+    "name": "Oefenen.nl",
+    "url": "https://www.oefenen.nl/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A0–A2",
+    "skills": [
+      "reading",
+      "writing",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free Dutch literacy and basic-language courses from a Dutch charitable foundation.",
+    "notes": "A free public-good platform carrying programmes like Klik & Tik, Lees en Schrijf!, Taalklas.nl and Station Nederlands, covering language alongside digital skills, money and health. It is designed for adults with limited literacy and for newcomers at the very start, which makes it gentler and more practical than academic NT2 courses. Free, run as a registered Dutch charity. The interface is Dutch-only, so complete beginners without any Dutch may need help getting started.",
+    "tags": [
+      "literacy",
+      "nt2",
+      "free-curriculum"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "woorden-org",
+    "name": "Woorden.org",
+    "url": "https://www.woorden.org/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Free ad-free Dutch monolingual dictionary with plain definitions and example sentences.",
+    "notes": "A free Dutch learner's dictionary with clearly written definitions, synonyms, pronunciation and example sentences, plus a good section on idioms and sayings. Since Van Dale withdrew its free online dictionary at the end of 2025 this has become the practical default for looking up a Dutch word in Dutch. It is ad-free and searchable by word fragments. The definitions come largely from Kernerman rather than a Dutch academic corpus, so for fine shades of meaning check the ANW too.",
+    "tags": [
+      "monolingual",
+      "free-dictionary"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "anw-woordenboek",
+    "name": "Algemeen Nederlands Woordenboek (ANW)",
+    "url": "https://anw.ivdnt.org/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The scholarly free dictionary of contemporary Dutch, corpus-based and updated daily.",
+    "notes": "The Instituut voor de Nederlandse Taal's dictionary of Dutch since 1970, built on a purpose-made corpus of over 100 million words and covering the Netherlands, Flanders, Suriname and the Caribbean. Entries carry real usage evidence, combinations and register labels — the detail you want once you are writing Dutch rather than just reading it. Free and updated daily, with no printed parent edition. It is a research dictionary, so entries are dense and coverage is still incomplete.",
+    "tags": [
+      "monolingual",
+      "corpus-based",
+      "free-dictionary"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "woordenlijst-groene-boekje",
+    "name": "Woordenlijst Nederlandse Taal (Groene Boekje)",
+    "url": "https://woordenlijst.org/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "writing",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The official Dutch spelling list — authoritative plurals, past participles and hyphens.",
+    "notes": "The Taalunie's official word list, the online edition of the Groene Boekje, giving the sanctioned spelling, plural, diminutive and verb forms for well over a hundred thousand words. This is the arbiter when you cannot decide whether a compound takes a hyphen or how a borrowed verb conjugates. Free, and shared as the standard for both the Netherlands and Flanders. It settles spelling only — it gives no definitions, so pair it with a real dictionary.",
+    "tags": [
+      "spelling",
+      "official",
+      "reference"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "van-dale-online",
+    "name": "Van Dale Online",
+    "url": "https://www.vandale.nl/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "The authoritative Dutch dictionary — now subscription-only, with a cheap NT2 tier.",
+    "notes": "Van Dale has been the reference Dutch dictionary since 1874 and remains the one Dutch editors and teachers actually cite. Note the change that catches people out: the free online dictionary was withdrawn on 10 December 2025 and everything now sits behind Van Dale Online. There is a learner-priced tier, Van Dale Online NT2, at about €4.99 a year, with the professional plan nearer €7.50 a month. Only worth paying for if you need bilingual depth or write Dutch professionally — otherwise woorden.org and the ANW cover most needs free.",
+    "tags": [
+      "authoritative",
+      "subscription",
+      "nt2"
+    ],
+    "popularity": 5,
+    "methods": []
+  },
+  {
+    "id": "nederlands-in-gang",
+    "name": "Nederlands in gang",
+    "url": "https://www.nt2.nl/nl/product/100-20506_Nederlands-in-gang-herziene-editie",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A0–A2",
+    "skills": [
+      "grammar",
+      "reading",
+      "speaking",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "The standard Dutch coursebook for educated adult learners, zero to A2.",
+    "notes": "De Boer, Van der Kamp and Pentermann's course is what most Dutch university and serious evening-class programmes put in front of educated adult beginners, taking you from nothing to a solid A2 with communicative exercises, grammar video and pronunciation support. The revised edition costs around €51.50 including a year's online licence. It is the entry point to a well-built ladder — Nederlands in actie, op niveau, naar perfectie and naar de top run on to C1. It assumes a classroom or at least a tutor; pure self-study with it is hard going.",
+    "tags": [
+      "textbook",
+      "nt2",
+      "academic"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "delftse-methode",
+    "name": "Delftse methode",
+    "url": "https://www.nt2.nl/en/delftse-methode",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A0–B2",
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Forty years old and still unusual: you prepare alone, then spend the lesson speaking.",
+    "notes": "TU Delft's method inverts the normal classroom — you do the listening and text preparation in your own time, and lesson time is reserved entirely for talking. It teaches high-frequency vocabulary inside carefully written texts rather than through grammar tables, and runs in separate strands for theoretically and practically educated learners across 0–A2, A2–B1 and B1–B2. Widely used in Dutch universities and companies. The trade-off is that it is deliberately light on explicit grammar, which frustrates learners who want rules stated up front.",
+    "tags": [
+      "textbook",
+      "nt2",
+      "speaking-first"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "the-dutch-online-academy",
+    "name": "The Dutch Online Academy",
+    "url": "https://thedutchonlineacademy.com/",
+    "types": [
+      "website",
+      "course",
+      "app"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Free Dutch grammar explanations and exercises, with paid structured courses on top.",
+    "notes": "A tidy, modern site whose grammar pages — clear explanations with exercises attached — are free and among the easiest to read online. It adds flashcard decks, a vocabulary guessing game and a progress dashboard for registered users. Paid self-paced courses and e-books are the business model, but the free grammar section is genuinely useful on its own. Coverage is broad rather than deep, so it complements a proper coursebook rather than replacing one.",
+    "tags": [
+      "grammar",
+      "exercises"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference",
+      "structured-course"
+    ]
+  },
+  {
+    "id": "wablieft",
+    "name": "Wablieft",
+    "url": "https://nieuws.wablieft.be/",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Belgium's easy-language newspaper — real news written in plain, short Dutch.",
+    "notes": "A Flemish easy-language newspaper written for adults who find standard press Dutch hard, whether they are learners, low-literate readers or older people. Short sentences and everyday vocabulary, but real reporting rather than simplified filler. Articles are readable free on the news site; the printed weekly and school packs are subscription products. Because it is Flemish it also gives you Belgian spelling and word choice, which differs from Netherlands Dutch in small but noticeable ways.",
+    "tags": [
+      "easy-news",
+      "flemish",
+      "reading-practice"
+    ],
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "vrt-nws",
+    "name": "VRT NWS",
+    "url": "https://www.vrt.be/vrtnws/nl/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "listening",
+      "reading",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Flanders' public broadcaster — the main free source of standard Belgian Dutch.",
+    "notes": "VRT's news service is the reference register for spoken Flemish: clearly articulated standard Belgian Dutch across daily television bulletins, radio and a large free article archive. Most Dutch courses train you exclusively on Netherlands Dutch, so this is how you stop being thrown by Flemish vowels and vocabulary. Free online. It is native-targeted news at full speed, so it belongs at B1 and above — start with Wablieft if that is still too fast.",
+    "tags": [
+      "flemish",
+      "authentic-speech",
+      "news"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/vrt-nws/id952769219"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC59gT3bFTFNSqafRcluDIsQ"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "universiteit-van-nederland",
+    "name": "Universiteit van Nederland",
+    "url": "https://www.universiteitvannederland.nl/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Free mini-lectures by leading Dutch academics — TED talks in academic Dutch.",
+    "notes": "Dutch professors give short, well-produced lectures on sleep science, neurology, technology, history and law, released free as both video and podcast. For advanced learners it is the natural next step after news: structured argument, abstract vocabulary and a single clear speaker rather than crosstalk. Completely free, with subtitles available on the video versions. It is made for Dutch native speakers, so specialist terminology comes without explanation.",
+    "tags": [
+      "academic",
+      "advanced-listening",
+      "authentic-speech"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/de-universiteit-van-nederland-podcast/id1385505692"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.omnycontent.com/d/playlist/61ee9ca4-a1b2-4660-9651-b2b70035edf5/e3cbd078-9414-4691-b0f1-b2fe0110b4c7/f2f192d9-787a-4383-8c1a-b2fe0110b4d3/podcast.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/0z2ydI7p9BA6wxFiq8U0lF"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "inburgeren-nl",
+    "name": "Inburgeren.nl",
+    "url": "https://www.inburgeren.nl/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "dutch"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "listening",
+      "speaking",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Official information and practice material for the Dutch civic-integration exams.",
+    "notes": "DUO's official site for the inburgering and NT2 state examinations: what each exam part contains, which level it is set at, how to register, and free practice exams for the reading, listening, speaking and writing components. If your Dutch has a legal deadline attached, this is the authoritative source rather than a school's summary of it. Free. It is exam administration, not a course — use it to calibrate and rehearse, and learn the language elsewhere.",
+    "tags": [
+      "exam-prep",
+      "official",
+      "nt2"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

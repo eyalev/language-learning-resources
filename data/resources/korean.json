@@ -1,0 +1,955 @@
+[
+  {
+    "id": "ryan-estrada-hangul",
+    "name": "Learn to Read Korean in 15 Minutes",
+    "url": "https://ryanestrada.com/learntoreadkoreanin15minutes/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "A one-page comic that teaches the Hangul alphabet through visual mnemonics.",
+    "notes": "Ryan Estrada's famous free comic maps each Hangul letter to a picture that looks like its sound, and most people really can sound out Korean words by the end of it. It is the fastest possible on-ramp and costs nothing. It teaches shapes and sounds only — it will not give you correct pronunciation of the trickier consonants or any of the sound-change rules, so follow it with a proper Hangul course.",
+    "tags": [
+      "hangul",
+      "writing-system"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "talk-to-me-in-korean",
+    "name": "Talk To Me In Korean (TTMIK)",
+    "url": "https://talktomeinkorean.com/",
+    "types": [
+      "course",
+      "website",
+      "podcast",
+      "book"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "listening",
+      "speaking",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The flagship Korean learning brand: level 1–10 grammar course, books and audio.",
+    "notes": "TTMIK's ten-level curriculum is the most widely recommended structured path in Korean self-study, taught conversationally by native speakers with free audio lessons and paid PDFs, workbooks and printed books. The lessons are friendly and short, which makes them easy to keep up with, and the grammar sequencing is genuinely well thought out. The site has moved most content behind course subscriptions over the years, so less is free than long-time learners remember, and the early levels are light on practice — pair them with a workbook or a tutor.",
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/talk-to-me-in-korean/id351065142"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.libsyn.com/shows/18454/destinations/12619.xml"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "ttmik-iyagi",
+    "name": "Iyagi (TTMIK)",
+    "url": "https://podcasts.apple.com/us/podcast/iyagi-natural-korean-conversations-for-learners/id1313678234",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Unscripted 100% Korean conversations between two native speakers, on everyday topics.",
+    "notes": "The listening series TTMIK is best known for: two hosts chat naturally in Korean about a single topic for a few minutes, with no English at all. It is the standard bridge between graded lessons and real conversation. Free on Apple Podcasts, Spotify and SoundCloud; transcripts and translations are sold separately by TTMIK. There is no beginner ramp — if you cannot follow at natural speed yet, start with TTMIK's slower series first.",
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "how-to-study-korean",
+    "name": "How to Study Korean",
+    "url": "https://www.howtostudykorean.com/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "A complete free Korean course, from Hangul to advanced grammar, in written lessons.",
+    "notes": "Unit 0 teaches Hangul and the units after it run all the way to advanced grammar, with thousands of example sentences, audio recordings and vocabulary lists — all free, with no account required. The explanations are unusually thorough and are the go-to reference when TTMIK's short lessons leave you unsatisfied. The site design is dated, the lessons are walls of text with no gamification, and the sheer length means you need real discipline to work through it.",
+    "popularity": 3,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCWwkebe58DeuZw-Lf1QRC7g"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "king-sejong-institute-nuri",
+    "name": "Nuri-Sejonghakdang (King Sejong Institute)",
+    "url": "https://nuri.iksi.or.kr/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening",
+      "reading",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "The South Korean government's free official online Korean course and textbooks.",
+    "notes": "Run by the King Sejong Institute Foundation, this is a full state-funded curriculum with structured online courses, downloadable Sejong Korean textbooks, and practice tools, free after registration. Because it is the official course used by King Sejong Institutes worldwide, it lines up with TOPIK and with classroom study abroad. The platform is clunky, sign-up can be fiddly, and the production values are institutional rather than slick — but the content quality and the price are unbeatable.",
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "naver-korean-dictionary",
+    "name": "Naver Korean Dictionary",
+    "url": "https://ko.dict.naver.com/",
+    "types": [
+      "dictionary",
+      "website",
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The dictionary Koreans and serious learners actually use, with huge example banks.",
+    "notes": "Korean–English and Korean–Korean entries with thousands of real example sentences pulled from news and books, native audio, conjugation info and Hanja. The mobile app is excellent and works offline for core entries. Free. The interface is Korean-first and the volume of results is overwhelming at first — expect to learn how to read the entry layout before it becomes fast.",
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/%EB%84%A4%EC%9D%B4%EB%B2%84-naver/id393499958"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "krdict",
+    "name": "Korean Learners' Dictionary (KRDict)",
+    "url": "https://krdict.korean.go.kr/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The National Institute of Korean Language's dictionary built specifically for learners.",
+    "notes": "Free official dictionary with definitions graded by learner level, grammar and usage notes on each entry, conjugation tables, and translations into a dozen languages. Because it is designed for learners rather than natives, definitions are simpler and the example sentences are chosen to teach. If you later want the full monolingual reference used by native speakers, the same institute runs the Standard Korean Language Dictionary at stdict.korean.go.kr.",
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "stdict-korean",
+    "name": "Standard Korean Language Dictionary (표준국어대사전)",
+    "url": "https://stdict.korean.go.kr/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The authoritative Korean-only dictionary, for when you're ready to stop translating.",
+    "notes": "The official monolingual dictionary of the National Institute of Korean Language — the final word on spelling, meaning, Hanja origin and standard usage. Switching to it is the point where you start defining Korean words in Korean, which sharpens nuance in a way bilingual entries cannot. Entirely in Korean with no learner scaffolding, so it is genuinely unusable below upper-intermediate.",
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "papago",
+    "name": "Papago",
+    "url": "https://papago.naver.com/",
+    "types": [
+      "tool",
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Naver's translator, noticeably better on Korean than the general-purpose engines.",
+    "notes": "Trained on Korean-heavy data, so it handles honorific levels, particles and everyday idiom better than Google Translate, and it does image, voice and website translation. Free on web and mobile. It is a crutch, not a study tool: use it to unstick yourself on a sentence you have already tried to parse, and never to produce Korean you are about to send to a person.",
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/naver-papago-ai-translator/id1147874819"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.naver.labs.translator"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "dongsa-koreanverb",
+    "name": "Dongsa (koreanverb.app)",
+    "url": "https://koreanverb.app/",
+    "types": [
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Type any Korean verb and get every conjugated form, with the rule that produced it.",
+    "notes": "Korean conjugation has irregular stems and multiple politeness levels that trip up every beginner; this free tool shows the full table at once and explains which irregular rule applied. It handles both 하다-type and irregular verbs correctly. It is a reference, not a drill — you still have to practise producing the forms yourself.",
+    "tags": [
+      "conjugation"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "kimchi-reader",
+    "name": "Kimchi Reader",
+    "url": "https://kimchi-reader.app/",
+    "types": [
+      "tool",
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "reading",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "paid",
+    "pitch": "Pop-up dictionary and word tracker for reading real Korean webtoons, books and subs.",
+    "notes": "The closest thing Korean has to Yomitan: click any word in an imported ebook, article or subtitle file to get definitions, grammar-in-context, Hanja and one-click Anki cards, while it tracks which words you know and recommends content by how much of it you would understand. Browser extension plus Android and iOS apps. Subscription-based with a 7-day free trial and no credit card up front. It assumes you already have grammar basics — it makes native material accessible, it does not teach you the language.",
+    "tags": [
+      "mining",
+      "immersion"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/kimchi-reader/id6757434354"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=dev.alaanor.kimchi"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "go-billy-korean",
+    "name": "GO! Billy Korean",
+    "url": "https://www.youtube.com/@GoBillyKorean",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Hundreds of free lessons in structured playlists, from Hangul to advanced grammar.",
+    "notes": "Billy Go has been publishing for over a decade and his beginner and intermediate playlists work as an actual sequential course rather than a pile of one-off videos. He is clear about pronunciation rules and sound changes, which most channels gloss over. All free on YouTube; he sells the Korean Made Simple books separately. Presentation is plain talking-head — no production polish, just a lot of accurate teaching.",
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "korean-made-simple",
+    "name": "Korean Made Simple (Billy Go)",
+    "url": "https://gobillykorean.com/",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Affordable three-book self-study series written for learners without a teacher.",
+    "notes": "Designed specifically for solo study, with exercises, answer keys and free companion audio, at paperback prices well below the university textbook series. It pairs naturally with Billy's free YouTube lessons. It is lighter on volume and less rigorous than the university course books, so it works as a first pass rather than the whole journey.",
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "korean-grammar-in-use",
+    "name": "Korean Grammar in Use",
+    "url": "https://www.darakwon.co.kr/koreanbooks/detail.asp?lang=1&category=&bookid=24",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "The standard three-volume Korean grammar reference: Beginning, Intermediate, Advanced.",
+    "notes": "Darakwon's series is the book almost every serious learner and Korean teacher ends up owning, organised grammar point by grammar point with real dialogues, illustrations and — crucially — side-by-side comparisons of patterns that mean almost the same thing. The Advanced volume covers everything on the TOPIK level 5–6 syllabus. It is a reference and workbook, not a course: there is no story, no listening programme, and you need something else to supply vocabulary and speaking practice.",
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "yonsei-korean",
+    "name": "Yonsei Korean textbooks",
+    "url": "https://www.yonseikorean.com/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "reading",
+      "listening",
+      "writing",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "University-level six-volume series used by Korean language institutes worldwide.",
+    "notes": "The curriculum from Yonsei University's Korean Language Institute, covering levels 1 through 6 with textbooks, workbooks and audio, and mapping cleanly onto TOPIK levels. If you are heading toward university study or a language programme in Korea, this or the Sogang and Seoul National equivalents are what you will be handed. It is dense, classroom-oriented and assumes an instructor — self-studying it without a tutor is hard going.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/kr/app/%EB%A6%AC%EB%8D%94%EB%A1%9C%EC%9D%B4/id6479472594"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.docscon.readeroe"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "koreanclass101",
+    "name": "KoreanClass101",
+    "url": "https://www.koreanclass101.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Vast library of dialogue-based audio lessons with transcripts, at every level.",
+    "notes": "Each lesson centres on a short native dialogue followed by a line-by-line breakdown, with PDF transcripts, vocabulary lists and cultural notes on paid plans. The volume means there is always something at your level, and the absolute-beginner series is good. The usual Innovative Language caveats apply: relentless discount emails, several confusing subscription tiers, uneven quality across older series, and a free tier that shrinks sharply after the trial.",
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-korean-koreanclass101-com/id262223371"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.koreanclass101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "comprehensible-korean",
+    "name": "Comprehensible Korean",
+    "url": "https://www.youtube.com/@ComprehensibleKorean",
+    "types": [
+      "youtube",
+      "media"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Slow all-Korean videos using drawings and gestures so you follow without translation.",
+    "notes": "Comprehensible-input teaching applied to Korean: the speaker uses only Korean, supported by whiteboard sketches, props and repetition, starting from genuine zero. It builds listening intuition rather than explicit grammar knowledge, which is exactly what most textbook-taught learners are missing. Free on YouTube. The Korean CI catalogue is much smaller than Spanish or Japanese, so you will run out of level-appropriate material faster.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "korean-journey",
+    "name": "쉬운 한국어 KOREAN JOURNEY",
+    "url": "https://www.youtube.com/@KOREAN_JOURNEY",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Easy Korean spoken slowly with Korean subtitles, on everyday situations and culture.",
+    "notes": "Simplified but natural Korean with on-screen Korean subtitles, which trains your reading and listening together and weans you off English translation. Good middle ground between beginner comprehensible input and full-speed native content. Free on YouTube, with no structured syllabus — pick episodes by topic.",
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "seemile-korean",
+    "name": "seemile Korean (씨마일 한국어)",
+    "url": "https://www.youtube.com/@seemile",
+    "types": [
+      "youtube",
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "pronunciation",
+      "grammar",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Beginner Korean with unusually careful attention to pronunciation and mouth shape.",
+    "notes": "One of the longest-running Korean teaching channels, with a full free beginner course and companion apps in several interface languages. Its distinguishing strength is drilling pronunciation and the sound-change rules explicitly, which most beginner courses skip. The style is old-school and slow-paced, and it thins out well before advanced material.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/seemile-korean/id1257387014"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.seemile.langster"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "korean-unnie",
+    "name": "Korean Unnie",
+    "url": "https://www.youtube.com/@KoreanUnnie",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Practical everyday phrases, slang and K-culture explained in short, upbeat videos.",
+    "notes": "Strong on the conversational and cultural side — how people actually greet, joke and speak informally — rather than systematic grammar. Good for keeping motivation up and for picking up the expressions that make you sound less like a textbook. Free on YouTube, with paid courses sold separately. Do not use it as your grammar backbone; it is a supplement.",
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "korean-with-miss-vicky",
+    "name": "Korean with Miss Vicky",
+    "url": "https://www.youtube.com/@KoreanwithMissVicky",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "listening",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Clear, patient grammar and conversation lessons from a working Korean teacher.",
+    "notes": "Vicky teaches like a classroom instructor — one point per video, worked examples, and repeated drilling — which suits people who want structure without buying a course. Coverage runs from Hangul into solid intermediate grammar. Free on YouTube. Videos are individually good but the playlists are less rigorously sequenced than GO! Billy Korean's.",
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "korean-patch",
+    "name": "Korean Patch",
+    "url": "https://www.youtube.com/@KoreanPatch",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "How to sound authentic rather than correct: intonation, filler words, real register.",
+    "notes": "Aimed at learners whose grammar is fine but who still sound like a textbook — it covers intonation, contractions, discourse markers and the register choices natives make without thinking. That is a genuinely underserved niche in Korean learning material. Free on YouTube, and not useful until you are past the beginner stage.",
+    "popularity": 1,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "didis-korean",
+    "name": "Didi's Korean (디디의 한국어)",
+    "url": "https://www.youtube.com/@didikorean",
+    "types": [
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "All-Korean talks on culture, society and daily life at a manageable natural pace.",
+    "notes": "Didi speaks entirely in Korean about substantive topics, slightly slower than native conversation but without the artificial simplification of beginner material — the right difficulty for the long intermediate plateau. Available as both video and podcast audio, free. There is no English support at all, so it only works once you can follow connected Korean speech.",
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "spongemind-podcast",
+    "name": "SpongeMind Podcast",
+    "url": "https://www.spongemind.org/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Bilingual Korean–English discussion podcast with free transcripts and translations.",
+    "notes": "Jonson Lee and guests discuss culture, identity and language, switching between Korean and English, with many episodes accompanied by free transcripts and translations on the website — that transcript support is what makes it usable as study material rather than just listening. Free on Apple Podcasts, Spotify and the site. The bilingual format means less pure Korean input per hour than an all-Korean podcast.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/spongemind-podcast/id1054603657"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.soundcloud.com/users/soundcloud:users:183825848/sounds.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/0hLOrMSmKOBbp9qKWEdxv3"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "kbs-world-learn-korean",
+    "name": "KBS World Radio: Learn Korean",
+    "url": "https://world.kbs.co.kr/service/contents_list.htm?lang=e&menu_cate=learnkorean",
+    "types": [
+      "course",
+      "media"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free public-broadcaster Korean lessons built around drama and situational dialogue.",
+    "notes": "KBS's international service publishes free lesson series with audio, transcripts and vocabulary, including courses hung off Korean drama scenes, plus versions localised into many languages. Free with no account. The site navigation is dated and some series are archived rather than maintained, but the audio quality and the professional scripting are better than most free material.",
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCO-BnpYUlovos0AWqcRJRvA"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "todaii-easy-korean",
+    "name": "Todaii: Easy Korean",
+    "url": "https://play.google.com/store/apps/details?id=mobi.eup.easykorean",
+    "types": [
+      "app",
+      "media"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Daily Korean news with tap-to-lookup, audio and difficulty levels, on your phone.",
+    "notes": "Pulls articles from outlets such as Dong-A, Chosun and VOA Korean and wraps them in a reader with per-word dictionary lookup, adjustable audio, flashcards and level filtering — Korean's nearest answer to NHK News Web Easy, though it grades existing articles rather than rewriting them. Free with ads and an optional paid upgrade. Available on Android and iOS. News vocabulary is narrow, so it complements rather than replaces conversational study.",
+    "tags": [
+      "news"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/todaii-easy-korean/id1441601041"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=mobi.eup.easykorean"
+      }
+    ],
+    "methods": [
+      "graded-reading",
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "topik-official",
+    "name": "TOPIK (official site)",
+    "url": "https://www.topik.go.kr/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Official Korean proficiency exam site, with free downloadable past papers and audio.",
+    "notes": "The government body that runs TOPIK publishes previous exam papers, answer keys and listening audio for free — the single most accurate way to gauge your level and to see exactly what the test asks. Registration and test dates are handled here too. The site is Korean-first and awkward to navigate, so most learners find the papers faster through TOPIK Guide.",
+    "tags": [
+      "topik",
+      "exam"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "topik-guide",
+    "name": "TOPIK Guide",
+    "url": "https://www.topikguide.com/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "writing",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Everything about the TOPIK exam: strategy, past papers, vocabulary and mock tests.",
+    "notes": "The long-running independent hub for TOPIK preparation, with free articles on exam structure and scoring, organised past papers, frequency vocabulary lists and level-by-level study advice; full mock tests and prep courses are paid. If you are taking TOPIK for a visa, university place or job, start here rather than on the official site. It is exam-focused by design, so it teaches you to pass a test rather than to hold a conversation.",
+    "tags": [
+      "topik",
+      "exam"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/Topikguide"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "reddit-r-korean",
+    "name": "r/Korean",
+    "url": "https://www.reddit.com/r/Korean/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Active Q&A community where natives and advanced learners answer grammar questions.",
+    "notes": "The most reliable free place to get a specific Korean question answered — nuance between two endings, whether a sentence you wrote sounds natural, which textbook to pick next. The wiki and pinned resource threads are a good sanity check on any study plan. Answers are crowd-sourced, so quality varies and confidently wrong replies do appear; weigh explanations that cite a source over ones that do not.",
+    "popularity": 3,
+    "methods": []
+  }
+]

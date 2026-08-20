@@ -1,0 +1,798 @@
+[
+  {
+    "id": "huf-devanagari",
+    "name": "Devanagari Guide (Hindi Urdu Flagship, UT Austin)",
+    "url": "https://hindiurduflagship.org/resources/learning-teaching/devanagari/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "reading",
+      "writing",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Free university-made introduction to the Devanagari script with printable tables.",
+    "notes": "An in-depth walkthrough of the Hindi writing system plus consonant/vowel tables designed for teachers and self-learners, from UT Austin's Hindi Urdu Flagship program. Work through this before any romanized course — Hindi transliteration is inconsistent and learners who delay the script stall around the intermediate wall. It is static reference material rather than an interactive app, so pair it with handwriting practice.",
+    "tags": [
+      "devanagari",
+      "writing-system"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "a-door-into-hindi",
+    "name": "A Door Into Hindi",
+    "url": "https://tajhindi.unc.edu/",
+    "types": [
+      "course",
+      "website",
+      "media"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "reading",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free two-semester university Hindi course built around short films, by Afroz Taj (UNC).",
+    "notes": "Twenty-four multimedia lesson units plus an alphabet module, each built around a short film with transcript, glossary, grammar notes and cultural commentary — roughly two semesters of university-level Hindi at no cost. It teaches reading and writing alongside speaking, so it works as a genuine backbone course rather than a phrasebook. The interface is dated and the video quality is early-2010s, but nothing else free covers this much ground this coherently.",
+    "tags": [
+      "university",
+      "video-course"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "hindi-urdu-flagship",
+    "name": "Hindi Urdu Flagship Resource Library",
+    "url": "https://hindiurduflagship.org/resources/",
+    "types": [
+      "website",
+      "course",
+      "book"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "UT Austin's free library of Hindi grammar notes, video dialogues and downloadable books.",
+    "notes": "The Flagship program's public archive: grammar tidbits, an audio-visual beginner series, a vocabulary podcast, videos of native speakers modelling conversation strategies, and full PDF books including Shackle and Snell's 'Hindi and Urdu Since 1800: A Common Reader'. Everything is free for non-commercial use and aimed at serious learners heading toward professional proficiency. It is a library, not a sequenced course — you have to decide what to use and in what order.",
+    "tags": [
+      "university",
+      "open-educational-resources"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hindi-ut-austin-oer",
+    "name": "Hindi at UT Austin (Open Educational Resources)",
+    "url": "https://hindi.la.utexas.edu/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "reading",
+      "writing",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Worksheets, vocabulary drills and native-speaker video interviews from UT's Hindi program.",
+    "notes": "The teaching side of UT Austin's Hindi program publishes its classroom materials openly: Hindi worksheets, beginner vocabulary exercises, video interviews with native speakers and downloadable readers. It overlaps with the Flagship site but leans more toward practice material you can actually drill, which is exactly what most self-learners lack. Expect academic pacing and no gamification.",
+    "tags": [
+      "university",
+      "open-educational-resources"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "comprehensible-hindi",
+    "name": "Comprehensible Hindi",
+    "url": "https://www.youtube.com/@ComprehensibleHindi",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Hindi-only comprehensible input videos, from super-beginner stories up to Bollywood talk.",
+    "notes": "The closest thing Hindi has to a Dreaming Spanish-style channel: lessons delivered entirely in slow, gesture- and drawing-supported Hindi, graded from super-beginner through advanced discussion of films and current topics. Still uploading several videos a month as of August 2026. The back catalogue is much smaller than the equivalent Spanish or Thai channels, so heavy input learners will exhaust the beginner tier fairly quickly.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "anil-mahato",
+    "name": "Anil Mahato",
+    "url": "https://www.youtube.com/@AnilMahato",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "850+ free Hindi lessons taught in English, from script basics to conversational grammar.",
+    "notes": "A large, well-organised free archive covering Devanagari, grammar step by step, everyday street Hindi and India travel/culture, explained in English so absolute beginners can follow. The catch is that the channel stopped publishing new videos in early 2023 — treat it as a finished course library rather than a living channel. Playlists are the way in; the uploads feed alone is hard to navigate.",
+    "tags": [
+      "grammar",
+      "archive"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "hindi-university",
+    "name": "Hindi University (Ashu ji)",
+    "url": "https://www.hindiuniversity.org/",
+    "types": [
+      "youtube",
+      "community",
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Whiteboard-style grammar lessons plus a Sunday Zoom class and learner Discord.",
+    "notes": "Ashu ji posts short, classroom-style grammar lessons to YouTube several times a week (verified active in August 2026), covering things most beginner courses skip such as subordinate conjunctions and verbal nouns. Around the videos sits a small community: a weekly Sunday Zoom class, a Discord and shared resources. Class pricing is not published on the site, so you have to ask; the videos themselves are free.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@hindiuniversity"
+      }
+    ],
+    "tags": [
+      "grammar",
+      "community"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "watch-and-learn-hindi",
+    "name": "Watch and Learn Hindi",
+    "url": "https://www.youtube.com/c/WatchandLearnHindi",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "pronunciation",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Short picture-based vocabulary and usage lessons, still updated in 2026.",
+    "notes": "Bite-size lessons that pair images with example sentences — sets of opposites, everyday words grouped by Devanagari letter, single high-frequency verbs explained with daily-life examples. Useful as vocabulary reinforcement between heavier study sessions, and the channel keeps posting through 2026. It is not a curriculum: there is no ordered path through the videos.",
+    "tags": [
+      "vocabulary"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "hindipod101",
+    "name": "HindiPod101",
+    "url": "https://www.hindipod101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Big library of dialogue-based audio/video lessons with transcripts and lesson PDFs.",
+    "notes": "Hundreds of lessons built around a short dialogue that is then broken down line by line, with PDF notes, an audio dictionary and word lists; a free lifetime account gives limited ongoing access and paid tiers run roughly $4–25 per month depending on plan and length of subscription. It is a solid listening supplement, especially where Hindi lacks polished commercial courses. It is not a structured path to fluency, lesson quality is uneven, and the site pushes discount emails hard.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/user/hindipod101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-hindi-hindipod101-com/id448503518"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.hindipod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "tags": [
+      "dialogues"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "rocket-hindi",
+    "name": "Rocket Hindi",
+    "url": "https://www.rocketlanguages.com/hindi",
+    "types": [
+      "course",
+      "app"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "listening",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "Audio-led course with long dialogues and record-and-compare speaking drills.",
+    "notes": "One of the few polished commercial Hindi courses: long interactive audio lessons, culture and grammar write-ups, and voice-recording practice where you compare yourself to a native speaker. It is a one-time purchase with lifetime access and updates, there is a free trial and a 60-day money-back guarantee, and coupons are almost always available so never pay list price. The interface feels dated and it tops out around a solid conversational intermediate level.",
+    "tags": [
+      "audio-course"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.rocketlanguages.app"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RocketLanguages"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "audio-method"
+    ]
+  },
+  {
+    "id": "shabdkosh",
+    "name": "Shabdkosh",
+    "url": "https://www.shabdkosh.com/",
+    "types": [
+      "dictionary",
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The default English–Hindi dictionary, with audio, word games and phone apps.",
+    "notes": "Bidirectional English–Hindi lookup with pronunciation audio, spelling and transliteration help, word-of-the-day and quizzes, plus Android and iOS apps for offline-ish use. It is the dictionary most learners settle on because coverage of everyday vocabulary is good and it handles both scripts. Entries are terse — you get glosses rather than usage notes or example sentences — so check a corpus or ask a native speaker before trusting a synonym.",
+    "tags": [
+      "dictionary"
+    ],
+    "popularity": 5,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/shabdkosh-dictionary/id863035886"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.shabdkosh.android"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "storyweaver-hindi",
+    "name": "StoryWeaver (Pratham Books)",
+    "url": "https://storyweaver.org.in/",
+    "types": [
+      "book",
+      "website",
+      "media"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Thousands of free levelled Hindi children's storybooks you can read online or download.",
+    "notes": "Pratham Books' open library holds tens of thousands of illustrated stories graded Level 1 to Level 4, with a very large Hindi collection — the closest thing Hindi has to graded readers, and all of it free to read online or download as PDF. Filter by language and level and you have months of extensive reading at genuine beginner difficulty. The content is written for children, so topics and register skew young, and the site covers many Indian languages, not Hindi alone.",
+    "tags": [
+      "graded-readers",
+      "extensive-reading"
+    ],
+    "popularity": 3,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "hindwi",
+    "name": "Hindwi",
+    "url": "https://www.hindwi.org/",
+    "types": [
+      "website",
+      "media"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "reading",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Free digital library of Hindi poetry, short stories and essays with author archives.",
+    "notes": "The Rekhta Foundation's Hindi sibling to its Urdu archive: a deep, well-organised collection of poems, stories and prose by classical and contemporary Hindi authors, with per-author pages and audio recitations for many poems. This is where advanced learners go once textbook Hindi feels thin. It is a literature site, not a learning tool — no glosses, no grade levels, and the vocabulary jumps straight to literary register.",
+    "tags": [
+      "literature",
+      "native-content"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/rekhta-urdu-dictionary/id1594172670"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.rekhta.dict"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCihX5Ufe1EVl31siX7Wt4tQ"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "elementary-hindi-delacy",
+    "name": "Elementary Hindi (Delacy & Joshi)",
+    "url": "https://www.tuttlepublishing.com/books-by-country/elementary-hindi-paperback-with-disc",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "Script-first beginner textbook with exercises, answer key and downloadable audio.",
+    "notes": "A classroom-tested first-year textbook that starts with Devanagari and builds through everyday situations, with drills, an answer key and MP3 audio, which makes it usable alone rather than only with a teacher. Its pacing is gentler than Snell's and the exercise load is heavier, so it suits people who want to practise rather than read explanations. It stops at a solid A2 — you will need a second book after it.",
+    "tags": [
+      "textbook"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "complete-hindi-snell",
+    "name": "Complete Hindi (Rupert Snell)",
+    "url": "https://us.teachyourself.com/products/complete-hindi-beginner-to-intermediate-course",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "The standard self-study Hindi book — Snell's explanations are unmatched for clarity.",
+    "notes": "Rupert Snell taught Hindi at SOAS and UT Austin, and his Teach Yourself course remains the reference self-study book: it introduces Devanagari properly and explains grammar with a precision most beginner materials never attempt. Best for readers who like understanding the system before drilling it. It is dense, the audio is functional rather than inspiring, and the dialogues feel dated — pair it with video or a tutor for listening.",
+    "tags": [
+      "textbook",
+      "grammar"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "hindi-essential-grammar",
+    "name": "Hindi: An Essential Grammar (Agnihotri)",
+    "url": "https://www.routledge.com/Hindi-An-Essential-Grammar/Agnihotri/p/book/9781032163048",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Compact Routledge reference grammar, organised by structure rather than by lesson.",
+    "notes": "Rama Kant Agnihotri's grammar (now in a second edition) covers Hindi systematically — phonology, morphology, case, aspect, the ergative, complex predicates — in the format you want when a textbook explanation was too shallow. It is a reference to look things up in, not a course to work through. Beginners will find it opaque; from about B1 it becomes the book you keep next to whatever else you are using.",
+    "tags": [
+      "grammar",
+      "reference"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "sbs-hindi",
+    "name": "SBS Hindi",
+    "url": "https://www.sbs.com.au/language/hindi",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Short daily Hindi news bulletins and interviews from Australia's public broadcaster.",
+    "notes": "SBS publishes new Hindi audio most days — usually under fifteen minutes, mixing news, interviews and community stories, all free and available as a podcast feed. The episodes are short enough to use as daily listening once textbook dialogues stop challenging you, and the speech is natural rather than slowed down. Coverage skews to Australian and diaspora topics, so it is not a substitute for Indian news if that is your interest.",
+    "tags": [
+      "news",
+      "native-content"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/sbs-hindi/id350505527"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.sbs.com.au/sbs-hindi"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6kNXUdg5X0NDoSnT95F4LZ"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/au/app/sbs-audio/id470808084"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.thisisaim.yourlanguage"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCupDOc54HJbIPtgLjhABOZw"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "bbc-news-hindi",
+    "name": "BBC News हिंदी",
+    "url": "https://www.bbc.com/hindi",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Free daily Hindi journalism with video, for reading practice above textbook level.",
+    "notes": "News articles, explainers and video reports in standard written Hindi, updated constantly and free. Because many stories are also published in English you can effectively self-check comprehension by reading the same event twice. Be aware that news Hindi is heavily Sanskritized and formal — it will not teach you how people actually talk, so balance it with conversational input.",
+    "tags": [
+      "news",
+      "native-content"
+    ],
+    "popularity": 4,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "landour-language-school",
+    "name": "Landour Language School",
+    "url": "https://www.landourlanguageschool.com/",
+    "types": [
+      "tutoring",
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "speaking",
+      "listening",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Long-established Mussoorie school doing intensive one-on-one Hindi immersion.",
+    "notes": "A Himalayan institution that has trained diplomats, missionaries and researchers for decades, built around daily one-to-one tuition in Mussoorie with a structured curriculum and optional online lessons. If you can spend weeks or months in India, this kind of intensive personal instruction moves faster than any app. It is a real financial and time commitment, and the hill-station location means you plan travel and accommodation around it.",
+    "tags": [
+      "immersion",
+      "in-person"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "zabaan",
+    "name": "Zabaan School for Languages",
+    "url": "https://www.zabaan.com/hindi/",
+    "types": [
+      "tutoring",
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "grammar",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "Delhi and Mumbai school with CEFR-mapped group courses plus online private lessons.",
+    "notes": "Zabaan runs a proper ladder of Hindi group courses from A1 to B1, including four-week 60-hour intensives, alongside tailored private lessons that can be taken online from anywhere. The CEFR mapping makes it easy to place yourself and to know what a course actually delivers, which is rare among Hindi schools. Prices are not published — you have to email — and group classes depend on enough students enrolling at your level.",
+    "tags": [
+      "in-person",
+      "online-classes"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "aiis-hindi",
+    "name": "AIIS Hindi Language Program",
+    "url": "https://www.aiislanguageprograms.org/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "speaking",
+      "listening",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Academic immersion in India: 8-week summer, semester or full-year Hindi programs.",
+    "notes": "The American Institute of Indian Studies runs intensive, immersion-based Hindi training at sites in India, with summer (eight weeks), semester and academic-year tracks; summer and semester programs accept true beginners while the year program expects around 120 prior class hours. This is the gold-standard route for students who need documented advanced proficiency, and fellowship funding is often available. It is aimed at US-affiliated students and researchers, and applications run on an academic calendar.",
+    "tags": [
+      "immersion",
+      "academic"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "reddit-hindi",
+    "name": "r/Hindi",
+    "url": "https://www.reddit.com/r/Hindi/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "hindi"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Mixed native-speaker and learner forum — the best place for nuance questions.",
+    "notes": "A reasonably active subreddit where native speakers answer translation, register and word-choice questions that dictionaries handle badly, alongside script and resource threads. Search before posting: the same beginner questions recur and the archived answers are often better than a fresh reply. The smaller r/LearnHindi is more learner-focused but much quieter, so ask here first.",
+    "links": [
+      {
+        "label": "r/LearnHindi",
+        "url": "https://www.reddit.com/r/LearnHindi/"
+      }
+    ],
+    "tags": [
+      "forum"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

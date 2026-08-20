@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "spanish",
+    "code": "es",
+    "name": "Spanish",
+    "nativeName": "Español",
+    "flag": "🇪🇸",
+    "aliases": [
+      "Castilian",
+      "Latin American Spanish"
+    ],
+    "variants": [
+      {
+        "tag": "castilian-spanish",
+        "name": "Spain (Castilian)"
+      },
+      {
+        "tag": "latin-american-spanish",
+        "name": "Latin American"
+      }
+    ]
+  },
+  {
+    "slug": "french",
+    "code": "fr",
+    "name": "French",
+    "nativeName": "Français",
+    "flag": "🇫🇷"
+  },
+  {
+    "slug": "german",
+    "code": "de",
+    "name": "German",
+    "nativeName": "Deutsch",
+    "flag": "🇩🇪"
+  },
+  {
+    "slug": "portuguese",
+    "code": "pt",
+    "name": "Portuguese",
+    "nativeName": "Português",
+    "flag": "🇵🇹",
+    "aliases": [
+      "Brazilian Portuguese",
+      "European Portuguese"
+    ],
+    "variants": [
+      {
+        "tag": "european-portuguese",
+        "name": "European Portuguese"
+      },
+      {
+        "tag": "brazilian-portuguese",
+        "name": "Brazilian Portuguese"
+      }
+    ]
+  },
+  {
+    "slug": "japanese",
+    "code": "ja",
+    "name": "Japanese",
+    "nativeName": "日本語",
+    "flag": "🇯🇵"
+  },
+  {
+    "slug": "korean",
+    "code": "ko",
+    "name": "Korean",
+    "nativeName": "한국어",
+    "flag": "🇰🇷"
+  },
+  {
+    "slug": "italian",
+    "code": "it",
+    "name": "Italian",
+    "nativeName": "Italiano",
+    "flag": "🇮🇹"
+  },
+  {
+    "slug": "russian",
+    "code": "ru",
+    "name": "Russian",
+    "nativeName": "Русский",
+    "flag": "🇷🇺"
+  },
+  {
+    "slug": "chinese",
+    "code": "zh",
+    "name": "Chinese (Mandarin)",
+    "nativeName": "中文",
+    "flag": "🇨🇳",
+    "aliases": [
+      "Mandarin",
+      "Simplified Chinese",
+      "Traditional Chinese"
+    ],
+    "variants": [
+      {
+        "tag": "simplified-chinese",
+        "name": "Simplified script"
+      },
+      {
+        "tag": "traditional-chinese",
+        "name": "Traditional script"
+      }
+    ]
+  },
+  {
+    "slug": "arabic",
+    "code": "ar",
+    "name": "Arabic",
+    "nativeName": "العربية",
+    "flag": "🇸🇦",
+    "aliases": [
+      "MSA",
+      "Egyptian Arabic",
+      "Levantine Arabic",
+      "Gulf Arabic",
+      "Maghrebi Arabic"
+    ],
+    "variants": [
+      {
+        "tag": "msa",
+        "name": "Modern Standard Arabic"
+      },
+      {
+        "tag": "egyptian-arabic",
+        "name": "Egyptian"
+      },
+      {
+        "tag": "levantine-arabic",
+        "name": "Levantine"
+      },
+      {
+        "tag": "gulf-arabic",
+        "name": "Gulf"
+      },
+      {
+        "tag": "maghrebi-arabic",
+        "name": "Maghrebi"
+      }
+    ]
+  },
+  {
+    "slug": "hebrew",
+    "code": "he",
+    "name": "Hebrew",
+    "nativeName": "עברית",
+    "flag": "🇮🇱"
+  },
+  {
+    "slug": "english",
+    "code": "en",
+    "name": "English",
+    "nativeName": "English",
+    "flag": "🇬🇧",
+    "aliases": [
+      "American English",
+      "British English"
+    ],
+    "variants": [
+      {
+        "tag": "american-english",
+        "name": "American English"
+      },
+      {
+        "tag": "british-english",
+        "name": "British English"
+      }
+    ]
+  },
+  {
+    "slug": "dutch",
+    "code": "nl",
+    "name": "Dutch",
+    "nativeName": "Nederlands",
+    "flag": "🇳🇱"
+  },
+  {
+    "slug": "swedish",
+    "code": "sv",
+    "name": "Swedish",
+    "nativeName": "Svenska",
+    "flag": "🇸🇪"
+  },
+  {
+    "slug": "norwegian",
+    "code": "no",
+    "name": "Norwegian",
+    "nativeName": "Norsk",
+    "flag": "🇳🇴",
+    "aliases": [
+      "Bokmål",
+      "Nynorsk"
+    ],
+    "variants": [
+      {
+        "tag": "bokmal",
+        "name": "Bokmål"
+      },
+      {
+        "tag": "nynorsk",
+        "name": "Nynorsk"
+      }
+    ]
+  },
+  {
+    "slug": "danish",
+    "code": "da",
+    "name": "Danish",
+    "nativeName": "Dansk",
+    "flag": "🇩🇰"
+  },
+  {
+    "slug": "finnish",
+    "code": "fi",
+    "name": "Finnish",
+    "nativeName": "Suomi",
+    "flag": "🇫🇮"
+  },
+  {
+    "slug": "polish",
+    "code": "pl",
+    "name": "Polish",
+    "nativeName": "Polski",
+    "flag": "🇵🇱"
+  },
+  {
+    "slug": "turkish",
+    "code": "tr",
+    "name": "Turkish",
+    "nativeName": "Türkçe",
+    "flag": "🇹🇷"
+  },
+  {
+    "slug": "greek",
+    "code": "el",
+    "name": "Greek",
+    "nativeName": "Ελληνικά",
+    "flag": "🇬🇷",
+    "aliases": [
+      "Modern Greek"
+    ]
+  },
+  {
+    "slug": "czech",
+    "code": "cs",
+    "name": "Czech",
+    "nativeName": "Čeština",
+    "flag": "🇨🇿"
+  },
+  {
+    "slug": "ukrainian",
+    "code": "uk",
+    "name": "Ukrainian",
+    "nativeName": "Українська",
+    "flag": "🇺🇦"
+  },
+  {
+    "slug": "romanian",
+    "code": "ro",
+    "name": "Romanian",
+    "nativeName": "Română",
+    "flag": "🇷🇴"
+  },
+  {
+    "slug": "hungarian",
+    "code": "hu",
+    "name": "Hungarian",
+    "nativeName": "Magyar",
+    "flag": "🇭🇺"
+  },
+  {
+    "slug": "hindi",
+    "code": "hi",
+    "name": "Hindi",
+    "nativeName": "हिन्दी",
+    "flag": "🇮🇳"
+  },
+  {
+    "slug": "thai",
+    "code": "th",
+    "name": "Thai",
+    "nativeName": "ไทย",
+    "flag": "🇹🇭"
+  },
+  {
+    "slug": "vietnamese",
+    "code": "vi",
+    "name": "Vietnamese",
+    "nativeName": "Tiếng Việt",
+    "flag": "🇻🇳"
+  },
+  {
+    "slug": "indonesian",
+    "code": "id",
+    "name": "Indonesian",
+    "nativeName": "Bahasa Indonesia",
+    "flag": "🇮🇩"
+  },
+  {
+    "slug": "swahili",
+    "code": "sw",
+    "name": "Swahili",
+    "nativeName": "Kiswahili",
+    "flag": "🇹🇿"
+  },
+  {
+    "slug": "filipino",
+    "code": "fil",
+    "name": "Filipino",
+    "nativeName": "Tagalog",
+    "flag": "🇵🇭",
+    "aliases": [
+      "Tagalog"
+    ]
+  },
+  {
+    "slug": "persian",
+    "code": "fa",
+    "name": "Persian",
+    "nativeName": "فارسی",
+    "flag": "🇮🇷",
+    "aliases": [
+      "Farsi"
+    ]
+  },
+  {
+    "slug": "cantonese",
+    "code": "yue",
+    "name": "Cantonese",
+    "nativeName": "廣東話",
+    "flag": "🇭🇰",
+    "aliases": [
+      "Yue Chinese"
+    ]
+  }
+]

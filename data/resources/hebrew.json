@@ -1,0 +1,988 @@
+[
+  {
+    "id": "streetwise-hebrew",
+    "name": "Streetwise Hebrew",
+    "url": "https://tlv1.fm/streetwise-hebrew/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "vocabulary",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Short episodes unpacking one Hebrew root or slang word as Israelis actually use it.",
+    "notes": "Guy Sharett takes a single word or root per episode and walks through the family of words built on it, illustrated with clips from Israeli songs, ads and street conversation. Episodes run seven to ten minutes, it is still publishing in 2026, and the whole archive of hundreds of episodes is free. The narration is in English, so it teaches you about Hebrew rather than immersing you in it — treat it as vocabulary enrichment alongside a real course, and expect to need some basic Hebrew to enjoy the examples.",
+    "tags": [
+      "slang",
+      "modern-hebrew"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/streetwise-hebrew/id704434205"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.libsyn.com/47547/swh.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4Ig4gWRPdC6FkAnGcSQnd4"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "pealim",
+    "name": "Pealim",
+    "url": "https://www.pealim.com/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The verb conjugator every Hebrew learner ends up using, with niqqud and audio.",
+    "notes": "Search in Hebrew, English or transliteration and you get the full conjugation table for every tense and person, printed with niqqud, transliteration and recorded pronunciation, plus noun and adjective declensions. It also groups verbs by binyan and root, which is the fastest way to internalise how the seven patterns behave. It is a reference, not a course: there are almost no example sentences and no usage notes, so pair it with a dictionary that shows words in context.",
+    "tags": [
+      "verbs",
+      "niqqud"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "morfix",
+    "name": "Morfix",
+    "url": "https://www.morfix.co.il/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "freemium",
+    "pitch": "The Hebrew–English dictionary Israelis themselves reach for, free on web and mobile.",
+    "notes": "Morfix handles inflected forms well — paste a conjugated verb or a word with prefixes and it still finds the root entry — and gives translations in both directions with plurals, gender and common phrases. It is the pragmatic everyday lookup tool rather than a scholarly dictionary, and the free version is heavy with ads which the paid Morfix Pro removes. The interface leans Hebrew-first, which is mildly awkward for absolute beginners but stops being a problem quickly.",
+    "tags": [
+      "modern-hebrew"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "milog",
+    "name": "Milog (מילוג)",
+    "url": "https://milog.co.il/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Hebrew-to-Hebrew dictionary — the step where you stop translating in your head.",
+    "notes": "Milog defines Hebrew words in Hebrew, with niqqud, register labels, related forms and generous coverage of slang and everyday idiom that bilingual dictionaries skip. Making it your default lookup is one of the clearest markers of crossing from intermediate to advanced. It is entirely in Hebrew with no English scaffolding, so it is useless before roughly B1 — use Morfix until then.",
+    "tags": [
+      "monolingual",
+      "slang"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "nakdan-dicta",
+    "name": "Nakdan by Dicta",
+    "url": "https://nakdan.dicta.org.il/",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Paste unvowelled Hebrew and get it back with niqqud, so you can read it aloud.",
+    "notes": "Real Hebrew is written without vowels, which is the wall most learners hit after the alphabet; Nakdan uses a machine-learning model to add niqqud to any text you paste, letting you turn a news article or a WhatsApp message into something you can actually pronounce. It is free, needs no account, and Dicta's other tools (morphological analysis, search) are worth exploring too. Accuracy is high but not perfect on ambiguous words and proper nouns, so treat the output as a strong hint rather than an authority, and wean yourself off it as your reading improves.",
+    "tags": [
+      "niqqud",
+      "reading-gap"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "hebrew-academy",
+    "name": "Academy of the Hebrew Language",
+    "url": "https://hebrew-academy.org.il/",
+    "types": [
+      "website",
+      "dictionary"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "grammar",
+      "writing",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The official authority on Hebrew spelling, grammar rules and new coinages.",
+    "notes": "This is where the rules actually come from: spelling conventions for writing without niqqud, decisions on new terminology, grammar explanations and a searchable archive of language questions answered by the Academy's linguists. Everything is free and there is a steady stream of short, readable articles on why a word is the way it is. The whole site is in Hebrew and pitched at educated native speakers, so it only becomes usable at a solid B2 — but at that point it is the best free Hebrew resource on the internet.",
+    "tags": [
+      "reference",
+      "monolingual"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "safa-ivrit",
+    "name": "Safa Ivrit (השפה העברית)",
+    "url": "https://www.safa-ivrit.org/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "A free Hebrew-language site explaining grammar, etymology and word history.",
+    "notes": "Long-running independent site with hundreds of short articles on binyanim, plurals, common mistakes, loanwords, biblical versus modern usage and the origins of everyday words. It is the resource to browse when you want to understand why Hebrew works the way it does rather than just drill it. Written entirely in Hebrew and organised as an archive rather than a course, so it rewards curiosity more than it supports structured study.",
+    "tags": [
+      "etymology",
+      "monolingual"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hebrewpod101",
+    "name": "HebrewPod101",
+    "url": "https://www.hebrewpod101.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The biggest structured Hebrew audio library, with lesson notes and transcripts.",
+    "notes": "The Innovative Languages formula applied to Hebrew: hundreds of dialogue-based audio lessons arranged by level, each with a transcript, vocabulary list and grammar note, plus a free alphabet ebook that is a decent first taste of the script. It is the most complete beginner-to-intermediate audio path that exists for Hebrew, which matters in a small ecosystem. Expect relentless upselling, wildly varying pricing depending on which promotion you land on, and older recordings whose production quality shows its age; the advanced material also thins out quickly.",
+    "tags": [
+      "modern-hebrew"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-hebrew-hebrewpod101-com/id448501803"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.hebrewpod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "piece-of-hebrew",
+    "name": "Piece of Hebrew",
+    "url": "https://www.pieceofhebrew.com/",
+    "types": [
+      "youtube",
+      "website"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Vlog-style videos in real spoken Hebrew, subtitled, for the A2–B2 gap.",
+    "notes": "A native speaker films everyday situations in Israel — the beach, a market, city versus village life — and narrates in natural but slowed Hebrew, with subtitles. The YouTube channel (around 50K subscribers, uploading most weeks through August 2026) is free and is one of the few genuinely engaging comprehensible-input sources at intermediate level; courses on the site are paid. Subtitles are burned into the video and often English, which limits how much you can force yourself to listen without reading, and true beginners will still find the pace fast.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/2OTzZkXUEFspA6Qif8TbIK"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC9n76QPNgx_C6lm8vK7ltpQ"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "hebrew-by-inbal",
+    "name": "Hebrew by Inbal",
+    "url": "https://hebrewbyinbal.com/",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Israeli teacher explaining Hebrew structure and daily life to English speakers.",
+    "notes": "Inbal posts weekly videos that mix practical grammar (how the verb patterns work, why prefixes attach the way they do) with cultural explainers about Israeli life, all aimed squarely at English-speaking adults; the channel was still posting in August 2026 and there is a free-resources section on the site. It is explanation-led rather than immersion, so it complements comprehensible-input channels instead of replacing them. Structured courses and the substantial materials are paid, and the free videos skew towards the beginner end.",
+    "tags": [
+      "modern-hebrew"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/HebrewbyInbal"
+      }
+    ],
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hebrew-comprehensible-input",
+    "name": "Hebrew Comprehensible Input",
+    "url": "https://www.youtube.com/@HebrewZEasyWay",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Beginner Hebrew explained in Hebrew with gestures and images, no translation.",
+    "notes": "One of the very few channels attempting true comprehensible input for beginner Modern Hebrew: the teacher speaks only Hebrew, slowly, making meaning clear through gestures, drawings and images, including walk-and-talk videos filmed in Israeli streets. Free, and valuable precisely because this niche is nearly empty — most 'easy Hebrew' content is really English-language explanation. The channel is small and uploads irregularly (most recent video March 2026), and production is homemade, so there is not yet enough material to carry you far on its own.",
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "pashut-ivrit",
+    "name": "Pashut Ivrit / Simply Hebrew",
+    "url": "https://www.youtube.com/@SimplyHebrew",
+    "types": [
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Long interviews with Israelis, spoken slowly and clearly, plus a news series.",
+    "notes": "Each episode is a roughly 45-minute conversation with a real Israeli — a market trader, a musician, an activist — conducted in deliberately slow, clear Hebrew with Hebrew subtitles, and there is a recurring 'News in Hebrew' series for current events. It works as both video and podcast and was still publishing in August 2026. Free and unusually substantial for intermediate listening; the trade-off is that episode length and interview format make it demanding, and there are no lesson notes or exercises attached.",
+    "tags": [
+      "comprehensible-input",
+      "interviews"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1WmFBcKpQB6aVU1t6ryohb"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "hebrew-time-podcast",
+    "name": "Hebrew Time (זמן עברית)",
+    "url": "https://podcasts.apple.com/us/podcast/hebrew-time-%D7%96%D7%9E%D7%9F-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1551521797",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Scripted monologues in slow, clear Hebrew on everyday and Israeli-culture topics.",
+    "notes": "Nadya Ures, a Jerusalem-based teacher, records short scripted episodes entirely in simple Hebrew about daily life, holidays and Israeli history — the closest thing Hebrew has to the slow-news podcasts that other languages take for granted. Listening is free on Apple Podcasts, Spotify and YouTube; full PDF transcripts sit behind a Patreon membership. Note that the project's own domain has lapsed, so podcast apps and Patreon are the reliable entry points, and the scripted delivery is clearer but less natural than real conversation.",
+    "tags": [
+      "slow-hebrew"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/hebrew-time-%D7%96%D7%9E%D7%9F-%D7%A2%D7%91%D7%A8%D7%99%D7%AA/id1551521797"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/3f7a77ec/podcast/rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "learn-hebrew-pod",
+    "name": "Learn Hebrew Pod",
+    "url": "https://www.learnhebrewpod.com/",
+    "types": [
+      "course",
+      "podcast",
+      "website"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "reading",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Israeli-made dialogue lessons, with a free interactive alef-bet reading section.",
+    "notes": "Made in Israel, the paid courses are conversation-driven with recorded dialogues at natural and slowed speeds, transcripts and exercises across beginner to advanced tracks. The free part worth knowing about is the Reading Hebrew section, where every letter is presented with audio, its printed and handwritten forms and starter vocabulary — a clean, secular alternative to the religiously framed alphabet tutorials that dominate search results. It is a smaller operation than HebrewPod101, so the library is thinner; treat the free alphabet material as the low-risk way to try it.",
+    "tags": [
+      "alef-bet",
+      "modern-hebrew"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-hebrew-pod-speak-conversational-hebrew/id271205689"
+      },
+      {
+        "label": "RSS",
+        "url": "https://lhp-podcasts.s3.us-east-1.amazonaws.com/lhp-rss.xml"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "dvash-hebrew",
+    "name": "Dvash Hebrew",
+    "url": "https://www.dvash.app/",
+    "types": [
+      "app",
+      "media"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Daily Israeli news and songs graded by level, with a niqqud on/off switch.",
+    "notes": "Every weekday Dvash publishes short news articles rated across four difficulty levels plus Israeli songs with line-by-line translation and synced audio, all with tap-to-translate words, recorded pronunciation and a spaced-repetition list for saved vocabulary. Its best feature for learners is the toggle between text with and without niqqud, which lets you wean yourself off the vowels gradually on real current material. It is a small independent app on iOS and Android with a paid tier, and the content is news-shaped rather than a structured course — bring it in once you can handle simple sentences.",
+    "tags": [
+      "niqqud",
+      "news",
+      "reading-gap"
+    ],
+    "popularity": 1,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/dvash-hebrew/id6503658289"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.dvashnews"
+      }
+    ],
+    "methods": [
+      "graded-reading",
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "hebrew-today-yanshuf",
+    "name": "Hebrew Today (Yanshuf & Bereshit)",
+    "url": "https://hebrewtoday.com/",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Fortnightly easy-Hebrew newspapers with full niqqud and audio recordings.",
+    "notes": "Bereshit is the beginner paper and Yanshuf the harder one; both carry real Israeli and world news, culture, sport and puzzles written in controlled Hebrew, printed with niqqud and accompanied by audio of every article. Eighteen issues a year, available in print, digital or both, with subscriptions starting around $75 — this is the closest Hebrew has to graded readers refreshed with current events. There is essentially no free sampling, the register is deliberately simplified so it will not teach you street Hebrew, and delivery outside Israel adds cost.",
+    "tags": [
+      "niqqud",
+      "news",
+      "graded-reader"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCs29S9ImJdENnQYNOCPk-zw"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "kan-podcasts",
+    "name": "Kan Podcasts (הסכתים כאן)",
+    "url": "https://www.kan.org.il/lobby/podcasts-lobby/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Israel's public broadcaster's full podcast catalogue — native Hebrew, studio quality.",
+    "notes": "Kan produces documentary, history, science, culture and current-affairs series to broadcast standards, all free, with presenters who speak clearly into a microphone rather than over background noise — which makes it far more approachable than Israeli TV drama. This is the natural graduation step once learner podcasts stop stretching you. Nothing here is adapted for learners: no transcripts, no glossaries, full speed and heavy on political and cultural references, so it is genuinely B2 and up.",
+    "tags": [
+      "native-content"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "kan-kids",
+    "name": "Kan Educational (כאן חינוכית)",
+    "url": "https://www.kankids.org.il/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free Israeli children's television — slow speech, simple words, visual context.",
+    "notes": "The public broadcaster's children's channel streams its programmes free, and children's television is the standard workaround in languages with little beginner comprehensible input: speech is slower, vocabulary is concrete and the picture carries much of the meaning. Useful from the moment you know the alphabet. The obvious caveats are that the content is made for children, the register is not what adults speak to each other, and some streams may be geo-restricted outside Israel.",
+    "tags": [
+      "native-content",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/il/app/%D7%9B%D7%90%D7%9F-%D7%97%D7%99%D7%A0%D7%95%D7%9B%D7%99%D7%AA/id1326766092"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.channel23"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@KANKIDS"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "citizen-cafe-tlv",
+    "name": "Citizen Café Tel Aviv",
+    "url": "https://www.citizencafetlv.com/",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Ten-week live Hebrew courses in Tel Aviv or on Zoom, built around talking.",
+    "notes": "Twelve levels grouped into Foundation, Flow and Freedom, taught by a large roster of teachers drawn from acting, journalism and music, with a deliberately high-energy conversational format rather than textbook drilling. Courses run in person in Tel Aviv and online worldwide, and there are extras like grammar masterclasses and an Israeli-mindset culture course; the free TLV Unplugged podcast gives you a sense of the house style. Pricing is not published — you book a free introductory one-to-one first — and the conversational emphasis means you will want a grammar reference on the side.",
+    "tags": [
+      "ulpan",
+      "live-classes"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCXz3XBMysPyJwuZEyoPQ7DA"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "ulpan-la-inyan",
+    "name": "Ulpan La-Inyan",
+    "url": "https://ulpan.com/",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Long-running ulpan with small live classes online and in Israel.",
+    "notes": "One of the best-known private ulpanim for English-speaking adults, running small live group classes and private lessons both in Israel and over video, with a practical focus on getting you speaking early rather than working through a textbook front to back. Good fit if you want accountability and a teacher who will correct you, which self-study Hebrew resources cannot do. It is a paid programme with class-based scheduling, so it costs considerably more than any app and needs you to show up at fixed times.",
+    "tags": [
+      "ulpan",
+      "live-classes"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "ulpan-or",
+    "name": "Ulpan-Or",
+    "url": "https://www.ulpanor.com/",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Jerusalem ulpan with its own multimedia method and self-study eBook series.",
+    "notes": "Ulpan-Or teaches with its own materials — themed multimedia eBooks with audio, transliteration and drills — delivered through private lessons, intensive courses and online programmes, and it is a familiar name among olim and professionals who need Hebrew fast. The structured self-study books are useful even if you never take a class. It is priced at the premium end, the method is quite prescriptive, and the branding leans towards immersion-intensive packages that not everyone needs.",
+    "tags": [
+      "ulpan",
+      "olim"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "http://open.spotify.com/show/033K6LsZPo46dZqnSfKpEa"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ulpanorint"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "the-hebrew-hub",
+    "name": "The Hebrew Hub",
+    "url": "https://thehebrewhub.com/",
+    "types": [
+      "course",
+      "tutoring",
+      "youtube"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "grammar",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "Online Hebrew school with self-study courses, small groups and free extras.",
+    "notes": "Alisa Zingerman's school covers A1 to C1 through self-study courses, small Zoom groups and one-to-one lessons, with regular conversation sessions that address the biggest gap in solo Hebrew study — nobody to speak to. The free tier is unusually generous for a paid school: a level test, a numbers course, a grammar webinar and a resource guide, plus a Bible-stories-in-easy-Hebrew video series that doubles as beginner comprehensible input. It is a small operation rather than an institution, so schedules depend on cohort demand, and the paid courses are the substance.",
+    "tags": [
+      "live-classes"
+    ],
+    "popularity": 1,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/AlisaZingermanTheHebrewHub"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "hebrew-from-scratch",
+    "name": "Hebrew from Scratch (עברית מן ההתחלה)",
+    "url": "https://myhebrewbooks.com/product/hebrew-scratch-set/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "reading",
+      "grammar",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "The standard Israeli ulpan textbook — two volumes taking you A1 to about B2.",
+    "notes": "Chayat, Israeli and Kobliner's two-part course is what Israeli universities and most ulpanim actually teach from: graded texts, systematic verb-pattern tables, and exercises that build reading and writing rather than tourist phrases. Work through both volumes and you have a real foundation, which no app in this list will give you. It is almost entirely in Hebrew with minimal English support, assumes a teacher will explain things, and the audio and answer keys are sold as separate items — self-studying it is possible but hard, and buying it outside Israel means going through Judaica booksellers.",
+    "tags": [
+      "textbook",
+      "ulpan"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "modern-hebrew-essential-grammar",
+    "name": "Modern Hebrew: An Essential Grammar",
+    "url": "https://www.routledge.com/Modern-Hebrew-An-Essential-Grammar/Glinert/p/book/9780415706292",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "Lewis Glinert's compact reference grammar — the one to look things up in.",
+    "notes": "A well-organised, linguistically serious but readable account of how Modern Hebrew actually works: binyanim, construct state, word order, prepositions with pronoun suffixes, and the differences between formal writing and speech. It is the book that answers the questions your ulpan teacher waves away, and it is short enough to use as a genuine reference. It is a grammar, not a course — no exercises, no vocabulary building — and its examples lean on transliteration in places, which some learners dislike.",
+    "tags": [
+      "reference",
+      "textbook"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "sefaria",
+    "name": "Sefaria",
+    "url": "https://www.sefaria.org/",
+    "types": [
+      "website",
+      "media"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free library of Hebrew texts with aligned translation and linked dictionaries.",
+    "notes": "Every classical Jewish text with a parallel English translation you can read line by line, plus word lookups into Jastrow and Klein and a growing modern-Hebrew section — an enormous free corpus for reading practice with a safety net. Genuinely useful if your interest in Hebrew includes the sources, and the interface for toggling and comparing translations is excellent. Be clear that most of it is Biblical and rabbinic Hebrew: the grammar and vocabulary differ from what Israelis speak, so it supplements a modern-Hebrew path rather than being one.",
+    "tags": [
+      "biblical-hebrew",
+      "reading"
+    ],
+    "popularity": 4,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "shironet",
+    "name": "Shironet",
+    "url": "https://shironet.mako.co.il/",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Israel's lyrics database — read along with the songs you already have on repeat.",
+    "notes": "Practically every Hebrew song ever released, searchable by artist or line, free. Following lyrics while listening is one of the most enjoyable ways to attack the unvowelled-reading problem, because you already know how the words sound before you have to decode them. Lyrics are Hebrew-only with no translations and no niqqud, the interface is Hebrew and ad-heavy, and poetic register means songs will teach you some words nobody says in conversation.",
+    "tags": [
+      "music",
+      "native-content"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "reddit-r-hebrew",
+    "name": "r/hebrew",
+    "url": "https://www.reddit.com/r/hebrew/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "hebrew"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Active subreddit where natives answer translation and grammar questions fast.",
+    "notes": "The most reliable free place to get a handwriting sample deciphered, a tattoo checked before it is permanent, or an explanation of why a sentence uses that preposition, usually answered by native speakers within hours. Also the best place to hear about new Hebrew resources, since the ecosystem is small and word of mouth matters. Traffic mixes Modern, Biblical and liturgical Hebrew questions, so specify which you mean, and quality of answers varies as it does anywhere on Reddit.",
+    "tags": [
+      "qa"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

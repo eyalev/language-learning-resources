@@ -1,0 +1,1116 @@
+[
+  {
+    "id": "dreaming-spanish",
+    "name": "Dreaming Spanish",
+    "url": "https://www.dreaming.com/spanish",
+    "types": [
+      "website",
+      "course",
+      "media"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A0–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Thousands of hours of levelled comprehensible-input video, from zero to advanced.",
+    "notes": "The reference implementation of the comprehensible-input method: nine native teachers from different countries make videos graded from Superbeginner to Advanced, with a roadmap measured in hours watched rather than lessons finished. Premium is about $8/month, but hundreds of hours sit free on the YouTube channel, so you can test the method before paying. It deliberately delays speaking and teaches no explicit grammar — pair it with a tutor or a grammar reference if you need to produce Spanish soon. Note the site moved from dreamingspanish.com to dreaming.com/spanish when they added French.",
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "spanishdict",
+    "name": "SpanishDict",
+    "url": "https://www.spanishdict.com/",
+    "types": [
+      "dictionary",
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The default English–Spanish dictionary, with the best free conjugation tables online.",
+    "notes": "Every entry gives multiple translations with example sentences, regional labels and audio from both Spain and Latin America, and the conjugator covers every tense of any verb you type. The free tier is genuinely enough for daily lookups; Premium mostly adds ad removal and extra lessons. Its own grammar articles are clear but shallow — fine for a quick answer, not a substitute for a real course.",
+    "popularity": 5,
+    "methods": []
+  },
+  {
+    "id": "kwiziq-spanish",
+    "name": "Kwiziq Spanish",
+    "url": "https://spanish.kwiziq.com/",
+    "types": [
+      "course",
+      "tool"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Adaptive grammar drilling that maps exactly what you know against the CEFR levels.",
+    "notes": "You take a placement test, and from then on it feeds you micro-quizzes on the specific grammar points you keep missing, tracking progress on a per-topic 'brainmap'. It is the best tool available for closing grammar gaps systematically, and the lesson notes behind each point are unusually well written. The free tier limits how many quizzes you get per month, and it does nothing for listening or speaking — treat it as the grammar half of a wider plan.",
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "espanol-con-juan",
+    "name": "Español con Juan",
+    "url": "https://www.1001reasonstolearnspanish.com/",
+    "types": [
+      "podcast",
+      "youtube",
+      "website"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "A Spanish teacher rambling entertainingly in clear, all-Spanish B1+ monologues.",
+    "notes": "Juan talks about films, books, Spanish life and his own opinions entirely in Spanish, at a pace that is slow enough to follow but never sounds like a textbook. Podcast episodes and the YouTube channel (around 390K subscribers, still posting weekly) are free; graded readers and courses are paid. It is Castilian Spanish from Spain and assumes solid A2/B1 — absolute beginners will drown.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/espa%C3%B1ol-con-juan/id976549237"
+      },
+      {
+        "label": "RSS",
+        "url": "https://espanolconjuan.blubrry.net/feed/podcast/"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "notes-in-spanish",
+    "name": "Notes in Spanish",
+    "url": "https://www.notesinspanish.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Unscripted conversations between Ben and Marina, graded across three clear levels.",
+    "notes": "Running since 2005 with a huge free archive split into Inspired Beginners, Intermediate and Advanced, it is the classic answer to 'I want to hear real Spaniards talking, not actors reading a script'. The audio is free; worksheets and transcripts are sold as paid packs, which is the main catch since the advanced episodes are genuinely hard without them. Madrid Spanish throughout, so expect vosotros and peninsular vocabulary.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-spanish-notes-in-spanish-inspired-beginners/id257441540"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.libsyn.com/shows/19057/destinations/14862.xml"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6kf6aCHaI9WsPVL2PuvRom"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "radio-ambulante",
+    "name": "Radio Ambulante",
+    "url": "https://radioambulante.org/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Long-form Latin American narrative journalism — native-speed Spanish worth listening to.",
+    "notes": "This is not a learner podcast: it is award-winning audio journalism made for Spanish speakers, telling one deeply reported Latin American story per episode. That is exactly why it works as a graduation target — accents rotate across the whole continent and nothing is slowed down for you. Free with full transcripts on the site; if you can follow an episode unaided you are comfortably B2+. The Jiveworld app was built specifically to make these episodes tractable earlier.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/radio-ambulante/id527614348"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/b3c9b6e7-72ba-45c4-aff9-b1e7012d213b/092b66a8-4329-4183-bb12-b1e7012d216f/podcast.rss"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TheMomentRamosPod"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "jiveworld",
+    "name": "Jiveworld (formerly Lupa)",
+    "url": "https://www.jiveworld.com/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Turns real Radio Ambulante episodes into a structured listening workout.",
+    "notes": "An 'ears first' app that walks you through an authentic podcast episode in passes: listen blind, then with hints, then with full text, with speed control and vocabulary support at each stage. It is the most effective bridge from learner audio to native audio that exists, and the iOS/Android apps are well built. It is expensive for what is essentially one skill, and it only makes sense once you are around B1 — below that the source material is hopeless. Launched as Lupa and renamed Jiveworld.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/spanish-fluency-for-real-life/id1480744663"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.jiveworld.lupa"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@jiveworldapp"
+      }
+    ],
+    "methods": [
+      "comprehensible-input",
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "news-in-slow-spanish",
+    "name": "News in Slow Spanish",
+    "url": "https://www.newsinslowspanish.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Current affairs read at a controlled pace, in separate Spain and Latin American editions.",
+    "notes": "Weekly episodes discuss real news plus a grammar and an expressions segment, with transcripts, translations and quizzes attached, at Beginner (A1–A2), Intermediate (B1–B2) and Advanced (C1+). Having genuinely separate Castilian and Latino versions is rare and useful if you have picked a region. Subscription-only after a 7-day trial, and the 'slow' delivery is unnatural by design — good scaffolding, bad model for how people actually speak.",
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/news-in-slow-spanish-latino-intermediate/id663939885"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.libsyn.com/shows/45040/destinations/146316.xml"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/linguistica/id1460842051"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.linguistica360.linguistica"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "hoy-hablamos",
+    "name": "Hoy Hablamos",
+    "url": "https://www.hoyhablamos.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "A daily Spanish-only episode on culture, history and everyday topics, since 2017.",
+    "notes": "Six short episodes a week at intermediate–advanced level plus one easier weekly episode, which makes it the best option if your problem is consistency rather than material. Listening is free; transcripts and exercises cost about $9.95/month. Peninsular Spanish, monologue format, no English — you need a solid B1 before it stops being noise.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/hoy-hablamos-podcast-diario-para-aprender-espa%C3%B1ol-learn/id1201483158"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.hoyhablamos.com/category/podcast/feed/"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "how-to-spanish-podcast",
+    "name": "How to Spanish Podcast",
+    "url": "https://www.howtospanishpodcast.com/",
+    "types": [
+      "podcast",
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Ana and David chatting in natural Mexican Spanish about life in Mexico.",
+    "notes": "One of the few consistently good intermediate podcasts in Mexican Spanish, hosted by a couple who talk about food, slang, travel and culture without dumbing the pace down much. The weekly episodes are free; Patreon members get reviewed transcripts, vocabulary guides and bonus advanced episodes. Note the old howtospanish.com domain has lapsed and is now a parking page — howtospanishpodcast.com is the live site.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/how-to-spanish-podcast/id1458420685"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/10594f934/podcast/rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "studyspanish-com",
+    "name": "StudySpanish.com",
+    "url": "https://studyspanish.com/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "pronunciation",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "freemium",
+    "pitch": "A plain, complete free grammar and pronunciation reference with quizzes on every topic.",
+    "notes": "An old-school site with a full grammar tutorial, a 50-lesson pronunciation tutorial and verb drills, all free and all with tests you can record grades on with a free account. The design is dated and there is nothing gamified about it, which is exactly why it is still useful — you can look up ser vs estar or the subjunctive and get a straight answer. The paid audio course is optional and not the reason to come here.",
+    "popularity": 3,
+    "methods": [
+      "grammar-reference",
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "butterfly-spanish",
+    "name": "Butterfly Spanish",
+    "url": "https://www.youtube.com/@ButterflySpanish",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Ana's warm, blackboard-style grammar explanations — the biggest Spanish teaching channel.",
+    "notes": "With around 1.6 million subscribers, this is the channel most beginners land on, and it deserves the reach: Ana explains one grammar point or vocabulary set per video, in English early on and increasingly in Mexican Spanish later. Uploads have slowed to roughly one every month or two, but the back catalogue is a complete beginner grammar course in itself. Best used as targeted explanation when something confuses you, not as a curriculum to work through in order.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "spanish-after-hours",
+    "name": "Spanish After Hours",
+    "url": "https://www.youtube.com/@SpanishAfterHours",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Elena walks around Spain narrating in slow, clear Spanish with on-screen support.",
+    "notes": "Comprehensible input done in the real world: street walks, cooking, day-in-the-life videos, all in graded Spanish from Spain with visuals doing the work of translation. Posting several times a month and completely free on YouTube. It is Castilian, so it complements the Latin American bias of most input channels — and the slower videos are genuinely usable from about A1.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "why-not-spanish",
+    "name": "Why Not Spanish?",
+    "url": "https://www.youtube.com/@WhyNotSpanish",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Cody and María's conversational Colombian Spanish, subtitled in Spanish and English.",
+    "notes": "A learner-and-native couple talking naturally about culture, travel and language, with dual subtitles that let you dial the support up or down. Colombian Spanish is famously clear, which makes this a good first 'real conversation' channel. Uploads stopped around two years ago, so treat it as a finished archive rather than an active channel — the roughly 200 videos still stand up.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "linguriosa",
+    "name": "Linguriosa",
+    "url": "https://www.youtube.com/@Linguriosa",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Entertaining deep-dives into Spanish etymology, dialects and linguistic myths, in Spanish.",
+    "notes": "Elena (Dorotea) makes genuinely funny, well-researched videos about where Spanish words come from, why Latin American and peninsular varieties diverged, and which grammar rules are nonsense. Nearly a million subscribers, mostly native speakers, which tells you the level: this is content for people, not learners. Perfect once you are B2+ and bored of learner material; useless below that.",
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "easy-spanish-youtube",
+    "name": "Easy Spanish (YouTube)",
+    "url": "https://www.youtube.com/@EasySpanish",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Unscripted street interviews across Spain and Latin America, dual-subtitled.",
+    "notes": "Ordinary people answering questions on the street, at full natural speed, with Spanish and English subtitles burned in — the closest free thing to eavesdropping. Uploads are frequent and the channel spans Mexico, Spain, Argentina and more, so you hear real accent variety rather than one teacher's voice. The unedited speed and slang make it hard before B1; the membership tier adds transcripts and vocabulary sheets.",
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "spanish-with-vicente",
+    "name": "Spanish with Vicente",
+    "url": "https://www.youtube.com/@SpanishwithVicente",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Clear Spanish-only lessons on the grammar points intermediates actually get stuck on.",
+    "notes": "Vicente teaches entirely in Spanish, aiming squarely at the B1–C1 plateau: subjunctive, ser/estar edge cases, connectors, prepositions, and the differences between real usage and textbook rules. Still posting regularly to around 245K subscribers. Best for learners who understand explanations in Spanish and want depth rather than another beginner overview.",
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "destinos",
+    "name": "Destinos: An Introduction to Spanish",
+    "url": "https://destinostelenovela.org/",
+    "types": [
+      "course",
+      "media"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "52-episode telenovela built as a full Spanish course, free with textbooks and workbooks.",
+    "notes": "A 1990s Annenberg production in which a lawyer traces a family mystery across Spain, Argentina, Puerto Rico and Mexico, deliberately exposing you to each country's accent while the language difficulty ramps up episode by episode. Annenberg's learner.org shut down in July 2026; this independent non-profit archive now hosts all 52 episodes plus the textbooks, workbooks and audio, free. The production values are unmistakably three decades old, but as a free structured beginner course with real narrative pull it has no modern equal.",
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "lightspeed-spanish",
+    "name": "Lightspeed Spanish",
+    "url": "https://www.lightspeedspanish.co.uk/",
+    "types": [
+      "podcast",
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Gordon and Cynthia's long-running free lesson archive, sorted into four clear levels.",
+    "notes": "An English teacher and a Spanish teacher explain grammar as a double act, which works well because Gordon asks the questions a learner would actually ask. Hundreds of free podcast and video lessons are grouped from Absolute Beginners to Advanced Speaker; the VIP club, books and immersion courses are paid. The recording quality is homemade and the pace is chatty, so it suits people who like a teacher's voice over polished production.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/lightspeed-spanish-beginners-spanish-lessons/id635150937"
+      },
+      {
+        "label": "RSS",
+        "url": "https://lightspeedspanish.co.uk/category/beginners/feed/"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "spanish-obsessed",
+    "name": "Spanish Obsessed",
+    "url": "https://www.spanishobsessed.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "Rob and Liz's levelled conversation podcast in Colombian Spanish, beginner to advanced.",
+    "notes": "A British learner and his Colombian partner record real conversations at four graded levels, so you can move up a rung without changing shows. The podcast archive is free; the Foundations courses (A1, A2) and Academy membership are paid. Colombian rather than peninsular Spanish, and the beginner episodes lean heavily on English explanation, which some people find slow.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/intermediate-spanish-spanish-obsessed/id623734477"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.transistor.fm/intermediate-spanish-spanish-obsessed"
+      }
+    ],
+    "methods": [
+      "comprehensible-input",
+      "structured-course"
+    ]
+  },
+  {
+    "id": "espanolistos",
+    "name": "Españolistos",
+    "url": "https://www.espanolistos.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Andrea and Nate discuss a topic per episode, mixing teaching with real conversation.",
+    "notes": "A Colombian teacher and her American husband work through culture, grammar and everyday themes, with Nate playing the learner and asking for clarification — a format that keeps the Spanish comprehensible without slowing it artificially. Nearly 500 free episodes; transcripts are offered in exchange for a donation. Solidly intermediate: expect to catch most but not all of it around B1.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/espa%C3%B1olistos-learn-spanish-with-fun-conversations/id1166015603"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.soundcloud.com/users/soundcloud:users:250273737/sounds.rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "duolingo-spanish-podcast",
+    "name": "Duolingo Spanish Podcast",
+    "url": "https://podcast.duolingo.com/spanish",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "True Latin American stories told in slow Spanish, framed by an English narrator.",
+    "notes": "Each episode follows one real person's story, told in clear intermediate Spanish with an English host stitching the scenes together, so you never lose the thread even when you lose a sentence. Production quality is excellent and transcripts are free on the site. It stopped publishing after episode 151 in early 2024, but the roughly 150-episode archive remains one of the best free bridges from beginner audio to real speech.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/duolingo-spanish-podcast/id1317493077"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/fc714074/podcast/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/2uDEXRSkpRdCmZUw8qt5fh"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "learn-spanish-con-salsa",
+    "name": "Learn Spanish con Salsa",
+    "url": "https://www.learnspanishconsalsa.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Spanish through Latin music and culture, hosted by language coach Tamara Marie.",
+    "notes": "Over 300 free episodes that teach vocabulary and expressions through salsa, bachata and reggaetón lyrics alongside interviews and learning-strategy talk. The music angle makes it genuinely different from the standard 'two people chat' podcast, and it is aimed at Latin American Spanish. Courses and coaching are the paid side; the podcast itself is free and still publishing.",
+    "tags": [
+      "latin-american-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-spanish-con-salsa-spanish-lessons-with-latin/id1444219798"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/223804.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1YqgwjGJsJieObB1MfT9ab"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@spanishconsalsa"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "unlimited-spanish",
+    "name": "Unlimited Spanish",
+    "url": "https://unlimitedspanish.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "speaking",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "Óscar's mini-stories and question-answer drills that force you to speak, not just listen.",
+    "notes": "Built on the story-and-question technique: Óscar tells a short story, then asks rapid simple questions you answer aloud in the pause, drilling grammar into reflex rather than explanation. Over 450 free episodes with free transcripts, running since 2013; the point-of-view courses are paid. Spanish from Spain, and the repetitive drill format is either exactly what you needed or maddening — try three episodes before deciding.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/unlimited-spanish-podcast-with-oscar/id1060671460"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.libsyn.com/shows/73741/destinations/320894.xml"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6ubEWht2RwxacGF5jREKv0"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCgb7lSBYB5DBgtP-W78t8Aw"
+      }
+    ],
+    "methods": [
+      "audio-method",
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "spanishpodcast-org",
+    "name": "Spanishpodcast.org",
+    "url": "https://www.spanishpodcast.org/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Barcelona-made dialogue episodes with free transcripts — everything, genuinely free.",
+    "notes": "Each episode is a realistic dialogue plus explanation of the expressions in it, with downloadable audio and transcripts and no paywall anywhere ('todo es gratuito'). Running since 2007, though new episodes have become sporadic in recent years. Peninsular Spanish, aimed at learners who want to sound idiomatic rather than merely correct.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/spanishpodcast/id252009732"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "coffee-break-spanish",
+    "name": "Coffee Break Spanish",
+    "url": "https://coffeebreaklanguages.com/coffeebreakspanish/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "grammar",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Four seasons of 15-minute lessons taking you from absolute beginner to advanced.",
+    "notes": "Mark teaches while a learner-stand-in makes the mistakes you would make, which is a well-worn format executed unusually well and in a genuinely structured sequence. All four seasons of audio are free in any podcast app; the paid versions (around £199 per season) add video lessons, bonus audio and lesson notes. Scottish-accented English explanation with Spanish from Spain — the free audio alone is a complete beginner course.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/coffee-break-spanish/id201598403"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.acast.com/public/shows/985e7c00-8945-4e0d-a4da-b93049180ce1"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "audio-method"
+    ]
+  },
+  {
+    "id": "spanish-language-coach",
+    "name": "Spanish Language Coach",
+    "url": "https://www.spanishlanguagecoach.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "César's separate false-beginner, intermediate and advanced podcasts, all Spanish-only.",
+    "notes": "A Valencia-based certified teacher running parallel podcast series so you can pick your exact level and stay in Spanish the whole time, with topics drawn from Spanish society rather than travel phrasebook situations. Podcasts, YouTube videos and several ebooks are free; the Español Intuitivo/Claro/Ágil/Avanzado courses open for enrolment in windows. Peninsular Spanish, strongest at the B1–B2 stage where good all-Spanish material is scarce.",
+    "tags": [
+      "castilian-spanish"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@SpanishLanguageCoach"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1UlqKYtmhUkLBQdOCH5JeR"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/intermediate-spanish-podcast-espa%C3%B1ol-intermedio/id1479285354"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "short-stories-in-spanish",
+    "name": "Short Stories in Spanish for Beginners (Olly Richards)",
+    "url": "https://us.teachyourself.com/products/short-stories-in-spanish-for-beginners",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Eight genre short stories written inside the 1,000 most frequent Spanish words.",
+    "notes": "Proper graded reading: sci-fi, crime and thriller stories with bolded vocabulary, chapter glossaries, plot summaries and comprehension questions, so you can read a whole book without a dictionary at your elbow. It is the standard recommendation for the moment textbook dialogues stop being enough, and there is a Volume 2 plus an intermediate edition when you outgrow it. Published by Teach Yourself; the audiobook is sold separately, which is an annoying split if you want to read and listen together.",
+    "popularity": 3,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "dle-rae",
+    "name": "Diccionario de la lengua española (RAE)",
+    "url": "https://dle.rae.es/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The official monolingual Spanish dictionary from the RAE and the 22 language academies.",
+    "notes": "The authority on what a Spanish word means, including regional labels showing which country a sense belongs to — the thing to reach for when a bilingual dictionary gives you three English words and no way to choose. Free, ad-free and continuously updated online. Definitions are written for native speakers in dense academic Spanish, so it is not a beginner tool; use SpanishDict until monolingual definitions stop being harder than the word itself.",
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "cvc-cervantes",
+    "name": "Centro Virtual Cervantes",
+    "url": "https://cvc.cervantes.es/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "spanish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "vocabulary",
+      "grammar",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Instituto Cervantes' free archive: interactive exercises, culture articles, language columns.",
+    "notes": "The Spanish government's own language institute publishes a large free library here — the Rayuela interactive exercise bank, the daily Rinconete culture column, translation and neologism blogs, and teaching materials. It is a sprawling, badly-signposted site rather than a course, so come with a specific goal. The paid AVE Global courses are the Institute's structured offering; everything under cvc.cervantes.es is free.",
+    "popularity": 2,
+    "methods": []
+  }
+]

@@ -1,0 +1,836 @@
+[
+  {
+    "id": "cantoneseclass101",
+    "name": "CantoneseClass101",
+    "url": "https://www.cantoneseclass101.com/",
+    "types": [
+      "podcast",
+      "course",
+      "app"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The largest structured Cantonese audio course, dialogue plus breakdown.",
+    "notes": "Short native dialogues followed by a line-by-line explanation, with jyutping, traditional characters, PDF transcripts and flashcards on the paid tiers, plus a YouTube channel that posts almost daily. For a language with very few complete courses, the sheer volume is the point: you can follow a beginner path end to end without assembling it yourself. The usual Innovative Language caveats apply — aggressive discount emails, confusing tiers, uneven quality between older and newer series — and the catalogue thins out above lower-intermediate.",
+    "tags": [
+      "innovative-language",
+      "audio-lessons",
+      "jyutping"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@CantoneseClass101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-cantonese-cantoneseclass101-com/id381008537"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.cantoneseclass101.com/wp-feed-audio-video.php"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/cantonese/id1546692785"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "hambaanglaang",
+    "name": "Hambaanglaang (冚唪唥粵文讀本)",
+    "url": "https://hambaanglaang.hk/",
+    "types": [
+      "book",
+      "website",
+      "course"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free graded readers in written Cantonese, each with audio and video.",
+    "notes": "A Hong Kong community project publishing story books written in real Cantonese (粵文, not standard written Chinese), graded step by step and split into a series for all ages and one written specifically for teens and adults, with a video and an audio recording for every book plus lesson plans for teachers. Reading it all online is free; printed sets are sold to fund the project. This is the graded-reading resource Cantonese has always lacked, but the site is Cantonese-first and awkward to navigate, and written Cantonese looks alien at first even if you read Chinese.",
+    "tags": [
+      "graded-reader",
+      "reading",
+      "free-curriculum",
+      "written-cantonese"
+    ],
+    "popularity": 3,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "words-hk",
+    "name": "words.hk (粵典)",
+    "url": "https://words.hk/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The modern Cantonese dictionary, defined in Cantonese by Cantonese speakers.",
+    "notes": "A large crowd-built dictionary where entries are defined in Cantonese itself with jyutping, usage examples and English glosses on many words, alongside a corpus of written Cantonese text. Because it documents how people actually speak, it catches slang, particles and internet coinages that older Chinese dictionaries pretend do not exist. The main site is in Chinese; CantoWords.com is the same data with an English interface, which is what most learners should use. Not every entry has an English gloss yet.",
+    "tags": [
+      "monolingual",
+      "reference",
+      "jyutping"
+    ],
+    "links": [
+      {
+        "label": "English site",
+        "url": "https://cantowords.com/"
+      }
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "cc-canto",
+    "name": "CC-Canto",
+    "url": "https://cantonese.org/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Free open-source Cantonese-English dictionary, searchable by jyutping or Yale.",
+    "notes": "Pleco's open Cantonese project: it merges the CC-Canto database with CC-CEDICT and Cantonese readings, so you can search by characters, jyutping, Yale or English and get clean English definitions. Everything is free, the data is downloadable, and the same dictionary installs as a free add-on inside the Pleco app for offline lookup on a phone — the usual setup for serious learners. It leans on Mandarin-era CC-CEDICT data for many entries, so for colloquial Cantonese usage check words.hk as well.",
+    "tags": [
+      "reference",
+      "jyutping",
+      "offline"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "jyutping-org",
+    "name": "Jyutping.org (粵拼)",
+    "url": "https://jyutping.org/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "pronunciation",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Learn the jyutping romanisation properly before you learn anything else.",
+    "notes": "A dedicated free site for the LSHK jyutping scheme — what each initial, final and tone number means, how to learn the system in one sitting, and which input methods let you type Cantonese by sound. Getting jyutping straight early is the single highest-leverage hour in Cantonese, because every good dictionary and course assumes it. The site is written mainly in Cantonese with only partial English, so pair it with a jyutping chart in English if you are starting from zero.",
+    "tags": [
+      "jyutping",
+      "pronunciation",
+      "reference"
+    ],
+    "popularity": 3,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "cantonese-tools",
+    "name": "Cantonese Tools",
+    "url": "https://www.cantonese.tools/",
+    "types": [
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "writing",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "How to actually type, dictate and hear Cantonese on your phone and computer.",
+    "notes": "A free practical guide to Cantonese support on iOS, macOS, Android and Windows: handwriting and Cangjie input for traditional characters, jyutping and Yale typing by sound, text-to-speech so you can hear any text read aloud, and dictation. It solves the unglamorous problem that stops people writing Cantonese at all. Narrow by design — it teaches you nothing about the language itself — and the device instructions need re-checking after major OS updates.",
+    "tags": [
+      "typing",
+      "tools"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "learn-cantonese-together",
+    "name": "Learn Cantonese Together",
+    "url": "https://www.youtube.com/@LearnCantoneseTogether",
+    "types": [
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Comprehensible input in Cantonese only, colour-coded from zero to advanced.",
+    "notes": "Built explicitly on Krashen and the ALG approach: every video is in Cantonese with visuals and context doing the explaining, and each title is tagged complete beginner, beginner, intermediate or advanced so you can find your level immediately. Topics come from Hong Kong life and news, uploads ran several times a week through August 2026, and there is an audio-only podcast version. It is free. The channel is young, so the higher levels have less material than the beginner tiers, and there is no grammar explanation anywhere by design.",
+    "tags": [
+      "comprehensible-input",
+      "immersion",
+      "graded"
+    ],
+    "links": [
+      {
+        "label": "Podcast",
+        "url": "https://podcasts.apple.com/us/podcast/learn-cantonese-together/id1896888426"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-cantonese-together/id1896888426"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/1138462a0/podcast/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/033uYo20swKFhlOgb2LuTt"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "comprehensible-cantonese",
+    "name": "Comprehensible Cantonese",
+    "url": "https://www.youtube.com/@comprehensiblecantonese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Natural Cantonese conversation and travel vlogs, captioned in Cantonese.",
+    "notes": "Running since 2020 and still posting weekly in 2026, this channel puts Cantonese closed captions on every video, so you can watch conversations and trip diaries with the written form in front of you and switch the support off as you improve. That combination — unscripted speech plus accurate Cantonese subtitles — is rare and is exactly what the intermediate stage needs. It is free, and it aims above absolute beginners: expect natural pace and no English explanation.",
+    "tags": [
+      "comprehensible-input",
+      "subtitles",
+      "authentic-speech"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "five-minute-cantonese",
+    "name": "5 minute Cantonese",
+    "url": "https://www.youtube.com/@5minutecantonese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Amanda's numbered short lessons on the small words that trip learners up.",
+    "notes": "A Hong Kong teacher with a multilingual background has published nearly three hundred numbered lessons, still weekly in 2026, focusing on the details that make Cantonese hard: sentence-final mood particles, tone contrasts, quiz-style review of everyday vocabulary. Short enough to watch on a break, and free, with a membership tier for extras. The numbering is chronological rather than a syllabus, so treat it as a lucky-dip of targeted explanations rather than a course to work through in order.",
+    "tags": [
+      "grammar",
+      "vocabulary",
+      "particles"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "cantoboo",
+    "name": "CantoBoo!",
+    "url": "https://www.youtube.com/@CantoBoo",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "vocabulary",
+      "speaking",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Absolute-beginner drills on the highest-frequency Cantonese words and patterns.",
+    "notes": "A Hong Kong channel aimed squarely at people starting from zero: it takes a small set of very common words and shows how to recombine them into sentences you can use the same day, mostly in short vertical videos, and it was still active in August 2026. Free, and the repetition is genuinely useful for fixing tones early. The short-form format means very little context and no progression to follow, so it works as daily reinforcement next to a structured course, not as one.",
+    "tags": [
+      "beginner",
+      "vocabulary"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "cantonese-after-hours",
+    "name": "Cantonese after hours",
+    "url": "https://www.youtube.com/@Cantoneseafterhours",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A Hong Kong native building a slow, learner-paced video series from scratch.",
+    "notes": "A small free channel by a Hong Konger who teaches languages on the side, working through a numbered series — self-introduction, talking about Hong Kong — at a pace built for learners, with a companion site. New episodes appeared through mid-2026. The library is genuinely small, so this is one to subscribe to and grow with rather than binge; use it for the friendly, unhurried delivery when the bigger channels feel too fast.",
+    "tags": [
+      "beginner",
+      "spoken-cantonese"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.cantoneseafterhours.com/"
+      }
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "cantonese-with-brittany",
+    "name": "Cantonese with Brittany",
+    "url": "https://www.youtube.com/@cantobritt",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "A learner's-eye channel on Cantonese study, culture and overseas Chinese life.",
+    "notes": "Brittany learned Cantonese as an adult and made videos for overseas Chinese families and fellow learners: study strategy, native speakers testing her Cantonese, food and culture episodes, plus study-tip posts on her blog. That learner perspective is the value — she names the things natives forget to explain. Uploads stopped in late 2022, so treat it as a finished free archive rather than an active channel; nothing in it has gone stale.",
+    "tags": [
+      "archive",
+      "culture",
+      "study-tips"
+    ],
+    "links": [
+      {
+        "label": "Blog",
+        "url": "https://www.cantonesewithbrittany.com/"
+      }
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "cantonese-corner-cantolingo",
+    "name": "Cantonese Corner & CantoLingo",
+    "url": "https://www.youtube.com/@cantonesecorner",
+    "types": [
+      "youtube",
+      "community"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "An adult learner turned teacher on speaking plus reading traditional characters.",
+    "notes": "Sue Marguerite moved to Hong Kong in 1988, learned Cantonese and traditional characters as an adult, and has been teaching since 2017 — so the channel covers the half most Cantonese resources skip, reading and writing characters with Cantonese readings rather than Mandarin ones. YouTube videos are free; the CantoLingo community and courses are a paid subscription. Uploads have slowed considerably (the most recent were early 2026), so check the back catalogue rather than expecting a weekly stream.",
+    "tags": [
+      "traditional",
+      "reading",
+      "community"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "dope-chinese-gloria",
+    "name": "Dope Chinese with Gloria",
+    "url": "https://www.youtube.com/@dopecantonese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Listening practice and common-mistake videos from a Guangdong Cantonese teacher.",
+    "notes": "Gloria posts short, free listening exercises, beginner vocabulary sets and 'most learners get this wrong' clips, and was still uploading in August 2026, with paid classes as the commercial side. Two things to know: she teaches both Cantonese and Mandarin on the same channel, so you will need to filter, and she is based in Guangdong rather than Hong Kong — the language is the same but some vocabulary and written conventions differ from Hong Kong usage.",
+    "tags": [
+      "listening",
+      "guangdong"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "orangugu-cantonese",
+    "name": "Orangugu Cantonese (廣東話小星猩)",
+    "url": "https://www.youtube.com/@orangugucantonese3270",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Original songs, comics and games for overseas Hong Kong kids learning Cantonese.",
+    "notes": "Founded in 2022 by a Hong Kong teacher to give diaspora children proper Cantonese and traditional-Chinese material, with original songs, interactive games, comic-based lessons and an interactive podcast series, still publishing in 2026 and free. Adults are not the audience, but the slow, repetitive, picture-supported speech makes it usable early listening practice — and the comic episodes are a gentle way into reading written Cantonese.",
+    "tags": [
+      "kids",
+      "traditional",
+      "comprehensible-input"
+    ],
+    "popularity": 1,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "bite-size-cantonese",
+    "name": "Bite Size Cantonese",
+    "url": "https://podcasts.apple.com/us/podcast/bite-size-cantonese/id1823318361",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Short weekly episodes on everyday phrases, tones and pronunciation fixes.",
+    "notes": "Celia publishes a few minutes at a time — practical vocabulary, tone and pronunciation tips, cultural context, and some episodes recorded entirely in Cantonese as comprehensible input — with about fifty episodes by mid-2026 and a new one most weeks. Free, and transcripts are available if you email her. The episodes are deliberately tiny and not sequenced into a course, so use it as the habit-forming daily drip rather than your main study.",
+    "tags": [
+      "beginner",
+      "pronunciation",
+      "daily"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/bite-size-cantonese/id1823318361"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/106778cb8/podcast/rss"
+      }
+    ],
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "chatty-cantonese",
+    "name": "Chatty Cantonese (粵語白白講)",
+    "url": "https://podcasts.apple.com/us/podcast/chatty-cantonese/id1588780616",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "A teacher and a student in real Cantonese conversation, with transcripts.",
+    "notes": "Forty-plus episodes of unscripted Cantonese conversation aimed at building listening, interleaved with English-language interviews with people in the global Cantonese world — linguists, literary translators, community-school teachers — and every episode links a transcript and vocabulary list. The transcripts are what make the Cantonese episodes usable at intermediate level. It stopped publishing in April 2025, so this is a complete free archive rather than a live show.",
+    "tags": [
+      "archive",
+      "transcripts",
+      "authentic-speech"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/chatty-cantonese-%E7%B2%B5%E8%AA%9E%E7%99%BD%E7%99%BD%E8%AC%9B/id1588780616"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/1864001.rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "naked-cantonese",
+    "name": "Naked Cantonese (RTHK)",
+    "url": "https://podcasts.apple.com/us/podcast/rthk-naked-cantonese/id217743398",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Two hundred short, funny Hong Kong radio lessons on the Cantonese people speak.",
+    "notes": "Cecilie Gamst Berg and Sarah Passmore made this for RTHK Radio 3: seven-to-fifteen-minute lessons on slang, swearing, food ordering and the phrases textbooks refuse to print, delivered as comedy rather than instruction. The full run of roughly two hundred episodes is free from RTHK and the podcast apps. It ended in 2021 and the audio quality shows its age, and it is a supplement rather than a syllabus — but nothing since has been this entertaining about spoken Cantonese.",
+    "tags": [
+      "archive",
+      "slang",
+      "public-broadcaster"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/rthk-naked-cantonese/id217743398"
+      },
+      {
+        "label": "RSS",
+        "url": "https://podcast.rthk.hk//podcast/nakedlunch.xml"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "rthk-cantonese",
+    "name": "RTHK",
+    "url": "https://www.rthk.hk/radio/radio1",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Hong Kong's public broadcaster: live Cantonese radio and on-demand archives.",
+    "notes": "Radio 1 and Radio 2 stream live and almost everything is available on demand, giving you unlimited free Cantonese news, phone-ins, drama and culture programming recorded for Hong Kong people rather than for learners. It is the most reliable free source of native Cantonese audio outside Hong Kong, since the commercial streamers geo-block. Nothing is graded or transcribed and the site is clunky to browse, so save individual programmes you like rather than trying to navigate it each time.",
+    "tags": [
+      "news",
+      "public-broadcaster",
+      "authentic-speech"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/id371680815"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=hk.rthk.fwRTHK01"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "cantonese-comprehensive-grammar",
+    "name": "Cantonese: A Comprehensive Grammar",
+    "url": "https://www.routledge.com/Cantonese-A-Comprehensive-Grammar/Matthews-Yip/p/book/9781138831322",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Matthews and Yip's standard reference — the serious book on Cantonese grammar.",
+    "notes": "The reference work for the language, describing spoken Hong Kong Cantonese systematically: classifiers, aspect markers, the sentence-final particles that carry so much of the meaning, comparative and relative structures, and code-mixing with English, all with jyutping and translations. If you have ever wondered why a particle changes the whole tone of a sentence, the answer is in here. It is a linguist's description with no exercises and no audio, and it costs reference-book money — buy it when courses stop answering your questions.",
+    "tags": [
+      "grammar",
+      "reference",
+      "textbook"
+    ],
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "basic-cantonese-workbook",
+    "name": "Basic Cantonese: A Grammar and Workbook",
+    "url": "https://www.routledge.com/Basic-Cantonese-A-Grammar-and-Workbook/Yip-Matthews/p/book/9780415471817",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "writing",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Twenty-eight short grammar units, each drilled with exercises and an answer key.",
+    "notes": "The same authors as the comprehensive grammar, rewritten for beginners: each unit explains one point in a couple of pages and then makes you use it, with answers in the back so self-study actually works, and an Intermediate Cantonese volume waiting when you finish. Everything is in jyutping with characters, which keeps the focus on speech. There is no audio and no conversation practice, so it is the grammar half of a plan that also needs listening and a speaking partner.",
+    "tags": [
+      "grammar",
+      "textbook",
+      "self-study",
+      "jyutping"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "colloquial-cantonese",
+    "name": "Colloquial Cantonese",
+    "url": "https://www.routledge.com/Colloquial-Cantonese-The-Complete-Course-for-Beginners/Yip-Matthews/p/book/9780415478878",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "speaking",
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "A complete beginner course in book form, with the audio free to download.",
+    "notes": "Yip and Matthews take you from nothing to basic conversation through graded dialogues, vocabulary and exercises, using jyutping alongside characters, and the accompanying audio is free to stream or download from Routledge's Colloquials site even though the book itself is paid. For learners who want a structured path on paper rather than a video playlist, this is the standard choice. The dialogues are functional rather than lively, and the book alone will not get you speaking without someone to practise with.",
+    "tags": [
+      "textbook",
+      "structured-course",
+      "jyutping"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "reddit-r-cantonese",
+    "name": "r/Cantonese",
+    "url": "https://www.reddit.com/r/Cantonese/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "cantonese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The main English-language forum for Cantonese learners and native speakers.",
+    "notes": "The place to ask what a phrase means, get a sanity check on a translation, or find out which resource people actually use, with native speakers and long-term learners answering — plus recurring debates about romanisation, written Cantonese and the language's political situation that are worth reading once. Free and searchable, so check the archive before posting. Answers are crowd-sourced and occasionally confidently wrong, and threads skew toward Hong Kong usage.",
+    "tags": [
+      "qa",
+      "community"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

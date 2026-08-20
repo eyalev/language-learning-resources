@@ -1,0 +1,922 @@
+[
+  {
+    "id": "easy-polish",
+    "name": "Easy Polish",
+    "url": "https://www.youtube.com/@EasyPolish",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Street interviews and everyday conversation with dual Polish/English subtitles.",
+    "notes": "Aga, Justyna and the Katowice team have been filming unscripted Polish for over a decade — strangers on the street, friends at home, plus 'Super Easy Polish' episodes slowed right down for beginners — all dual-subtitled so the same video serves several levels. It is the fastest cure for the shock of real Polish after textbook audio. Videos are free and weekly; the membership adds exercises, a Discord community and live classes with teachers.",
+    "tags": [
+      "authentic-speech",
+      "subtitles"
+    ],
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.easypolish.org/"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "real-polish",
+    "name": "Real Polish",
+    "url": "https://realpolish.pl/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Piotr's story-driven Polish podcast — over 1,500 lessons, still going in 2026.",
+    "notes": "One of the oldest and largest comprehensible-input projects for Polish: episodes told entirely in Polish at a considerate but natural pace, built around stories and observations rather than grammar drills, with a huge free archive on the podcast feed and YouTube. If you want volume of Polish input organised by an actual teacher, nothing else comes close. The structured courses, transcripts and guided paths sit behind a monthly VIP subscription, and the site's marketing is heavy.",
+    "tags": [
+      "comprehensible-input",
+      "story-based"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MrRealPolish"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/real-conversations-no-polish-no-agenda/id1868797754"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/10db6a75c/podcast/rss"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "polski-daily",
+    "name": "Polski Daily",
+    "url": "https://polskidaily.eu/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Paulina's podcast and club for people who actually live in Poland.",
+    "notes": "Paulina Lipiec, trained in teaching Polish as a second language, started the podcast in 2016 out of frustration at how dull the available listening material was; two hundred-plus episodes later it covers language, culture and life in Poland with worksheets and transcripts. Her explanations of things Poles do and say make it as much cultural onboarding as language practice. The podcast and YouTube clips are free; worksheets, courses and the members' club are paid.",
+    "tags": [
+      "culture",
+      "living-in-poland"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PolskiDaily"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/polski-daily-stories-talks/id1350226139"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.spreaker.com/show/2904335/episodes/feed"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "polishpod101",
+    "name": "PolishPod101",
+    "url": "https://www.polishpod101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Innovative Language's structured Polish audio course, still publishing weekly.",
+    "notes": "Dialogue lessons with transcripts, line-by-line breakdowns, vocabulary lists and a spaced-repetition trainer, arranged into beginner-to-intermediate pathways — reliable scaffolding for the first year of Polish. The free podcast feed is a decent standalone resource. As with the whole PodX01 family, expect constant upselling, patchy older lessons and little content above B1.",
+    "tags": [
+      "innovative-language",
+      "audio-lessons"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-polish-polishpod101-com/id381009140"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.polishpod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "polish-with-dorota",
+    "name": "Polish with Dorota",
+    "url": "https://polishwithdorota.pl/",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "speaking",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "Grammar-focused video lessons that target where learners actually get stuck.",
+    "notes": "Dorota teaches the parts of Polish that break people — case endings, surname declension, building sentences, complaining convincingly — in weekly videos aimed at making you produce language rather than recognise it. She is uploading consistently through 2026 and the free channel alone is a solid grammar course. Self-study video courses and her online school are paid, and the site's framing leans hard on sales language.",
+    "tags": [
+      "grammar",
+      "speaking-practice"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@polishwithdorota"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "plynnie-po-polsku",
+    "name": "Płynnie po polsku",
+    "url": "https://plynniepopolsku.pl/",
+    "types": [
+      "podcast",
+      "youtube"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "A certified Polish teacher's podcast and channel, over 120 episodes.",
+    "notes": "Anna, a certified teacher of Polish as a foreign language who speaks a stack of languages herself, records short thematic episodes in Polish for learners settling into life in Poland or with Polish family. Uploads have continued steadily through 2026 and the level is well judged for A2–B2. The podcast and videos are free; courses and one-to-one lessons are paid.",
+    "tags": [
+      "teacher-led",
+      "living-in-poland"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/p%C5%82ynnie-po-polsku-learn-polish-with-anna/id1775366963"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/b92708bc/podcast/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/1Ri7yWrTfhDkSJa0XMl4v4"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCM1vdTt_oFZw5rD0wCLC4dA"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "swojski-jezyk-polski",
+    "name": "Swojski język polski",
+    "url": "https://swojskijezykpolski.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "All-Polish podcast whose episodes come with full written transcriptions.",
+    "notes": "Agnieszka Podemska speaks only Polish across some 87 episodes, and — crucially — publishes transcripts, which turns passive listening into something you can actually study line by line. Transcripts are rare for Polish learner podcasts and are the main reason to pick this one. New episodes have slowed to a trickle since early 2026, and the transcripts sit behind a paid tier while the audio stays free.",
+    "tags": [
+      "transcripts",
+      "polish-only"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/swojski-j%C4%99zyk-polski-learn-polish-podcast/id1543600480"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/fe28dd78/podcast/rss"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@SwojskiJezykPolski"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4Ov2QGkot3ckdhZpUa7Xv1"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "hello-polish",
+    "name": "HelloPolish!",
+    "url": "https://www.hellopolish.pl/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A free level-tagged podcast archive using authentic Polish, A1 through C1.",
+    "notes": "Every episode is labelled with its CEFR level and streams free from the site, including a run of episodes on preparing for the state certification exam at B1. The explicit level tagging makes it unusually easy to find material that fits you, and the archive is large enough to last months. It stopped producing new episodes around 2023, so treat it as a finished library rather than a live show.",
+    "tags": [
+      "graded",
+      "archive",
+      "exam-prep"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/hellopolish/id1448877481"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.hellopolish.pl/feed/podcast/"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6nJ2LaSzsJyoch5kTFhwnq"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "mowic-po-polsku",
+    "name": "Mówić po polsku",
+    "url": "https://mowicpopolsku.com/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free, well-organised explanations of Polish alphabet, grammar and vocabulary.",
+    "notes": "A long-standing free site that walks English speakers through the Polish alphabet and pronunciation rules, then the cases, tenses and conjugation, with everyday vocabulary and phrase sets alongside. The pronunciation section in particular is where most beginners should start with Polish. It is static reference material — no exercises, no feedback, and it does not go far past B1.",
+    "tags": [
+      "pronunciation",
+      "grammar-reference"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "polski-info",
+    "name": "polski.info",
+    "url": "https://polski.info/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "A free multilingual Polish course with grammar guide and audio dictionary.",
+    "notes": "A publicly funded platform offering structured distance courses in Polish, a full grammar guide and a basic dictionary with recorded pronunciation, with the interface available in ten languages including German, Czech, Ukrainian and Russian. Completely free with a simple sign-up, and the non-English interface languages make it a rare good fit for learners who aren't coming from English. Coverage stops around B1 and the platform is fairly plain.",
+    "tags": [
+      "free-curriculum",
+      "multilingual"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "polski-na-wynos",
+    "name": "Polski na wynos",
+    "url": "https://www.polskinawynos.com/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Free downloadable worksheets and ready-made lessons for Polish, any level.",
+    "notes": "A materials bank built by Polish-as-a-foreign-language teachers: printable grammar and vocabulary worksheets, ready-made lesson plans and student handouts, all free to use as long as you credit the source. Self-studiers can mine it for practice on exactly the topic they are stuck on. It is a pile of resources rather than a path — you have to know what you need, and much of the site is in Polish.",
+    "tags": [
+      "worksheets",
+      "teacher-materials"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "wsjp",
+    "name": "Wielki słownik języka polskiego (WSJP)",
+    "url": "https://wsjp.pl/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The most detailed free dictionary of Polish: meanings, collocations, inflection.",
+    "notes": "An academic dictionary of contemporary Polish from the Polish Academy of Sciences, giving each word its full inflection table, typical collocations, corpus examples and etymology — far more than a translation dictionary tells you. The collocation data is what stops you writing grammatically correct Polish that no Pole would say. Monolingual and dense, so it becomes useful somewhere around B1.",
+    "tags": [
+      "monolingual",
+      "academic",
+      "collocations"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "sjp-pwn",
+    "name": "Słownik języka polskiego PWN",
+    "url": "https://sjp.pwn.pl/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "writing",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "PWN's standard Polish dictionary plus the language-usage advice service.",
+    "notes": "The reference publisher's free portal bundles the main Polish dictionary with the official spelling and punctuation rules and the Poradnia Językowa, a free national service where linguists answer the public's questions about correct usage. It is the place Poles themselves check when they argue about a word. Definitions are in Polish only, and some content nudges you toward the paid subscription editions.",
+    "tags": [
+      "monolingual",
+      "official",
+      "usage"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "sgjp",
+    "name": "Słownik gramatyczny języka polskiego",
+    "url": "https://sgjp.pl/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Look up any Polish word and get every inflected form, free.",
+    "notes": "A grammatical dictionary that exists to answer one question completely: what are all the forms of this word. Given Polish's seven cases, three genders in the plural and unpredictable verb stems, having an authoritative full paradigm on demand saves enormous guesswork. No definitions and no translations — pair it with WSJP or a bilingual dictionary.",
+    "tags": [
+      "inflection",
+      "declension",
+      "conjugation"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "diki",
+    "name": "Diki",
+    "url": "https://www.diki.pl/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "vocabulary",
+      "pronunciation",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The bilingual dictionary Poles use, with audio and example sentences both ways.",
+    "notes": "Diki covers Polish against English and several other languages with recorded pronunciation, example sentences, collocations and picture vocabulary, and it handles the English-to-Polish direction far better than generic dictionary sites. For beginners it is the practical everyday lookup while WSJP is still out of reach. Ad-supported with a paid ad-free tier, and the interface defaults to Polish.",
+    "tags": [
+      "bilingual",
+      "audio"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "wolne-lektury",
+    "name": "Wolne Lektury",
+    "url": "https://wolnelektury.pl/",
+    "types": [
+      "media",
+      "book"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Thousands of Polish literary works free as ebooks and audiobooks.",
+    "notes": "A public digital library of Polish literature — the school canon plus much more — free to read online or download, with a large catalogue of professionally recorded audiobooks and annotations explaining archaic words. Reading a book while listening to its recording is the classic route into advanced Polish, and here it costs nothing. The catalogue is mostly out-of-copyright classics, so the language is often older than what you will hear on the street.",
+    "tags": [
+      "literature",
+      "audiobooks",
+      "public-domain"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "swan-polish-grammar",
+    "name": "Oscar Swan's Polish grammar (Univ. of Pittsburgh)",
+    "url": "https://lektorek.org/lektorek/",
+    "types": [
+      "book",
+      "website"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "A full academic Polish grammar in English, free as a PDF from Pittsburgh.",
+    "notes": "Oscar Swan's grammar of contemporary Polish, hosted free by the University of Pittsburgh alongside his first-year Polish lesson materials, is the most thorough English-language treatment of Polish grammar you can get without paying. It is the reference to consult when a learner site's explanation of aspect or motion verbs leaves you unconvinced. The site itself has not been touched in about two decades and looks it — go straight to the PDF.",
+    "tags": [
+      "reference-grammar",
+      "university",
+      "free-book"
+    ],
+    "links": [
+      {
+        "label": "Grammar PDF",
+        "url": "https://lektorek.org/lektorek/grammar.pdf"
+      },
+      {
+        "label": "First Year Polish",
+        "url": "https://lektorek.org/lektorek/firstyear/"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hurra-po-polsku",
+    "name": "HURRA!!! Po polsku (PROLOG)",
+    "url": "https://prologpublishing.com/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "The bestselling Polish-as-a-foreign-language textbook series, A1 to C1.",
+    "notes": "PROLOG's HURRA!!! series, written by practising teachers, is the course book most Polish language schools build their classes on, running from absolute beginner up to advanced with workbooks, audio and the Testuj Swój Polski exam-practice companion. Following it keeps your self-study aligned with what a class or tutor will assume you know. Written to be taught, so working through it alone is harder than a self-study course, and the books must be bought.",
+    "tags": [
+      "textbook",
+      "classroom-standard"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "e-polish-eu",
+    "name": "e-polish.eu (Polski krok po kroku)",
+    "url": "https://e-polish.eu/",
+    "types": [
+      "course",
+      "book",
+      "tool"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "The Krok po kroku textbook line plus an online exercise and games platform.",
+    "notes": "Thirty years of Polish-for-foreigners publishing behind the Polski krok po kroku series, now paired with a platform of interactive exercises, tests and teacher tools used by tens of thousands of students in dozens of countries. Krok po kroku is the main alternative to HURRA!!! and is often preferred for self-study because it explains more as it goes. The books are paid and the deeper platform features are aimed at teachers; the interface is Polish-first.",
+    "tags": [
+      "textbook",
+      "exercises"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "culture-pl-alphabet",
+    "name": "A Foreigner's Guide to the Polish Alphabet (Culture.pl)",
+    "url": "https://culture.pl/en/article/a-foreigners-guide-to-the-polish-alphabet",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "pronunciation",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "A clear, entertaining walk through every Polish letter and digraph.",
+    "notes": "Culture.pl, run by the Adam Mickiewicz Institute, explains the Polish alphabet letter by letter in English, including the sounds that terrify newcomers — ś versus sz, ć versus cz, the nasal ą and ę — with cultural asides that make it stick. Read it on day one, before you attempt any vocabulary. It is a single article, not a pronunciation course, so follow it with recorded audio practice.",
+    "tags": [
+      "pronunciation",
+      "alphabet",
+      "first-week"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "certyfikat-polski",
+    "name": "Certyfikat z języka polskiego (NAWA)",
+    "url": "https://certyfikatpolski.pl/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "writing",
+      "speaking",
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Official site for Poland's state Polish exam: dates, centres, sample papers.",
+    "notes": "The state certification of Polish as a foreign language is what counts for citizenship, university admission and many employers, and this NAWA-run site carries the exam calendar, the list of examination centres worldwide, registration and the official format information. Even if you never sit it, the published requirements are a useful map of what each CEFR level means in Polish. Information only — no teaching material, and mostly in Polish.",
+    "tags": [
+      "exam",
+      "official",
+      "certification"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "polskie-radio-player",
+    "name": "Polskie Radio",
+    "url": "https://player.polskieradio.pl/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Poland's public radio streams and archive — native Polish, free, no geo-block.",
+    "notes": "All the public radio channels plus a deep archive of programmes on news, culture, science and music, freely streamable from anywhere. Once learner podcasts stop stretching you, unscripted radio at full speed is the next step, and the news channel gives you the same stories repeatedly, which helps enormously. No transcripts, no concessions to learners, and the presenters talk fast.",
+    "tags": [
+      "native-content",
+      "radio"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "vod-tvp",
+    "name": "TVP VOD",
+    "url": "https://vod.tvp.pl/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Polish public-service TV on demand: series, films and children's programming.",
+    "notes": "A large catalogue of Polish drama, documentaries, classic films and kids' shows, much of it free to stream, which makes it the easiest way to get hours of Polish in front of you. Children's programming and dubbed content are far gentler entry points than adult drama. Subtitle availability is inconsistent, some titles are paid or geo-restricted, and the player is ad-heavy.",
+    "tags": [
+      "television",
+      "immersion",
+      "geo-restricted"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "reddit-learnpolish",
+    "name": "r/learnpolish",
+    "url": "https://www.reddit.com/r/learnpolish/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The main English-language community for Polish learners, with a resource wiki.",
+    "notes": "Native speakers answer grammar and usage questions here daily, and the subreddit wiki collects dictionaries, free grammar PDFs, reading and news links in one place. The companion r/WriteStreakPolish gives you native corrections on short daily writing, which is hard to get anywhere else for free. Wiki links have aged unevenly, so check anything before relying on it.",
+    "tags": [
+      "forum",
+      "q-and-a",
+      "writing-practice"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "polishforums-language",
+    "name": "PolishForums – Language section",
+    "url": "https://polishforums.com/language/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "polish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Two decades of archived threads on Polish grammar puzzles and translation.",
+    "notes": "An old-fashioned forum whose language board holds years of detailed discussion of aspect, case usage, dialects, surnames and translation problems, much of it from native speakers with a linguistic bent. Searching the archive often answers a question no learner site addresses. The wider site is quieter than it was and can drift into off-topic argument, so stay in the language section.",
+    "tags": [
+      "forum",
+      "archive"
+    ],
+    "popularity": 2,
+    "methods": []
+  }
+]

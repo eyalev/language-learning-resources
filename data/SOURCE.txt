@@ -1,0 +1,4 @@
+source: howtolearn.app working repo
+synced: 2026-08-20T16:26:55Z
+commit: e6dd9cffbebc752d0dcb534a7cc59d6a8e2766d8
+dirty:  0 uncommitted change(s) under data/

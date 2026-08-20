@@ -1,0 +1,751 @@
+[
+  {
+    "id": "czechclass101",
+    "name": "CzechClass101",
+    "url": "https://www.czechclass101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The largest structured Czech audio-lesson library, with transcripts and flashcards.",
+    "notes": "Innovative Language's Czech arm: dialogue-based audio and video lessons arranged into level pathways, each with a PDF transcript, line-by-line breakdown and SRS flashcards. Czech has very few structured audio courses, which is what makes this worth considering despite the format. A free lifetime account unlocks a fraction of the library, the rest is subscription-only, and the upgrade prompts are constant. The catalogue thins out badly above B1. The public podcast feed was still updating in August 2026.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Czechclass101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-czech-czechclass101-com/id785218994"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.czechclass101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "slowczech",
+    "name": "slowczech",
+    "url": "https://slowczech.com/",
+    "types": [
+      "podcast",
+      "course",
+      "tutoring",
+      "youtube"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Slowly-spoken Czech podcast plus tutoring, aimed at people living in Czechia.",
+    "notes": "Eliška's team built slowczech around one problem — foreigners who understand Czech on paper but freeze in a shop — so the podcast (close to 300 episodes and still weekly in August 2026) speaks slowly about ordinary life, and the tutoring and immersion programmes push output from the first lesson. There is a free starter kit and the whole podcast archive costs nothing. Self-paced courses, group immersion and one-to-one lessons are paid, and the content stops around B1.",
+    "tags": [
+      "slow-speech"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@slowczech"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/slowczech-learn-czech-for-real-life/id1466543587"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.blubrry.com/feeds/slowczech.xml"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6oylf2ljLhnt67G3cOge4b"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "easy-czech",
+    "name": "Easy Czech",
+    "url": "https://easyczech.org/",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Street interviews in real spoken Czech, with a slower 'Super Easy' beginner series.",
+    "notes": "The Czech branch of the Easy Languages format: unscripted conversations filmed on the street in Prague and elsewhere, subtitled in Czech and English so you can see the gap between textbook Czech and what people actually say — including the obecná čeština endings courses tend to hide. The parallel 'Super Easy Czech' series slows everything down for beginners. Free on YouTube and still posting in August 2026, though at a slower cadence than the larger Easy Languages channels.",
+    "tags": [
+      "comprehensible-input",
+      "street-interviews"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EasyCzechVideos"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "czech-step-by-step",
+    "name": "Czech Step by Step",
+    "url": "https://www.czechstepbystep.cz/",
+    "types": [
+      "book",
+      "website",
+      "youtube"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "reading",
+      "listening",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The standard Czech-for-foreigners textbook family, with free audio and exercises.",
+    "notes": "Lída Holá's series — Čeština Start, Čeština expres, Česky krok za krokem and New Czech Step by Step — is what most Czech language schools teach from, with editions annotated in English, German, Russian, Ukrainian, Polish and Spanish. Crucially, the audio recordings, online exercises, word banks and teacher manuals are free downloads even if you don't buy the books, and the accompanying YouTube channel posts short graded news videos with subtitles most weeks. The books themselves are paid, and prices are high for what is a fairly traditional course.",
+    "tags": [
+      "textbook",
+      "graded-news"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@czech-step-by-step"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "czechonline-mluvte-cesky",
+    "name": "Mluvte česky / Czech Online",
+    "url": "https://www.czechonline.org/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "A completely free 114-lesson Czech course, including medical, legal and business Czech.",
+    "notes": "An EU-supported portal offering a full free course with no time limit and no ads, split into five strands — everyday, medical, business and legal Czech plus a conversational tandem section — with the interface available in Czech, English, German and Polish. The professional strands are unusual and genuinely useful if you work in a Czech hospital or office. The platform is functional rather than polished, and free courseware of this kind tends to stop being updated once the funding round ends, so check the material still matches current usage.",
+    "tags": [
+      "free-course",
+      "professional-czech"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "ilearnczech",
+    "name": "iLearnCzech",
+    "url": "https://ilearnczech.com/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free A1–C1 Czech lessons, videos and tests, including exam preparation.",
+    "notes": "Jana Slav's site organises videos, grammar exercises, presentations, podcast episodes and tests by CEFR level all the way to C1, which puts it ahead of almost every other free Czech resource on range. There is a strong strand on the A2 permanent-residence and B1 citizenship exams. The site content is free with a small optional shop; the YouTube channel and podcast have both slowed markedly, with the podcast last updated in 2023, so the site is the living part of the project.",
+    "tags": [
+      "free-course",
+      "exam-prep"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/5Zpdl0qmqoYLKxssJpDbwU"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "prirucka-ujc",
+    "name": "Internetová jazyková příručka",
+    "url": "https://prirucka.ujc.cas.cz/",
+    "types": [
+      "dictionary",
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The official Czech language handbook: every declension and conjugation, plus usage rules.",
+    "notes": "Maintained by the Czech Language Institute of the Academy of Sciences, this is the authority Czechs themselves consult. Search any word to get its complete declension or conjugation table, and the accompanying articles settle spelling, punctuation, capitalisation and word-formation questions. For a language whose difficulty is concentrated in case endings, having the full paradigm one search away is the highest-value free tool there is. Everything is in Czech, and the explanatory articles assume you already read Czech comfortably.",
+    "tags": [
+      "official",
+      "declension"
+    ],
+    "popularity": 4,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "nechybujte",
+    "name": "Nechybujte",
+    "url": "https://www.nechybujte.cz/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "writing",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Free monolingual Czech dictionary, thesaurus and spelling rules in one place.",
+    "notes": "Lingea's free Czech-language portal bundles a monolingual dictionary, a dictionary of synonyms and the spelling and punctuation rules, so you can check what a word means, find a less repetitive alternative and confirm how to write it without leaving the site. A good companion to the Academy's příručka, which is stronger on paradigms but weaker on meaning. It is entirely in Czech, so it becomes useful somewhere around B1, and Lingea advertises its commercial dictionaries throughout.",
+    "tags": [
+      "monolingual",
+      "thesaurus"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "slovnik-seznam",
+    "name": "Seznam Slovník",
+    "url": "https://slovnik.seznam.cz/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The Czech–English dictionary most people in Czechia actually use, free and fast.",
+    "notes": "Seznam's dictionary is the default bilingual lookup in Czechia, covering Czech against English, German, French, Spanish, Italian, Russian and Slovak, with audio pronunciation and inflected forms shown for entries. It is quick, free and needs no account, which is what you want for the dozens of lookups a day that early Czech demands. Definitions are terse and it gives little sense of register or collocation, so move to a monolingual dictionary as soon as you can read one.",
+    "tags": [
+      "czech-english"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "cesky-narodni-korpus",
+    "name": "Český národní korpus",
+    "url": "https://www.korpus.cz/",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "vocabulary",
+      "writing",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Search hundreds of millions of words of real Czech to see how a phrase is actually used.",
+    "notes": "The Czech National Corpus lets you search vast bodies of written and spoken Czech and see every attested context for a word or construction — the way to settle which preposition or case a verb really takes when dictionaries disagree or say nothing. Access is free but requires registration, and the query interfaces (KonText, SyD, Treq) are built for linguists, so there is a real learning curve. Overkill below B2; close to indispensable for anyone writing serious Czech.",
+    "tags": [
+      "corpus",
+      "collocations"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "umime-cesky",
+    "name": "Umíme česky",
+    "url": "https://www.umimecesky.cz/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "grammar",
+      "writing",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Adaptive Czech drills — thousands of short exercises that adjust to your mistakes.",
+    "notes": "Built for Czech schoolchildren, this is a large bank of short adaptive exercises on spelling, case endings, verb forms and vocabulary, including games, dictations and multiplayer races, with a dedicated 'Czech as a second language' section for non-natives. The adaptive engine keeps feeding you what you get wrong, which is exactly what declension practice needs. It is entirely in Czech and pitched at native children, so the framing can feel odd; a lot is free, with personal and school licences unlocking the rest.",
+    "tags": [
+      "drills",
+      "spaced-repetition"
+    ],
+    "popularity": 3,
+    "methods": [
+      "gamified"
+    ]
+  },
+  {
+    "id": "cestina-pro-cizince-exam",
+    "name": "Čeština pro cizince (official exam portal)",
+    "url": "https://cestina-pro-cizince.cz/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "writing",
+      "listening",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Official site for the A2 residence and B1 citizenship Czech exams, with mock tests.",
+    "notes": "The state portal for the two exams that actually matter administratively: the A2 Czech exam for permanent residence and the B1 exam for citizenship. It explains who must sit them, the format of the written and oral parts, the roughly thirty annual sittings across 29 schools, and publishes free mock tests, preparation materials and a handbook. Interface available in Czech, English, Ukrainian, Russian, Vietnamese, French and Mongolian. It is exam preparation, not a course — nothing here teaches you Czech from scratch.",
+    "tags": [
+      "exam-prep",
+      "official"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "zpravicky-decko",
+    "name": "Zprávičky (ČT :D)",
+    "url": "https://decko.ceskatelevize.cz/zpravicky",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Czech TV's daily children's news — real news, deliberately simple language.",
+    "notes": "The public broadcaster's news bulletin for children runs every weekday in short episodes, using ordinary vocabulary, short sentences and clear delivery because its audience is eight-year-olds — which makes it the closest thing Czech has to a graded news service for learners. Free to stream from the ČT :D site. There are no subtitles or transcripts, the topics skew towards school and animals, and playback of Czech Television content can be restricted outside Czechia.",
+    "tags": [
+      "news",
+      "graded"
+    ],
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "czech-by-zuzka",
+    "name": "Czech by Zuzka",
+    "url": "https://www.youtube.com/@CzechbyZuzka",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Weekly explainers on the Czech mistakes learners actually make.",
+    "notes": "Zuzka publishes short, tightly-focused videos on the specific things that trip English speakers up — when téměř is the wrong word for 'almost', how to say 'it's me', numbers for public transport, the 42 letters of the Czech alphabet. Uploads were weekly through August 2026. Explanations are in English with Czech examples, which suits beginners; the format is a set of standalone clips rather than a course, so you will need something sequential underneath it.",
+    "tags": [
+      "grammar"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "talkie-czech",
+    "name": "Talkie Czech",
+    "url": "https://www.youtube.com/@Talkie-Czech",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Hour-long A1–A2 dialogue compilations for passive Czech listening practice.",
+    "notes": "A channel built around real-life dialogues for beginners — ordering food, shopping, small talk — including hour-long 'listening marathon' compilations that work well as background repetition while commuting or cooking. Posting weekly as of August 2026. The dialogues are scripted and slower than real speech, so treat them as a drill rather than authentic input, and the channel offers no grammar explanation at all.",
+    "tags": [
+      "dialogues",
+      "listening"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "cestina-s-michalem",
+    "name": "Čeština s Michalem",
+    "url": "https://czechstart.buzzsprout.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Short, slow, all-Czech episodes for complete beginners, with transcripts.",
+    "notes": "Michal records short episodes spoken slowly and in deliberately simple Czech, with the explicit aim of getting beginners used to hearing the language rather than teaching grammar — transcripts for every episode are published alongside. Around 70 episodes and still publishing in August 2026, and it is entirely free. Because it is all in Czech with no English support, the first few episodes are hard going; the payoff is that you are listening to Czech from day one.",
+    "tags": [
+      "slow-speech",
+      "transcripts",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/%C4%8De%C5%A1tina-s-michalem-czech-podcast-for-beginners/id1864625726"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/2566674.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4yJZsjPzDJYjxTWtEHyqN7"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UChk8ANDALBq0mAwUsF3D3GA"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "czech-your-day",
+    "name": "Czech Your Day",
+    "url": "https://czech-me.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A daily Czech podcast built on weekly themes, ending in a Friday comprehension test.",
+    "notes": "Renča publishes short episodes every weekday around a single weekly topic, with each episode building vocabulary toward Friday's longer piece that you should be able to follow if you did the week — a structure that turns listening into a habit rather than a one-off. Over 130 episodes by August 2026 and free in any podcast app. The daily cadence means individual episodes are slight, and the accompanying blog is sparse.",
+    "tags": [
+      "daily",
+      "graded"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/czech-your-day/id1815426163"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/2503392.rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "locallingo-czech",
+    "name": "Local Lingo (Czech)",
+    "url": "https://www.locallingo.com/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "pronunciation",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free Czech pronunciation guide with native audio, plus grammar basics and phrases.",
+    "notes": "A long-standing free reference whose strongest section is pronunciation: every Czech sound recorded by a native speaker, including the ř that defeats most learners, alongside grammar basics, themed phrase lists with audio and simple exercises. It remains the quickest way to get the sound system straight before you start speaking. The copyright line stops at 2021 and no new material has appeared since, so treat it as a fixed reference rather than a maintained course.",
+    "tags": [
+      "pronunciation",
+      "archive"
+    ],
+    "popularity": 2,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "radio-prague-czech-language",
+    "name": "Radio Prague International — Czech language",
+    "url": "https://english.radio.cz/czech-language",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "The public broadcaster's English-language reporting on Czech itself — words, dialects, usage.",
+    "notes": "Czech Radio's international service keeps a dedicated section on the Czech language, publishing interviews and features in English about dialects like Brno's hantec, how learners master the ř, expressions and their origins, and Czech taught abroad. It is background and motivation rather than instruction — articles about Czech, not lessons in it — so pair it with an actual course. Everything is free, with audio versions of most pieces, and the section is updated regularly.",
+    "tags": [
+      "news",
+      "culture"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RadioPragueInternational"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "czech-essential-grammar",
+    "name": "Czech: An Essential Grammar (Naughton)",
+    "url": "https://www.routledge.com/Czech-An-Essential-Grammar/Naughton-vonKunes/p/book/9780367861858",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "The compact English-language reference grammar of Czech, updated by von Kunes.",
+    "notes": "James Naughton's grammar, revised with Karen von Kunes, is the standard concise reference for Czech in English: the case system, verbal aspect, the numeral mess and the split between spoken and written Czech, all in short searchable chapters with real examples. It is the book to keep beside whatever course you use once endings stop making sense. Being a reference, it has no exercises and does not sequence anything for study, and it is priced like an academic title.",
+    "tags": [
+      "reference-grammar"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "reddit-learnczech",
+    "name": "r/learnczech",
+    "url": "https://www.reddit.com/r/learnczech/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "czech"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The English-language community for Czech learners' grammar and resource questions.",
+    "notes": "The place to ask why a noun took that ending, whether a phrase sounds natural, or which textbook is worth the money, with Czech speakers answering regularly and useful recurring threads on the residence and citizenship exams. Particularly good for the spoken-versus-written Czech questions that textbooks avoid. It is a small subreddit, so replies can take a day and some questions go unanswered; r/czech is larger but mostly not about learning.",
+    "tags": [
+      "q-and-a"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

@@ -1,0 +1,708 @@
+[
+  {
+    "id": "easy-turkish",
+    "name": "Easy Turkish",
+    "url": "https://www.easyturkish.fm/",
+    "types": [
+      "podcast",
+      "youtube"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Street interviews and a weekly conversation podcast in real, unscripted Turkish.",
+    "notes": "The Turkish branch of the Easy Languages format: Emin, Ömer and the team stop people in Istanbul and elsewhere and subtitle the answers in Turkish and English, and the companion podcast (200+ episodes, still weekly in August 2026) adds unscripted chat plus a slower 'Slow News in Turkish' segment. It is the most reliable source of natural spoken Turkish at learner-friendly speed. Videos and podcast are free; full transcripts and the vocabulary helper need the Patreon membership. Unscripted speech means A1 learners will struggle without the subtitles.",
+    "tags": [
+      "comprehensible-input",
+      "street-interviews"
+    ],
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EasyTurkish"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/easy-turkish-learn-turkish-with-everyday-conversations/id1633455697"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.fireside.fm/easyturkish/rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4hi5TQ2gXwetxWYv23WDyl"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "turkishclass101",
+    "name": "TurkishClass101",
+    "url": "https://www.turkishclass101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "The biggest structured Turkish audio-lesson library, absolute beginner to advanced.",
+    "notes": "Innovative Language's Turkish arm, with a decade-plus of dialogue-based audio and video lessons organised into level pathways, each with a PDF transcript, line-by-line breakdown and SRS flashcards. Its main advantage over the app-store giants is sheer depth of listening material at graded levels, including genuinely advanced content. The free lifetime account unlocks only a slice, most lessons sit behind a subscription, and the site pushes upgrade offers hard. The public podcast feed was still publishing in August 2026.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TurkishClass101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-turkish-turkishclass101-com/id535704693"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.turkishclass101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "turkishle",
+    "name": "Turkishle",
+    "url": "https://turkishle.com/",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "pronunciation",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "Can's high-energy Istanbul channel: short clips on words, sounds and daily life.",
+    "notes": "Founded by Can in Istanbul, this is the largest Turkish-learning channel outside the Pod101 empire, posting near-daily short videos on pronunciation traps, everyday vocabulary and cultural habits. The pace and humour make it easy to keep watching, which is most of the battle early on. The paid Turkish Master Courses on the site are the structured part; the free YouTube output is deliberately snackable and does not add up to a syllabus, so pair it with something sequential.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Turkishle"
+      }
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "teacher-ali-yilmaz",
+    "name": "Teacher Ali Yılmaz",
+    "url": "https://www.youtube.com/@teacheraliyilmaz",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A Turkish teacher explaining Turkish in Turkish, with near-daily uploads.",
+    "notes": "Ali Yılmaz teaches 'yabancılar için Türkçe' almost entirely in Turkish, mixing vocabulary vlogs (a car wash, a market) with 'hangisi doğru?' mini-quizzes on the mistakes learners actually make. Uploading several times a week as of August 2026, so the archive is large and current. Because he speaks Turkish throughout, it works from roughly A2 up rather than from zero, and there is no lesson ordering to follow — you dip in by topic. He also advertises private lessons via WhatsApp.",
+    "tags": [
+      "turkish-only"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "guncel-turkce",
+    "name": "Güncel Türkçe (Learn Turkish)",
+    "url": "https://www.youtube.com/@G%C3%BCncelT%C3%BCrk%C3%A7e",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "writing",
+      "speaking",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "One of the only free channels aimed at B2–C1 and the TYS proficiency exam.",
+    "notes": "Made by experienced Turkish teachers, this channel fills the gap almost every other Turkish resource leaves: upper-intermediate and advanced practice. Recent uploads include C1 listening mock exams and writing workshops for the TYS (Türkçe Yeterlik Sınavı) plus a multi-day A2→B1 shadowing series for speaking. Everything is free, at one or two videos a week. Explanations are in Turkish, and the production is plain — this is exam-and-practice material, not entertainment.",
+    "tags": [
+      "exam-prep",
+      "tys"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "yunus-emre-turkce",
+    "name": "Yunus Emre Institute — Learn Turkish",
+    "url": "https://turkce.yee.org.tr/en/",
+    "types": [
+      "course",
+      "youtube"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Turkey's state cultural institute's free Turkish course portal and grammar videos.",
+    "notes": "Yunus Emre Enstitüsü is Turkey's official cultural institute, and its learning portal plus very active YouTube channel deliver a free, level-tagged path through Turkish grammar — the channel was posting B1 topics (dilek kipi, -DIkçA, -DIğI sürece) several times a week in August 2026. Being state-funded, there is nothing to buy and no upsell. Caveats: the portal's interface is clunky and registration-driven, and its TLS certificate chain is incomplete, so some browsers and tools flag the site even though it loads normally in Chrome.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@yeeorgtr"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "learn-turkish-via",
+    "name": "Learn Turkish Via",
+    "url": "https://www.youtube.com/@LearnTurkishvia",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "A numbered free lesson series, one grammar point per video, still running.",
+    "notes": "A native-speaker teacher working through a numbered sequence — lesson 40 covers gibi/kadar, 41 -a göre, 42 önce/sonra — which makes this one of the few free Turkish channels you can genuinely follow in order rather than dip into. Two lessons a week as of August 2026, plus short vocabulary clips. Production is simple (slides and voice) and the teacher advertises private lessons, but nothing is paywalled.",
+    "tags": [
+      "structured-course"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "turkish-journey",
+    "name": "Turkish Journey",
+    "url": "https://yourturkishjourney.com/",
+    "types": [
+      "website",
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "listening",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Sercan's methodical grammar articles, with audio versions as a podcast.",
+    "notes": "A one-person project by Sercan, a native speaker and engineer, covering Turkish grammar (cases, conjugation, adjectives) in written articles that are mirrored as YouTube videos and again as a podcast of over a hundred episodes — useful if you'd rather listen to a grammar explanation than read it. The site and videos were both active in mid-2026. Verb-conjugation e-books are paid. As a solo effort, coverage is uneven and stops well short of advanced.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@turkishjourney"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/turkish-journey/id1750330698"
+      },
+      {
+        "label": "RSS",
+        "url": "https://media.rss.com/turkishjourney/feed.xml"
+      }
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "turkish-tea-time",
+    "name": "Turkish Tea Time",
+    "url": "https://turkishteatime.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "A 130+ episode graded lesson archive across five levels — no longer updated.",
+    "notes": "Hosted by a mix of learners, teachers and natives, the podcast rotates through five difficulty bands from absolute beginner to advanced, with each episode built around a dialogue and a grammar point. New episodes stopped years ago and the site's press mentions date to around 2016, but the archive remains one of the best-structured Turkish audio libraries anywhere and the site still serves it. Podcast episodes are free; the vocabulary sheets, quizzes and speech-recognition drills need a subscription.",
+    "tags": [
+      "archive",
+      "graded"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "http://www.youtube.com/channel/UCV1kVIDeljeFOBjX9yye4PQ"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "turkish-textbook",
+    "name": "TurkishTextbook.com",
+    "url": "https://www.turkishtextbook.com/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free grammar reference written by Turkish speakers, organised by topic.",
+    "notes": "A free reference site covering grammar, vocabulary, listening and culture, with the stated aim of explaining Turkish on its own terms instead of translating English grammar categories onto it — helpful for suffix chains and cases, where most English-language material goes vague. All topics are readable without an account; registering only saves progress. The newest lessons date from 2025, so treat it as a stable reference rather than a growing course.",
+    "tags": [
+      "grammar-reference"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "tureng",
+    "name": "Tureng",
+    "url": "https://tureng.com/en/turkish-english",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The Turkish–English dictionary translators actually use, strong on technical terms.",
+    "notes": "Tureng's distinguishing feature is breadth of specialist vocabulary — legal, medical, engineering and business senses are tagged by domain, alongside multi-word phrases and collocations that a general dictionary omits. That makes it the right tool once you are reading real Turkish text rather than course material. It is free and ad-supported, with mobile apps. Weaknesses: little usage guidance or example sentences, and the sheer number of domain-tagged senses can bury the everyday meaning.",
+    "tags": [
+      "turkish-english"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "tdk-sozluk",
+    "name": "TDK Sözlükleri (sozluk.gov.tr)",
+    "url": "https://sozluk.gov.tr/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The official Turkish Language Association dictionaries, free and ad-free.",
+    "notes": "The Türk Dil Kurumu's portal bundles the current monolingual dictionary (12th edition, 2023) with a proverbs-and-idioms dictionary of several thousand entries, an etymological dictionary, spelling guide, science and arts terminology and a Turkish Sign Language dictionary. It is the authority Turkish speakers themselves cite for spelling and usage questions. Everything is monolingual Turkish, so you need roughly B1 to get value from it. Free, no ads, with an official mobile app.",
+    "tags": [
+      "monolingual",
+      "official"
+    ],
+    "popularity": 5,
+    "methods": []
+  },
+  {
+    "id": "nisanyan-sozluk",
+    "name": "Nişanyan Sözlük",
+    "url": "https://www.nisanyansozluk.com/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Etymological dictionary of contemporary Turkish, with first-attestation dates.",
+    "notes": "Sevan Nişanyan's etymological dictionary traces modern Turkish words back through Ottoman, Persian, Arabic, Greek, Armenian and French, giving the date of first recorded use in Turkish. For learners past B1 it is the single most effective way to make vocabulary stick, because it turns arbitrary-looking words into families. It is a scholarly reference in Turkish only, with no learner scaffolding, and the author's public commentary is politically controversial in Turkey.",
+    "tags": [
+      "etymology"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "sesli-sozluk",
+    "name": "Sesli Sözlük",
+    "url": "https://www.seslisozluk.net/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "vocabulary",
+      "pronunciation",
+      "listening"
+    ],
+    "price": "freemium",
+    "pitch": "Bilingual dictionary whose entries come with real recorded audio.",
+    "notes": "The selling point is in the name — headwords and many example sentences carry recorded native audio, so it answers 'how is this actually said' rather than only 'what does it mean'. That makes it a good companion to Tureng, which is stronger on coverage but silent. The free web version is heavily ad-supported and a paid tier removes ads and unlocks extras; the definitions themselves are thinner than TDK's.",
+    "tags": [
+      "audio"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "cooljugator-turkish",
+    "name": "Cooljugator — Turkish",
+    "url": "https://cooljugator.com/tr",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Free Turkish verb conjugator with English glosses for every form.",
+    "notes": "Type any Turkish verb and get the full grid of tense, aspect, person and negation forms with an English gloss beside each — the fastest way to check whether a suffix chain you've encountered is what you think it is. Free and needs no account. It is a lookup tool, not a teacher: it shows the forms but never explains why Turkish stacks suffixes the way it does, so keep a grammar alongside it.",
+    "tags": [
+      "conjugation"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "turkish-comprehensive-grammar",
+    "name": "Turkish: A Comprehensive Grammar (Göksel & Kerslake)",
+    "url": "https://www.routledge.com/Turkish-A-Comprehensive-Grammar/Goksel-Kerslake/p/book/9781138350533",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "reading",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "The standard English-language descriptive grammar of modern Turkish.",
+    "notes": "Aslı Göksel and Celia Kerslake's reference grammar, revised for a second edition, is what linguists and serious learners reach for when a course book's explanation runs out — full coverage of the suffix system, evidentiality, subordination and word order, with abundant real examples. It is organised by structure rather than by lesson, so you look things up in it, you do not read it front to back. Expensive at list price; earlier printings turn up much cheaper secondhand.",
+    "tags": [
+      "reference-grammar"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hands-on-turkish",
+    "name": "Hands on Turkish",
+    "url": "https://turkishonline.eu/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "A small, coherent A1–A2 course built with EU Lifelong Learning funding.",
+    "notes": "Produced by Pendragon Education with EU Lifelong Learning Programme support, it runs two levels — 'First Steps in Turkish' (A1) and the fuller A2 course — around practical situations for travel, work and family, ending in a completion certificate. It is ad-free and its progression is more coherent than most app courses at this level. Pricing is €9 a month or €59 a year with one free sample lesson, and the platform feels dated next to commercial competitors. Note the project has moved to turkishonline.eu; the old handsonturkish.com address now redirects there.",
+    "tags": [
+      "structured-course"
+    ],
+    "popularity": 1,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "ankara-tomer",
+    "name": "Ankara University TÖMER",
+    "url": "https://tomer.ankara.edu.tr/",
+    "types": [
+      "tutoring",
+      "course"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "writing",
+      "grammar",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "The oldest Turkish-for-foreigners centre — courses, exams and the Hitit textbooks.",
+    "notes": "Founded in 1984, TÖMER is the reference institution for teaching Turkish to foreigners: it runs graded courses in Ankara and online, administers Turkish proficiency and exemption exams that universities accept, and publishes the Hitit / Yeni Hitit coursebook series many other schools teach from. This is the option when you need certified proof of level or a real classroom rather than self-study. Courses are paid and enrolment is bureaucratic, and the website is mostly in Turkish.",
+    "tags": [
+      "exam-prep",
+      "textbook-publisher"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "bbc-news-turkce",
+    "name": "BBC News Türkçe",
+    "url": "https://www.bbc.com/turkce",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Daily news in clear standard Turkish, with video and audio alongside text.",
+    "notes": "Not a learning resource as such, but BBC Türkçe's register is unusually clean and standard, and stories are short, which makes it the natural first stop for real Turkish once graded material stops being challenging. Text, video and audio cover the same stories, so you can read first and listen after. There is no glossary or scaffolding of any kind — below roughly B2 you will be looking up something in every sentence.",
+    "tags": [
+      "news"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "turkishclass-com",
+    "name": "TurkishClass.com",
+    "url": "https://www.turkishclass.com/",
+    "types": [
+      "website",
+      "community"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "grammar",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free graded lessons plus a long-running translation-help forum.",
+    "notes": "A veteran free site with lessons sequenced from Beginner 1 to Intermediate 1, vocabulary lists, stories and a dictionary, but its real value now is the forum, where natives still answer translation and grammar questions. Editorial content is effectively frozen — news posts stop in 2022 and the columns date from 2010–2013 — so treat the lessons as a stable archive rather than a maintained course. Everything, including the forum, is free after a free sign-up.",
+    "tags": [
+      "archive",
+      "forum"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "reddit-turkishlearning",
+    "name": "r/turkishlearning",
+    "url": "https://www.reddit.com/r/turkishlearning/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "turkish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The main English-language community for Turkish learners' questions.",
+    "notes": "The default place to post a sentence you can't parse, ask why a suffix behaves oddly, or get resource recommendations checked by people who have used them; native speakers answer regularly. Useful precisely for the questions dictionaries and grammars leave unresolved. Traffic is moderate rather than large, so expect answers in hours rather than minutes, and quality varies with who happens to reply.",
+    "tags": [
+      "q-and-a"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

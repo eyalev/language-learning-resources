@@ -1,0 +1,790 @@
+[
+  {
+    "id": "dansk-her-og-nu",
+    "name": "Dansk her og nu",
+    "url": "https://danskherognu.dk/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "grammar",
+      "listening",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A complete free beginner Danish course: dialogues, grammar drills and listening.",
+    "notes": "A full self-study course built with support from the Danish integration ministry, organised into modules of texts and dialogues, grammar explanations with dozens of interactive exercises, and 'lyt og forstå' listening tasks. It costs nothing, needs no account, and covers exactly the ground the state language schools cover in their first modules. The design is dated and there is no speaking practice, so treat it as your grammar-and-reading backbone rather than your whole plan.",
+    "tags": [
+      "free-curriculum",
+      "self-study"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "dr-ligetil",
+    "name": "DR Ligetil",
+    "url": "https://www.dr.dk/ligetil",
+    "types": [
+      "media",
+      "website"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Denmark's public broadcaster rewrites the daily news in plain Danish, with audio.",
+    "notes": "DR's easy-language news desk publishes the same stories as the main bulletins in short, simply-worded articles that can be read aloud on the page, so you can read and listen to the same text. It is updated constantly and it is the single best free source of Danish that is real but not yet overwhelming. Written for Danes who find news hard rather than for foreigners, so cultural context is assumed rather than explained.",
+    "tags": [
+      "public-broadcaster",
+      "easy-news",
+      "free-curriculum"
+    ],
+    "popularity": 4,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "danishclass101",
+    "name": "DanishClass101",
+    "url": "https://www.danishclass101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Innovative Language's audio-lesson library for Danish, still publishing in 2026.",
+    "notes": "Hundreds of short dialogue-plus-explanation lessons with transcripts, line-by-line breakdowns, word lists and a spaced-repetition trainer, arranged into level pathways. For a language as underserved as Danish, this is the largest structured audio course you can buy, and the free feed alone gives you a lot. The usual caveats apply: constant upsell emails, some very old lessons, and the top tiers are poor value unless you use the tutoring.",
+    "tags": [
+      "innovative-language",
+      "audio-lessons"
+    ],
+    "links": [
+      {
+        "label": "Podcast",
+        "url": "https://podcasts.apple.com/us/podcast/learn-danish-danishclass101-com/id785215720"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-danish-danishclass101-com/id785215720"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.danishclass101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "dansk-for-begyndere",
+    "name": "Dansk for Begyndere",
+    "url": "https://danskforbegyndere.dk/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "A daily 10-minute monologue in calm, clear Danish on one everyday theme.",
+    "notes": "Emilie Bradtberg publishes a new episode nearly every day, each built around a single topic — housing standards, holidays, work culture — spoken slowly enough to follow but in genuinely natural Danish. The sheer cadence is the point: it makes daily listening a habit rather than a project. Episodes are free in any podcast app; a premium membership adds a library sorted by CEFR level, MP3 downloads and early access.",
+    "tags": [
+      "comprehensible-input",
+      "daily"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/dansk-for-begyndere/id1892591336"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.transistor.fm/dansk-for-begyndere"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/3Llw1UMnT0t2a4S8kyWxY8"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCF3n6v2tT79vQw7-K6Zz9Pg"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "dansk-i-oererne",
+    "name": "Dansk i ørerne",
+    "url": "https://danskioererne.dk/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Short episodes of slow, clear Danish about Danish culture and everyday life.",
+    "notes": "Made specifically for people learning Danish as a second language, with each episode explaining something about Denmark — traditions, food, history, companies, the idea of danskhed — in deliberately slow and distinct speech. It fills the awkward A2–B2 gap where textbook audio is too easy and native radio is impossible. Free to listen, with optional extra material and a shop supporting the project.",
+    "tags": [
+      "comprehensible-input",
+      "culture"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/dansk-i-%C3%B8rerne/id1605769170"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/791b1a88/podcast/rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "swap-language-podcast",
+    "name": "Learn Danish with Swap Language",
+    "url": "https://podcasts.apple.com/us/podcast/learn-danish-with-swap-language/id1753034073",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Two graded seasons by a Danish teacher: A1–A2 stories, then B2–C1 personal essays.",
+    "notes": "Vigdis, who has taught Danish as a second language to adults since 2015, splits the show into a beginner season of short constructed stories matched to the topics of language-school modules 1 and 2, and an intermediate season of personal narratives at natural pace. That explicit level split is rare and makes it easy to find episodes that actually fit you. Roughly 80 episodes exist and new ones now appear only occasionally, so treat it as a strong archive.",
+    "tags": [
+      "graded",
+      "language-school-aligned"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-danish-with-swap-language/id1753034073"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.acast.com/public/shows/65799c6ababc4c001791f1b3"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "danish-with-christina",
+    "name": "Danish with Christina",
+    "url": "https://danishwithchristina.podbean.com",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Entirely-in-Danish episodes aimed squarely at the intermediate plateau.",
+    "notes": "Christina speaks only Danish, at a pace pitched at learners who have outgrown beginner audio but cannot yet handle native podcasts, on topics chosen to be more interesting than textbook fare. It is a small archive — around 18 episodes, the most recent from mid-2025 — so it is a supplement, not a course. Worth the download precisely because so little Danish audio targets this level.",
+    "tags": [
+      "danish-only",
+      "intermediate-gap"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/danish-with-christina-intermediate-danish-language/id1517330175"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feed.podbean.com/danishwithchristina/feed.xml"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/5pKzw78ocHnenoaGbP6ua2"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "danish-mastery",
+    "name": "Danish Mastery",
+    "url": "https://www.danishmastery.com/",
+    "types": [
+      "course",
+      "youtube"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "600+ Danish video lessons plus PDFs and exercises, bought once and kept.",
+    "notes": "A one-person video school covering vocabulary, grammar breakdowns, listening practice and preparation for the Prøve i Dansk 3 exam, sold as tiered packages you own permanently rather than a subscription. The PD3 focus makes it unusually relevant if you are working toward Danish residency or study requirements. Production is homemade and there is no live teaching or feedback, so pair it with a class or tutor for speaking.",
+    "tags": [
+      "exam-prep",
+      "pd3",
+      "video-course"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "basby-dansk",
+    "name": "Basby.dk",
+    "url": "http://basby.dk/",
+    "types": [
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "writing",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Hundreds of free Danish grammar drills, explained in English by a working teacher.",
+    "notes": "Anders Basby, a Danish teacher at a language school in Copenhagen, has put his exercise bank online for free: adjectives, word order, prepositions, modal verbs, pronouns and more, each with a short English explanation and immediate feedback. It is the fastest way to actually practise the rules other resources only describe. The site is plain HTML on an unencrypted host and looks like it was built in 2008, which it more or less was — the content is what matters.",
+    "tags": [
+      "exercises",
+      "grammar-drills"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "den-danske-ordbog",
+    "name": "Den Danske Ordbog (ordnet.dk)",
+    "url": "https://ordnet.dk/ddo",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "The authoritative dictionary of modern Danish, free, with audio and en/et marked.",
+    "notes": "Published by the Society for Danish Language and Literature, DDO covers Danish from 1950 onward and is updated continuously, with pronunciation recordings, gender, inflection tables, real usage examples and idioms on almost every entry. For a learner the audio and the en/et marking alone justify making it your default lookup. It is Danish-to-Danish only, so beginners will still need a bilingual dictionary alongside it.",
+    "tags": [
+      "monolingual",
+      "audio",
+      "official"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "ordbog-over-det-danske-sprog",
+    "name": "Ordbog over det danske Sprog (ODS)",
+    "url": "https://ordnet.dk/ods",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "C1–C2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The historical dictionary of Danish 1700–1950, free on the same ordnet platform.",
+    "notes": "ODS documents older Danish with full citations, which is what you need once you start reading Blicher, Pontoppidan or anything printed before the war and hit words DDO no longer carries. Purely a reference for advanced readers and anyone curious about how the language moved. Entries are written in older Danish themselves, so it is unusable below a solid C1.",
+    "tags": [
+      "historical",
+      "literature"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "korpusdk",
+    "name": "KorpusDK",
+    "url": "https://ordnet.dk/korpusdk",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "writing",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Search a large corpus of real Danish to see how a word is actually used.",
+    "notes": "A free searchable corpus of contemporary Danish texts that answers the question dictionaries cannot: which preposition really follows this verb, and how often do Danes actually write it that way. Invaluable when you are writing Danish and want evidence rather than intuition. The interface is academic and there is a learning curve to the query syntax.",
+    "tags": [
+      "corpus",
+      "writing-aid"
+    ],
+    "popularity": 1,
+    "methods": []
+  },
+  {
+    "id": "sproget-dk",
+    "name": "sproget.dk",
+    "url": "https://sproget.dk/",
+    "types": [
+      "website",
+      "dictionary"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "grammar",
+      "writing",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The official Danish language portal: grammar articles and a Q&A answer bank.",
+    "notes": "Run jointly by the Danish Language Council and the Society for Danish Language and Literature, sproget.dk collects usage articles, spelling rules and thousands of answered questions about Danish, plus links to the official reference works. When you need a defensible answer about commas, compound words or ligge/lægge, this is where it lives. Everything is in Danish and aimed at native speakers, so it is only usable from roughly B1 up.",
+    "tags": [
+      "official",
+      "usage",
+      "reference"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "retskrivningsordbogen",
+    "name": "Retskrivningsordbogen",
+    "url": "https://ro.dsn.dk/",
+    "types": [
+      "dictionary"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "writing",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "The legally binding Danish spelling dictionary, free online from Dansk Sprognævn.",
+    "notes": "This is the book Danish spelling rules are officially defined by, covering orthography, inflection and the comma rules, and it is free on the web. If you are writing Danish that will be marked — exams, applications, work email — settle disagreements here rather than by searching. It is a norm reference, not a learning resource: no definitions, no examples, no English.",
+    "tags": [
+      "official",
+      "spelling",
+      "writing-aid"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "drtv",
+    "name": "DRTV",
+    "url": "https://www.dr.dk/drtv",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Danish public-service TV on demand, most of it with Danish subtitles.",
+    "notes": "DR's streaming catalogue — drama, documentaries, children's programming and news — is free and much of it carries Danish subtitles, which is the single most effective way to bridge from written Danish to the spoken language's dropped consonants. Children's series are an underrated on-ramp for adults at B1. Most of the catalogue is geo-blocked outside Denmark, so from abroad you will need a Danish connection.",
+    "tags": [
+      "public-broadcaster",
+      "subtitles",
+      "geo-restricted"
+    ],
+    "popularity": 4,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "dr-lyd",
+    "name": "DR LYD",
+    "url": "https://www.dr.dk/lyd",
+    "types": [
+      "media",
+      "podcast"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "DR's full podcast and radio archive — native Danish at full speed, free.",
+    "notes": "Once learner podcasts stop challenging you, this is where you go: hundreds of Danish shows on news, history, crime, science and culture, produced for Danes with no concessions to learners. Unlike DRTV, audio is generally available outside Denmark. Expect a hard step up — fast, regional and slang-heavy speech with no transcripts.",
+    "tags": [
+      "public-broadcaster",
+      "native-content"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "lex-dk",
+    "name": "lex.dk (Den Store Danske)",
+    "url": "https://lex.dk/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Denmark's national encyclopedia, free — clean expository Danish on any topic.",
+    "notes": "lex.dk hosts Den Store Danske and a dozen other Danish reference works as a free, ad-free encyclopedia written in careful standard prose. It is excellent reading practice precisely because the register is neutral and the topics are ones you already understand in your own language. Purely reading input — no audio, no exercises, no learner scaffolding.",
+    "tags": [
+      "encyclopedia",
+      "reading-practice"
+    ],
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "laerdansk",
+    "name": "Lærdansk (danskuddannelse)",
+    "url": "https://laerdansk.dk/",
+    "types": [
+      "tutoring",
+      "course"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "writing",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "The state Danish-education system: structured classes, free for most residents.",
+    "notes": "Lærdansk runs language centres across Denmark delivering the official danskuddannelse programme up to the Studieprøven, tuition-free for residents referred by their municipality, though self-supporting students and workers pay a refundable deposit per module. If you live in Denmark this should be the spine of your learning; nothing online replaces a teacher and a class of people at your level. Only relevant inside Denmark, and availability and pacing depend on your municipality.",
+    "tags": [
+      "denmark-residents",
+      "classes",
+      "exam-prep"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "studieskolen-danish",
+    "name": "Studieskolen",
+    "url": "https://www.studieskolen.dk/",
+    "types": [
+      "tutoring",
+      "course"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "speaking",
+      "listening",
+      "writing",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Copenhagen's best-known language school, with intensive and online Danish courses.",
+    "notes": "A long-established Copenhagen school offering Danish at every level including intensive and evening formats, online classes, and preparation for the official Prøve i Dansk and Studieprøven exams. It is the usual recommendation for people who want faster progress or smaller groups than the municipal track allows. Paid, and priced accordingly — worth it mainly if you need speed or a specific exam date.",
+    "tags": [
+      "copenhagen",
+      "classes",
+      "exam-prep"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "danish-essential-grammar",
+    "name": "Danish: An Essential Grammar (Routledge)",
+    "url": "https://www.routledge.com/Danish-An-Essential-Grammar/Allan-Holmes-Lundskaer-Nielsen/p/book/9781138504196",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "The reference grammar English-speaking Danish learners actually keep on the desk.",
+    "notes": "Robin Allan, Philip Holmes and Tom Lundskær-Nielsen cover Danish morphology and syntax systematically with English explanations and plentiful examples, indexed so you can look up a problem rather than read it front to back. Danish is thin on serious reference grammars in English; this is the standard one. It is a reference, not a course — there are no exercises and no audio.",
+    "tags": [
+      "reference-grammar",
+      "routledge"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "ereolen",
+    "name": "eReolen",
+    "url": "https://ereolen.dk/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free Danish ebooks and audiobooks through the public library system.",
+    "notes": "Danish public libraries lend ebooks and audiobooks digitally at no cost, and reading a novel while listening to its audiobook is one of the most effective intermediate-to-advanced routines there is. The catalogue includes plenty of translated fiction, which is easier to start with than Danish originals. You need a Danish library card, which in practice means a CPR number, so this is for people living in Denmark; the service now runs through each local library's own website.",
+    "tags": [
+      "denmark-residents",
+      "library",
+      "audiobooks"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/dk/app/ereolen/id1438218229"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=dk.redia.eReolen"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "reddit-danishlanguage",
+    "name": "r/danishlanguage",
+    "url": "https://www.reddit.com/r/danishlanguage/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "danish"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "The main English-speaking forum for Danish learners' questions.",
+    "notes": "A small but consistently helpful community where native speakers answer questions about grammar, pronunciation and word choice, and where resource threads surface things that never rank on Google. Useful precisely because Danish learning material is scattered and under-documented. Traffic is low compared with the big-language subreddits, so expect hours, not minutes, for an answer.",
+    "tags": [
+      "forum",
+      "q-and-a"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

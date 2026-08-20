@@ -1,0 +1,14 @@
+{
+  "name": "language-learning-resources",
+  "version": "1.0.0",
+  "description": "838 curated language-learning resources across 32 languages, as open data (CC BY 4.0).",
+  "type": "module",
+  "license": "CC-BY-4.0",
+  "homepage": "https://howtolearn.app",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs --warn",
+    "linkcheck": "node scripts/linkcheck.mjs"
+  }
+}

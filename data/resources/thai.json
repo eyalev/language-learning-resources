@@ -1,0 +1,725 @@
+[
+  {
+    "id": "read-thai-in-10-days",
+    "name": "Read Thai in 10 Days (Bingo Lingo)",
+    "url": "https://readthailanguage.com/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "reading",
+      "writing",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "The standard crash course for learning the Thai alphabet and tone rules.",
+    "notes": "Arthit Juyaso's book takes the 44 consonants, the vowel system and the tone rules in a deliberate order with mnemonics and daily practice, and most learners really do come out reading basic Thai in a couple of weeks. Reading Thai early is the single highest-leverage thing you can do in this language, because transliteration systems disagree with each other and hide tone. It is a paid book with a workbook feel — you have to do the exercises, and it teaches decoding rather than vocabulary.",
+    "tags": [
+      "thai-script",
+      "writing-system"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "comprehensible-thai",
+    "name": "Comprehensible Thai",
+    "url": "https://www.youtube.com/@comprehensiblethai",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Hundreds of free Thai-only input videos, graded from absolute beginner upward.",
+    "notes": "The flagship comprehensible-input channel for Thai: several teachers (Kruu Blu, Kruu Noon, Kruu Jerry and others) teach entirely in Thai using drawings, props and gesture, with playlists ordered from absolute beginner through advanced storytelling and a gradual reading course. Still publishing multiple videos a week as of August 2026, and the free back catalogue alone is hundreds of hours. If you want extra material or to support them there is a Patreon, but nothing essential is behind it.",
+    "links": [
+      {
+        "label": "Patreon",
+        "url": "https://www.patreon.com/comprehensiblethai"
+      }
+    ],
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 4,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "understand-thai",
+    "name": "Understand Thai",
+    "url": "https://www.youtube.com/@UnderstandThai",
+    "types": [
+      "youtube",
+      "tutoring"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "immersion",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Kruu Ying's slow, story-driven Thai-only videos plus private online lessons.",
+    "notes": "A second strong comprehensible-input channel, useful precisely because hearing more than one voice matters: Kruu Ying narrates everyday situations in clear, slow Thai with on-screen support, at beginner and intermediate levels, and was still posting in August 2026. The videos are free; one-to-one online lessons through the website are paid and priced on request. The channel is smaller and more conversational than Comprehensible Thai, so use both rather than choosing.",
+    "links": [
+      {
+        "label": "Website",
+        "url": "https://www.understandthai.com/"
+      }
+    ],
+    "tags": [
+      "comprehensible-input"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "learn-thai-from-a-white-guy",
+    "name": "Learn Thai From a White Guy",
+    "url": "https://learnthaifromawhiteguy.com/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "pronunciation",
+      "grammar",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "Script-and-tones-first online course aimed at people whose Thai has plateaued.",
+    "notes": "Brett Whiteside's course drills the writing system and tone rules first, then builds spoken Thai on top, which fixes the classic expat problem of years of transliterated Thai that natives struggle to understand. Five lessons are free by email, so you can judge the teaching style before paying for the full Inner Circle program. It is one of the pricier self-study options and the sales pages are heavy on testimonials — the underlying pedagogy, not the marketing, is the reason to consider it.",
+    "tags": [
+      "thai-script",
+      "tones"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Learnthaifromawhiteguy"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "cracking-thai-fundamentals",
+    "name": "Cracking Thai Fundamentals (Stuart Jay Raj)",
+    "url": "https://www.jcademy.com/courses/cracking-thai-fundamentals",
+    "types": [
+      "course",
+      "book"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "pronunciation",
+      "reading",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "A systems view of Thai sounds and script — the 'consonant compass' and tone logic.",
+    "notes": "Stuart Jay Raj's 63-lesson course explains why Thai works the way it does: the Indic logic behind the script, how consonant classes and tone marks interact, and physical techniques for producing sounds English speakers mangle. At $9.99 a month or $29.99 for a three-month bundle (the print book is around $39) it is cheap for the insight density. It is idiosyncratic and theory-heavy — brilliant for analytical learners, frustrating if you just want phrases.",
+    "tags": [
+      "tones",
+      "thai-script",
+      "pronunciation"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "thai-language-com",
+    "name": "thai-language.com",
+    "url": "http://www.thai-language.com/",
+    "types": [
+      "dictionary",
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading",
+      "pronunciation",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "The deep free Thai reference: dictionary, phonemic breakdowns, lessons and forums.",
+    "notes": "A long-running community reference with a large Thai–English dictionary, audio, per-word tone and phonemic analysis, sample sentences, grammar lessons and archived forum discussions that answer questions nothing else does. It is the site experienced learners keep open in a tab. The design is unapologetically from an earlier internet era and the site serves over plain HTTP, so expect a browser warning if you force HTTPS.",
+    "tags": [
+      "dictionary",
+      "reference"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "thai2english",
+    "name": "Thai2English",
+    "url": "https://thai2english.com/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Paste Thai text and get it split into words with meanings and transliteration.",
+    "notes": "Thai is written without spaces between words, which makes early reading brutal; this tool segments a pasted passage and glosses each word with tone-marked transliteration and audio. That makes it the fastest way to work through a Thai post, menu or news snippet before your parsing is automatic. Core lookup is free with a paid tier for extras, and its segmentation occasionally mis-splits names and compounds, so sanity-check anything surprising.",
+    "tags": [
+      "dictionary",
+      "reading-tool"
+    ],
+    "popularity": 3,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "longdo-dict",
+    "name": "Longdo Dictionary",
+    "url": "https://dict.longdo.com/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Thailand's own multi-source dictionary — what Thai people actually look words up in.",
+    "notes": "Longdo aggregates several dictionaries at once (including NECTEC's LEXiTRON and Thai–Thai sources), so a single search shows technical, colloquial and formal senses side by side. Because it is built for Thai users it covers vocabulary that learner dictionaries omit entirely, which matters once you are reading real material. The interface is cluttered and largely in Thai, so it suits intermediate learners more than day-one beginners.",
+    "tags": [
+      "dictionary",
+      "native-tool"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "talking-thai-dictionary",
+    "name": "Talking Thai–English Dictionary+Phrasebook",
+    "url": "https://word-in-the-hand.com/thai-dictionary/",
+    "types": [
+      "app",
+      "dictionary"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "pronunciation",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "Offline Thai dictionary app with recorded audio for every entry and a phrasebook.",
+    "notes": "Paiboon's app pairs a large Thai–English dictionary with human-recorded audio for essentially every headword, plus a categorised phrasebook, and it works fully offline — which is the point when you are standing in a market with no signal. Search tolerates rough spelling and transliteration, a real advantage while your reading is shaky. It is a one-off paid app on iOS, Android and Windows, and the interface looks its age.",
+    "tags": [
+      "dictionary",
+      "offline"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/talking-thai-english-dictionary-phrasebook/id411632067"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "thai-for-beginners-paiboon",
+    "name": "Thai for Beginners (Benjawan Poomsan Becker)",
+    "url": "https://paiboonlanguageacademy.com/product/thai-for-beginners/",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "The classic beginner Thai textbook, with script introduced alongside spoken lessons.",
+    "notes": "Benjawan Poomsan Becker's course has been the default first Thai textbook for decades: structured lessons with dialogues, exercises, and a parallel track that teaches reading and writing rather than leaving you in transliteration. It is systematic and cheap, which is why teachers still assign it. The presentation is plain, the audio is sold separately in some editions, and the follow-up volumes get patchier.",
+    "tags": [
+      "textbook"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "thaipod101",
+    "name": "ThaiPod101",
+    "url": "https://www.thaipod101.com/",
+    "types": [
+      "course",
+      "podcast",
+      "app"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Large dialogue-based lesson library with transcripts, PDFs and word lists.",
+    "notes": "Hundreds of audio and video lessons built around short dialogues that get broken down in English, with lesson notes, a word bank and spaced-repetition flashcards; a free account gives limited access and paid tiers run roughly $4–25 a month depending on plan length. It is a good structured listening supplement, especially in the beginner range. Treat it as one input among several — the lessons over-explain, and the constant discount emails are the price of admission.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@thaipod101"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-thai-thaipod101-com/id381009650"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.thaipod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "tags": [
+      "dialogues"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "pickup-thai",
+    "name": "PickupThai Podcast",
+    "url": "https://pickup-thai.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "paid",
+    "pitch": "Three graded courses of funny, natural Thai dialogues with full transcripts.",
+    "notes": "Yuki and Miki's lesson packs run from Creamy Coconut (beginner) through Sweet Green (intermediate) to Spicy Red (advanced), teaching the colloquial Thai textbooks avoid, with transcripts and detailed vocabulary notes. Seven complete sample lessons are free, so you can judge before buying, and the humour makes repeat listening bearable. The three courses are finished rather than ongoing, and you buy lessons in packs rather than subscribing.",
+    "tags": [
+      "colloquial",
+      "graded-audio"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "learn-thai-with-mod",
+    "name": "Learn Thai with Mod",
+    "url": "https://learnthaiwithmod.com/",
+    "types": [
+      "youtube",
+      "course"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "freemium",
+    "pitch": "Long-running channel teaching practical spoken Thai phrase by phrase, in English.",
+    "notes": "Kruu Mod has been publishing free lessons since 2013 and is still posting in 2026, covering everyday phrasing, question forms, polite particles and the vocabulary you actually need with a partner, family or landlord. The English explanations make it accessible from day one, which comprehensible-input channels are not. Paid courses and books exist on the site; the free YouTube library is the main draw, and it favours useful phrases over systematic grammar.",
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ThaiwithMod"
+      }
+    ],
+    "tags": [
+      "phrases"
+    ],
+    "popularity": 4,
+    "methods": []
+  },
+  {
+    "id": "thai-with-grace",
+    "name": "Thai With Grace",
+    "url": "https://thaiwithgrace.com/",
+    "types": [
+      "website",
+      "course",
+      "podcast"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "Thai teacher's mix of free mini-course, beginner podcast and paid reading courses.",
+    "notes": "Grace publishes a free ten-day absolute-beginner mini course, a beginner podcast, subtitled YouTube lessons and a free phrase ebook, then sells structured courses covering beginner-to-conversational Thai, practical reading and an advanced tier, plus a graded reader and vocabulary apps. The free layer is substantial enough to be worth using on its own. Materials are spread across several platforms, so it takes a moment to work out what belongs to what.",
+    "tags": [
+      "graded-readers",
+      "podcast"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/grace-and-ari-teach-thai/id1517303088"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/23d9e75c/podcast/rss"
+      },
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/poly-thai-reader/id6636517794"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCtxPNb4l4rf4msU-oD-Abqg"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "you-too-can-learn-thai",
+    "name": "You Too Can Learn Thai (Khru Nan)",
+    "url": "https://www.youtoocanlearnthai.com/",
+    "types": [
+      "podcast",
+      "website"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "pronunciation",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Linguist-led Thai podcast with transcripts and free audio flashcards.",
+    "notes": "Khru Nan is a Thai university lecturer with a PhD in linguistics, and it shows in how carefully she handles tones, vowel length and the sounds learners systematically mishear. The podcast is free on Spotify, Apple Podcasts and YouTube, with transcripts and Quizlet flashcard sets on the site; extra episodes sit behind Patreon. Episodes are short and conversational rather than a structured syllabus, so use it alongside a course.",
+    "tags": [
+      "podcast",
+      "pronunciation"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/7LO1UlCxpk2aNV8w5HLQ9Q"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/youtoocanlearnthai"
+      }
+    ],
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "aua-thai-program",
+    "name": "AUA Language Center (Thai Program)",
+    "url": "https://www.auathailand.org/en/aua-thai-courses/",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "listening",
+      "speaking",
+      "immersion"
+    ],
+    "price": "paid",
+    "pitch": "The Bangkok school where Automatic Language Growth listening-first teaching began.",
+    "notes": "AUA is where J. Marvin Brown developed Automatic Language Growth, the approach of absorbing hundreds of hours of Thai before speaking, and it still runs Thai courses at branches including Bangkok and Chiang Mai. For people living in Thailand it remains the best-known in-person option, and its alumni are the reason input-first learning has such a following in Thai. Course formats have shifted over the years, so confirm directly whether the current classes follow the ALG model and ask about hours and fees — neither is published online.",
+    "tags": [
+      "in-person",
+      "alg",
+      "immersion"
+    ],
+    "popularity": 3,
+    "methods": [
+      "comprehensible-input",
+      "structured-course"
+    ]
+  },
+  {
+    "id": "duke-language-school",
+    "name": "Duke Language School",
+    "url": "https://dukelanguage.com/",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "speaking",
+      "listening",
+      "reading",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Bangkok school with structured group Thai courses and education-visa support.",
+    "notes": "One of the more consistently recommended Bangkok schools, offering group and private Thai courses across levels, with an in-house curriculum and the education-visa paperwork that long-term learners in Thailand need. Small classes and a clear level ladder make it a reasonable default if you are moving to Bangkok. It is a commercial school with commercial pricing, and quality still depends on which teacher you draw.",
+    "tags": [
+      "in-person",
+      "bangkok"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/c/dukelanguagebkk"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "point-of-view-thai",
+    "name": "Point of View (จุดประกาย)",
+    "url": "https://www.youtube.com/@PointofView",
+    "types": [
+      "youtube",
+      "media"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Hugely popular Thai channel explaining history, literature and culture — native speed.",
+    "notes": "Wiwanee's channel makes long, well-researched Thai-language videos on history, mythology, literature and true crime for a Thai audience, uploading several times a week. It is the natural next step after learner content: real vocabulary, real speed, but on topics explained clearly enough that context carries you. There are no learner subtitles or glossaries — bring an intermediate-plus base and a dictionary tool.",
+    "tags": [
+      "native-content",
+      "immersion"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "thai-pbs",
+    "name": "Thai PBS",
+    "url": "https://www.thaipbs.or.th/",
+    "types": [
+      "media"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C1",
+    "skills": [
+      "listening",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Thailand's public broadcaster — free news, documentaries and current-affairs video.",
+    "notes": "Free access to news bulletins, documentaries and talk programmes in standard Thai, plus written articles for reading practice on the same stories. Public-broadcast Thai is clearer and less slangy than commercial TV, which makes it a manageable first step into unmodified native media. It is genuinely advanced material — formal register, fast delivery, and no learner scaffolding of any kind.",
+    "tags": [
+      "news",
+      "native-content"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "reddit-learnthai",
+    "name": "r/learnthai",
+    "url": "https://www.reddit.com/r/learnthai/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "thai"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "The main English-language Thai learner forum, with honest resource threads.",
+    "notes": "An unusually good learner community: native speakers and long-term residents answer tone, register and translation questions, and the recurring input-hours logs and school reviews are the most candid comparisons of Thai courses you will find anywhere. Search the archives before asking — resource questions have been answered many times over. Opinions on methods (input-first versus textbook) get heated, so read a few threads before taking any single verdict as consensus.",
+    "tags": [
+      "forum"
+    ],
+    "popularity": 4,
+    "methods": []
+  }
+]

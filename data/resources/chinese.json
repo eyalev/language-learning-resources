@@ -1,0 +1,1317 @@
+[
+  {
+    "id": "pleco",
+    "name": "Pleco",
+    "url": "https://www.pleco.com/",
+    "types": [
+      "dictionary",
+      "app"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "The Chinese dictionary every serious learner installs first, and never uninstalls.",
+    "notes": "A free, offline-capable Chinese-English dictionary with stroke-order animations, handwriting and audio search, plus paid add-ons for OCR (point your camera at a menu or sign), document reading and extra dictionaries. The free version alone is better than any competitor; the paid bundles are one-time purchases rather than a subscription. Its flashcard system is powerful but fiddly — many people pair Pleco for lookup with a separate SRS. Simplified and traditional both supported.",
+    "tags": [
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/pleco-chinese-dictionary/id341922306"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.pleco.chinesesystem"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "mdbg-dictionary",
+    "name": "MDBG Chinese Dictionary",
+    "url": "https://www.mdbg.net/chinese/dictionary",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Free browser dictionary built on CC-CEDICT, with character decomposition and stroke order.",
+    "notes": "The default desktop lookup for most learners: search by pinyin, character, English or handwriting, then drill into components, stroke order and example words. It also has a bulk text annotation tool that adds pinyin above a whole passage, which is handy for prepping reading material. Plain and ad-light, but purely a reference — no lessons, no spaced repetition.",
+    "tags": [
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "moedict",
+    "name": "萌典 MoeDict",
+    "url": "https://www.moedict.tw/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Taiwan's official Ministry of Education dictionary in a fast, free open-source interface.",
+    "notes": "The best free reference for traditional characters and Taiwanese Mandarin usage, built on the Ministry of Education's official dictionaries and showing zhuyin (bopomofo) alongside pinyin. It also carries Taiwanese Hokkien and Hakka entries. Definitions are Chinese-Chinese, so it is a step up in difficulty — treat it as the monolingual dictionary you graduate into rather than a beginner tool.",
+    "tags": [
+      "traditional",
+      "taiwan-mandarin"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "yoyo-chinese-pinyin-chart",
+    "name": "Yoyo Chinese Interactive Pinyin Chart",
+    "url": "https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table",
+    "types": [
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "pronunciation",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Every pinyin syllable in all four tones, with native audio and video explanations.",
+    "notes": "A free chart where you click any initial-final combination to hear it in each tone, with short video lessons on the sounds English speakers get wrong (zh/ch/sh vs j/q/x, the ü vowel, the third-tone sandhi). Working through this before you memorise vocabulary saves months of fossilised pronunciation errors. It is a reference tool, not a course, so pair it with feedback from a teacher or tutor.",
+    "tags": [
+      "pinyin",
+      "tones"
+    ],
+    "popularity": 3,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "grace-mandarin-chinese",
+    "name": "Grace Mandarin Chinese",
+    "url": "https://www.youtube.com/@GraceMandarinChinese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "pronunciation",
+      "speaking",
+      "listening"
+    ],
+    "price": "free",
+    "pitch": "Clear, well-produced videos on tones, pronunciation and how Mandarin actually sounds.",
+    "notes": "A Taiwanese teacher whose channel is unusually strong on the things textbooks gloss over: tone pairs, tone changes in fast speech, mouth position for tricky sounds, and the difference between mainland and Taiwanese pronunciation. Explanations are in English with Chinese examples, so it works from day one. She speaks Taiwanese Mandarin, which is a feature if that's your target and a minor accent difference if it isn't.",
+    "tags": [
+      "tones",
+      "pinyin",
+      "taiwan-mandarin"
+    ],
+    "popularity": 2,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "hellochinese",
+    "name": "HelloChinese",
+    "url": "https://www.hellochinese.cc/",
+    "types": [
+      "app",
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "listening",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "The best gamified beginner app for Chinese specifically — tones and characters built in.",
+    "notes": "Designed for Mandarin rather than retrofitted from a European-language template, so it drills tones with speech recognition, teaches stroke order for handwriting, and lets you toggle pinyin off as you improve. The free tier covers a real beginner course; premium unlocks later units, immersion videos and extra review. It plateaus around HSK 3–4 — treat it as your first six months, not your whole plan.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/hellochinese-learn-chinese/id1001507516"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.hellochinese"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@HelloChineseApp"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "gamified"
+    ]
+  },
+  {
+    "id": "dong-chinese",
+    "name": "Dong Chinese",
+    "url": "https://www.dong-chinese.com/",
+    "types": [
+      "app",
+      "website",
+      "tool"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "reading",
+      "vocabulary",
+      "writing"
+    ],
+    "price": "freemium",
+    "pitch": "Learn characters through real etymology plus frequency-ordered reading practice.",
+    "notes": "Shows you where characters actually come from — ancient forms, sound components, meaning components — instead of inventing mnemonics, then feeds you sentences and short media graded to what you already know. The character-origin data is genuinely scholarly and the free tier is generous. The interface is dense and does not hold your hand, so it suits self-directed learners more than beginners who want a guided path.",
+    "tags": [
+      "hanzi",
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/dongchinese/id6760429148"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.peterolson.chinse.dongchinese"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "outlier-linguistics",
+    "name": "Outlier Linguistics Chinese Character Dictionary",
+    "url": "https://www.outlier-linguistics.com/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Palaeography-based character add-on for Pleco: what each component really contributes.",
+    "notes": "Built by linguists working from excavated bronze and oracle-bone forms, it explains for each character which parts carry sound and which carry meaning, correcting a lot of folk etymology that circulates in learner circles. It installs inside Pleco, so it fits your existing lookup habit. It is a one-time paid add-on and it assumes you already read some Chinese — buying it at beginner level is premature.",
+    "tags": [
+      "hanzi",
+      "etymology"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "skritter",
+    "name": "Skritter",
+    "url": "https://skritter.com/",
+    "types": [
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "writing",
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Handwriting SRS that grades every stroke as you write characters from memory.",
+    "notes": "You write characters with a finger or stylus and it marks stroke order and shape in real time, scheduling reviews so you actually retain them; it ships with HSK, Integrated Chinese and other textbook lists. Only Chinese and Japanese are supported, which is why it is here rather than in the general tools. Roughly $15/month or $100/year after a 7-day trial, and it is worth it only if handwriting is genuinely one of your goals — many learners reasonably skip production of characters entirely.",
+    "tags": [
+      "hanzi",
+      "handwriting",
+      "srs"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/skritter-write-chinese/id1370892114"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCjgfULWh8BVpW4kebqEr91w"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.inkren.skritter.chinese"
+      }
+    ],
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "zhongwen-extension",
+    "name": "Zhongwen Chinese Popup Dictionary",
+    "url": "https://chromewebstore.google.com/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Hover over any Chinese word in the browser to see pinyin and meaning instantly.",
+    "notes": "A free, open-source Chrome extension that turns the whole Chinese web into readable material: hover for pinyin, definition and word segmentation, with keyboard shortcuts to save words for export to Anki. It is the cheapest way to start reading native articles rather than textbook passages. Purely a lookup crutch — it will not make you learn anything unless you also review what you save.",
+    "tags": [
+      "simplified",
+      "traditional",
+      "browser-extension"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "du-chinese",
+    "name": "Du Chinese",
+    "url": "https://duchinese.net/",
+    "types": [
+      "app",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Graded Chinese stories with native audio, tap-for-pinyin and a built-in dictionary.",
+    "notes": "Thousands of short lessons across six difficulty tiers, each with clear recorded audio, a pop-up dictionary and toggleable pinyin, so you can read comfortably from your first hundred characters. A few free lessons refresh regularly; a subscription unlocks the library. The stories are written for learners rather than native content, which is exactly what makes it work early on but also why you should graduate to real material later.",
+    "tags": [
+      "graded-reader",
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/du-chinese-read-learn-chinese/id1052961520"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=org.sinamon.duchinese"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "the-chairmans-bao",
+    "name": "The Chairman's Bao",
+    "url": "https://www.thechairmansbao.com/",
+    "types": [
+      "website",
+      "app",
+      "media"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Real news rewritten at six HSK-aligned levels, with audio and word lists.",
+    "notes": "A news-based graded reader adding articles daily across levels roughly mapped to HSK 1–6, each with human-recorded audio, one-tap dictionary and exportable vocabulary. Because the content is current events rather than invented stories, it keeps intermediate learners reading when textbook dialogues get boring. Free sample lessons exist but the useful volume is behind a subscription, and simplified characters dominate.",
+    "tags": [
+      "graded-reader",
+      "news",
+      "hsk",
+      "simplified"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=uk.co.metapps.thechairmansbao"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "mandarin-companion",
+    "name": "Mandarin Companion Graded Readers",
+    "url": "https://mandarincompanion.com/",
+    "types": [
+      "book"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Full novellas retold within 150, 300 or 450 characters — your first real book in Chinese.",
+    "notes": "Classic stories (Sherlock Holmes, Jane Eyre, Chinese folk tales) rewritten with strictly controlled character sets and reset in Chinese settings, so a beginner can finish an entire book without constant lookups. Finishing one is a genuine motivation milestone that app-based reading rarely delivers. Books are cheap but paid, available in simplified and traditional, and the Level 0/1 range is narrow — you outgrow the series around HSK 4.",
+    "tags": [
+      "graded-reader",
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 3,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "readibu",
+    "name": "Readibu",
+    "url": "https://www.readibu.com/",
+    "types": [
+      "app",
+      "tool"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Read Chinese web novels and your own EPUBs with pop-up pinyin and dictionary.",
+    "notes": "Aimed squarely at the hardest transition in Chinese — from graded readers to native text — by making any Chinese webpage or imported file tappable for pinyin, definitions and text-to-speech, with difficulty estimates for novels. Reading itself is free; premium adds sync, offline and sentence translation. Best once you have roughly HSK 4 vocabulary; below that even with lookups the novels are a slog.",
+    "tags": [
+      "webnovels",
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/readibu-chinese-novel-reader/id1474518982"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.readibu.mobile"
+      }
+    ],
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "heavenly-path",
+    "name": "Heavenly Path 飞升宝典",
+    "url": "https://heavenlypath.notion.site/",
+    "types": [
+      "website",
+      "community"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C2",
+    "skills": [
+      "reading",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Community-built roadmap from graded readers to native novels, games and shows.",
+    "notes": "A free Notion wiki that solves 'what do I read next': hundreds of native books, webnovels, manhua, games and TV shows sorted by real difficulty, with a step-by-step guide out of textbook Chinese and into native material. It is the single best answer for intermediate learners stuck in the HSK plateau. Notion's interface is clunky on phones, and recommendations skew towards webnovels and genre fiction.",
+    "tags": [
+      "reading-guide",
+      "immersion",
+      "simplified"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "chinese-grammar-wiki",
+    "name": "Chinese Grammar Wiki (AllSet Learning)",
+    "url": "https://resources.allsetlearning.com/chinese/grammar/Main_Page",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Every Mandarin grammar point, sorted by level, with plenty of example sentences.",
+    "notes": "The reference to bookmark: each structure gets a short explanation, a formula and a stack of natural example sentences, organised A1 through C1 so you can both look things up and work through a level systematically. Free on the web with an optional paid ebook version. It is a reference, not a course — it explains what a structure means but gives you no drilling or production practice.",
+    "tags": [
+      "grammar",
+      "simplified"
+    ],
+    "popularity": 3,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "hacking-chinese",
+    "name": "Hacking Chinese",
+    "url": "https://www.hackingchinese.com/",
+    "types": [
+      "website",
+      "podcast"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "listening",
+      "reading",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Fifteen years of practical, evidence-minded articles on how to actually study Mandarin.",
+    "notes": "Olle Linge writes long, careful pieces on tone learning, character memorisation, listening strategy and dealing with plateaus, plus regularly updated best-of lists for podcasts, YouTube channels and reading material. There is an accompanying podcast and free challenge platform. It is about method rather than content — you still need a course, a dictionary and input, but this tells you how to use them well.",
+    "tags": [
+      "method",
+      "study-strategy"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/hacking-chinese-podcast/id1536284827"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/388eb9e8/podcast/rss"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@HackingChinese"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/5iCRv1jg3j3yJZGJlYVYaO"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "id": "hack-chinese",
+    "name": "Hack Chinese",
+    "url": "https://www.hackchinese.com/",
+    "types": [
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "paid",
+    "pitch": "Chinese-specific spaced repetition with ready-made HSK and textbook word lists.",
+    "notes": "A vocabulary SRS built only for Mandarin: import HSK levels, Integrated Chinese chapters or your own lists, and it schedules reviews with sensible defaults instead of Anki's endless configuration. Good for people who want spaced repetition to just work. It is a paid subscription doing something Anki does free, and like all SRS it teaches recognition, not usage — pair it with reading.",
+    "tags": [
+      "srs",
+      "hsk",
+      "vocabulary"
+    ],
+    "popularity": 2,
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
+    "id": "chinese-zero-to-hero",
+    "name": "Chinese Zero To Hero",
+    "url": "https://www.chinesezerotohero.com/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "Structured video courses following the HSK syllabus all the way to HSK 6.",
+    "notes": "The most complete HSK-aligned course track available online, with grammar explanations, vocabulary drilling and mock exams for each level, taught clearly in English with Chinese examples. If your goal is the HSK certificate for study or work in China, this is the straightest path. Courses are paid per level (a free YouTube channel previews the teaching style), and the HSK-exam focus means less everyday conversational practice.",
+    "tags": [
+      "hsk",
+      "exam-prep",
+      "simplified"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "yoyo-chinese",
+    "name": "Yoyo Chinese",
+    "url": "https://www.yoyochinese.com/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "listening",
+      "grammar",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "Video course from Yangyang Cheng focused on spoken, conversational Mandarin.",
+    "notes": "A well-sequenced beginner-to-intermediate video curriculum with unusually good pronunciation coaching and a conversational rather than exam-driven emphasis, plus a Chinese Characters course for reading. Explanations are in English and paced for absolute beginners. It is a subscription, the library stops around upper-intermediate, and there is little advanced material once you finish the main tracks.",
+    "tags": [
+      "simplified",
+      "spoken-chinese"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/channel/UCSJyGe2H0C9q6QH0-hH04zw"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "mandarin-blueprint",
+    "name": "Mandarin Blueprint",
+    "url": "https://www.mandarinblueprint.com/",
+    "types": [
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "reading",
+      "vocabulary",
+      "pronunciation"
+    ],
+    "price": "paid",
+    "pitch": "Character-first course built on the Hanzi Movie Method mnemonic system.",
+    "notes": "A long, structured course whose distinguishing idea is the Hanzi Movie Method: you assign actors, sets and props to sound and tone components, then build vivid scenes to lock in thousands of characters. Learners who bounce off rote character study often find it works where nothing else did. It is expensive (hundreds of dollars, sold as subscription or lifetime), the setup phase is heavy before you see returns, and the mnemonic system is not for everyone.",
+    "tags": [
+      "hanzi",
+      "mnemonics",
+      "simplified"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "chinesepod",
+    "name": "ChinesePod",
+    "url": "https://www.chinesepod.com/",
+    "types": [
+      "podcast",
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "A vast back catalogue of dialogue-based audio lessons from Newbie to Advanced.",
+    "notes": "Two decades of lessons built around a short natural dialogue plus bilingual discussion, graded across six levels — the Intermediate and Upper Intermediate tiers in particular are still among the best listening material for Mandarin. Many episodes are free through podcast feeds; transcripts and exercises need a subscription. Caveat: the platform is essentially in maintenance mode, with little new content and slow support, so treat it as an archive rather than a living course.",
+    "tags": [
+      "archive",
+      "simplified"
+    ],
+    "popularity": 3,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/chinesepod-advanced/id1529838325"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/317e2da0/podcast/rss"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=llc.chinesepod.android"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "lazy-chinese",
+    "name": "Lazy Chinese",
+    "url": "https://www.youtube.com/@Lazy-Chinese",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Slow, all-Chinese storytelling with gestures and props you can follow from day one.",
+    "notes": "Suqing tells simple stories entirely in Mandarin, using drawings, objects and clear enunciation so meaning arrives from context instead of translation — the comprehensible-input approach applied properly to Chinese. It is the standard first listening resource for beginners who want their ear trained early. No English explanations means you need patience at the very start, and the videos build vocabulary slowly by design.",
+    "tags": [
+      "comprehensible-input",
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/7cbdgvtWWMOwl4eejMRPWI"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "mandarin-click",
+    "name": "Mandarin Click",
+    "url": "https://www.youtube.com/@MandarinClick",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Comprehensible-input videos and Slow Chinese Stories for absolute beginners.",
+    "notes": "Chinese-only videos supported by images, body language and deliberately slow speech, with a Slow Chinese Stories playlist that is one of the gentlest entry points into listening. Works well alternated with Lazy Chinese so you hear more than one voice early. As with all pure input channels there is no grammar instruction, so run it alongside a structured course rather than instead of one.",
+    "tags": [
+      "comprehensible-input",
+      "simplified"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "acquire-mandarin",
+    "name": "Acquire Mandarin",
+    "url": "https://www.youtube.com/@acquiremandarin",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Interesting topics discussed entirely in clear Mandarin for the awkward middle stage.",
+    "notes": "Bridges the gap between beginner input channels and native content: real subjects covered in natural but carefully paced Chinese, staying in the target language throughout. This is the level where free material is thinnest, which makes the channel unusually valuable. Expect fewer visual crutches than beginner channels — you need a working base of a couple of thousand words to enjoy it.",
+    "tags": [
+      "comprehensible-input",
+      "simplified"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "mandarin-corner",
+    "name": "Mandarin Corner",
+    "url": "https://www.youtube.com/@MandarinCorner2",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Street interviews and everyday conversations with full pinyin and English subtitles.",
+    "notes": "Eileen's channel captures how people in China actually speak — market vendors, taxi drivers, friends chatting — with dual subtitles and downloadable transcripts, plus slower structured lessons for lower levels. It is one of the few free sources of genuinely unscripted mainland Mandarin at a usable difficulty. Upload pace has slowed in recent years, but the back catalogue is large and still current enough.",
+    "tags": [
+      "simplified",
+      "street-interviews"
+    ],
+    "popularity": 2,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "speak-chinese-with-da-peng",
+    "name": "大鹏说中文 Speak Chinese With Da Peng",
+    "url": "https://www.youtube.com/@chinese9339",
+    "types": [
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "A Beijing teacher talking about daily life and culture in clear, unhurried Mandarin.",
+    "notes": "Da Peng speaks slowly and articulately about everyday topics, idioms and Chinese social norms, entirely in Chinese, with a matching podcast feed for listening away from the screen. The mainland-standard accent and everyday register make it a good daily listening habit for intermediates. There is no English scaffolding and few transcripts on the free channel.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/%E5%A4%A7%E9%B9%8F%E8%AF%B4%E4%B8%AD%E6%96%87-speak-chinese-with-da-peng/id1490732024"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/688918.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4Xgf5VBTn1azv5yFOX1EPI"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "teatime-chinese",
+    "name": "TeaTime Chinese 茶歇中文",
+    "url": "https://teatimechinese.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate"
+    ],
+    "cefr": "B1–B2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Weekly 20-minute episodes on Chinese culture and society, spoken slowly and clearly.",
+    "notes": "Nathan covers substantive topics — history, food, internet culture, current life in China — in simple but adult Mandarin, which is rare: most learner podcasts are either childish or too fast. Episodes are free on all podcast apps; transcripts and vocabulary lists are a paid extra. The pacing is deliberately slower than natural speech, so use it as a bridge rather than a final destination.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/teatime-chinese-%E8%8C%B6%E6%AD%87%E4%B8%AD%E6%96%87/id1557463835"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.libsyn.com/shows/330782/destinations/2693480.xml"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6mJNegfDGmNaG1mWJtZJed"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/TeaTimeChinese"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "maomi-chinese",
+    "name": "MaoMi Chinese",
+    "url": "https://maomichinese.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A2–B1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Short scripted monologues in easy Mandarin, with key words explained in Chinese.",
+    "notes": "Molly records tightly scripted episodes at lower-intermediate level and explains new vocabulary in simpler Chinese rather than switching to English, which trains you to stay in the language. Episode length is manageable for a commute and levels are labelled. The audio is free; transcripts and exercises are a paid membership, and the fully scripted delivery is cleaner than real conversation.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/maomi-chinese/id1548129463"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/1426696.rss"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UC9xJNZQ2YwSKuIm_VUB1F4w"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "learning-chinese-through-stories",
+    "name": "Learning Chinese Through Stories",
+    "url": "https://www.learningchinesethroughstories.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A2–C1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Story episodes paired with all-Chinese vocabulary explanations, across five levels.",
+    "notes": "Each story comes with a companion episode where the hosts unpack the key words and phrases in Chinese, so you get input and consolidation without leaving the language, from Beginning through Superior. The level range makes it one of the few learner podcasts you can stay with for years. Podcast audio is free; transcripts, worksheets and speaking cohorts are paid, and the recording quality varies across the older catalogue.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learning-chinese-through-stories/id942258146"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.pdrl.fm/7a3f80/feeds.libsyn.com/130982/rss/?redirect=false"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "dashu-mandarin",
+    "name": "Dashu Mandarin 大叔中文",
+    "url": "https://www.youtube.com/@dashumandarin",
+    "types": [
+      "podcast",
+      "youtube"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B2–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "Three Chinese teachers debating culture and society at close to natural speed.",
+    "notes": "Unscripted multi-speaker conversation is the hardest listening skill and this is the best learner-oriented source of it: real interruptions, opinions and slang, but from teachers who keep things intelligible. Excellent preparation for native podcasts. Free on YouTube and podcast apps, with transcripts and vocabulary behind a paid tier; the pace will overwhelm you below solid B1.",
+    "tags": [
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/dashu-mandarin-podcast/id1614411825"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/88ca316c/podcast/rss"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "story-fm",
+    "name": "故事FM",
+    "url": "https://storyfm.cn/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "C1–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Ordinary Chinese people telling their own true stories — native podcasting at its best.",
+    "notes": "Around 900 episodes of first-person narration from across Chinese society, produced to a high standard and free with transcripts on the website. As native content it doubles as language input and as a window into contemporary China that learner material never gives you. It is genuinely native speed with regional accents and heavy colloquialism — comfortable only once you can follow unscripted speech.",
+    "tags": [
+      "native-content",
+      "simplified"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/%E6%95%85%E4%BA%8Bfm/id1256399960"
+      },
+      {
+        "label": "RSS",
+        "url": "https://feeds.storyfm.cn/storyfm.xml"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "integrated-chinese",
+    "name": "Integrated Chinese (Cheng & Tsui)",
+    "url": "https://www.cheng-tsui.com/browse/integrated-chinese",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "reading",
+      "writing",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "The standard university Mandarin textbook series, now in its fourth edition.",
+    "notes": "Four volumes of systematic grammar, dialogues and character work, used by most North American college programmes, with workbooks, audio and a web app for exercises. If you want a spine for self-study with a clear sequence and available answer keys, this is the safest choice. It is expensive, the dialogues are dated and campus-centric, and it is written for classroom use — self-learners need to supply their own speaking practice.",
+    "tags": [
+      "textbook",
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "chinese-forums",
+    "name": "Chinese Forums",
+    "url": "https://www.chinese-forums.com/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Twenty years of archived discussion among unusually experienced Mandarin learners.",
+    "notes": "A long-running forum where advanced learners, translators and teachers review resources, discuss study methods and run reading groups — the signal-to-noise ratio is far better than social media. Searching the archive answers most 'which textbook / how do I get past HSK 4' questions immediately. Traffic is much lower than it was, so expect slow replies to new threads and treat it primarily as an archive.",
+    "tags": [
+      "forum"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "hsk-official-test",
+    "name": "Chinese Proficiency Test (HSK) — Official Site",
+    "url": "https://www.chinesetest.cn/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "reading",
+      "listening",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Official HSK and HSKK registration, test dates, syllabuses and sample papers.",
+    "notes": "The authoritative source for what each HSK level actually requires, where to sit the exam, and free official practice papers — worth checking directly rather than relying on third-party summaries, since the HSK 3.0 standard changed level boundaries and vocabulary counts substantially. Registration and information are free; the exam itself has a fee. The site is functional but clunky, and English translations lag the Chinese pages.",
+    "tags": [
+      "hsk",
+      "exam-prep"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]

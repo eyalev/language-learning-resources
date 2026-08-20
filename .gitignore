@@ -1,0 +1,9 @@
+# Output of scripts/linkcheck.mjs — regenerate rather than commit; it goes
+# stale immediately and is noisy in diffs.
+linkcheck.jsonl
+*.jsonl
+
+node_modules/
+.DS_Store
+*.log
+.env

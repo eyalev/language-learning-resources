@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "alif-baa",
+    "name": "Alif Baa: Introduction to Arabic Letters and Sounds",
+    "url": "https://alkitaabtextbook.com/alifbaa/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1",
+    "skills": [
+      "reading",
+      "writing",
+      "pronunciation",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "The standard first book: the Arabic script and sound system in about six weeks.",
+    "notes": "Volume zero of the Al-Kitaab programme, taking you from no Arabic at all to reading and handwriting the alphabet, with video drills for the sounds English speakers struggle with (ع، ح، ق، ط) and a companion website of exercises. Uniquely for a script book, it introduces Egyptian and Levantine pronunciation alongside formal Arabic from the start. It is a paid textbook whose online access code is tied to the purchase, and used copies often have that code already redeemed.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "arabic-script",
+      "textbook"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "madinah-arabic",
+    "name": "Madinah Arabic",
+    "url": "https://www.madinaharabic.com/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "reading",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Free structured MSA course starting from the alphabet, with 90+ online lessons.",
+    "notes": "Two free self-paced courses — a reading course that teaches the script letter by letter, then a language course covering core grammar and vocabulary — with audio and exercises throughout. It is the best free zero-to-basics path for Modern Standard Arabic and is popular with learners whose goal is reading classical and religious texts. Paid one-to-one classes are offered on top; the free material is text-heavy and gives you almost no conversational practice.",
+    "tags": [
+      "msa",
+      "arabic-script"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "al-kitaab",
+    "name": "Al-Kitaab Arabic Language Program",
+    "url": "https://alkitaabtextbook.com/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "writing",
+      "grammar",
+      "listening"
+    ],
+    "price": "paid",
+    "pitch": "The three-part textbook series most university Arabic programmes are built around.",
+    "notes": "Parts One to Three carry you from post-alphabet beginner to advanced reading of literary and journalistic Arabic, and the third edition deliberately teaches formal Arabic together with Egyptian and Levantine spoken forms rather than pretending dialects do not exist. If you want the same syllabus a degree programme uses, this is it. It is widely criticised for a punishing vocabulary load, thin grammar explanations and a design that assumes a teacher — self-learners often need a supplementary grammar.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "textbook"
+    ],
+    "popularity": 4,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "al-arabiyya-bayna-yadayk",
+    "name": "Al-Arabiyya Bayna Yadayk (Arabic Between Your Hands)",
+    "url": "https://www.arabicforall.net/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "reading",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Arabic-only MSA course series built around communication rather than translation.",
+    "notes": "A Saudi-published series used across the Arab world and in Islamic studies programmes, written entirely in Arabic with heavy audio support and a strong speaking and listening emphasis from the first book. Because there is no English, it forces immersion and works well with a teacher or a study group. That same choice makes it hard to start alone with no guidance, and the vocabulary skews formal and religious.",
+    "tags": [
+      "msa",
+      "textbook"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "al-jazeera-learning-arabic",
+    "name": "Al Jazeera Learning Arabic",
+    "url": "https://learning.aljazeera.net/en",
+    "types": [
+      "course",
+      "website",
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "free",
+    "pitch": "Free levelled MSA lessons and graded news material from Al Jazeera's education arm.",
+    "notes": "A genuinely free platform with lessons sorted from beginner to advanced, built around media Arabic — news clips, interviews and articles with vocabulary support and comprehension exercises — plus a matching YouTube channel. For anyone learning Arabic to read or watch the news, the register is exactly right. The interface is easier to navigate in Arabic than in English, and there is no speaking practice at all.",
+    "tags": [
+      "msa",
+      "news"
+    ],
+    "popularity": 3,
+    "methods": [
+      "structured-course",
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "arabicpod101",
+    "name": "ArabicPod101",
+    "url": "https://www.arabicpod101.com/",
+    "types": [
+      "podcast",
+      "course",
+      "app"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Huge library of short audio lessons, mostly MSA with some Egyptian and Moroccan.",
+    "notes": "Dialogue-plus-explanation lessons with transcripts, line-by-line breakdowns and flashcards, covering absolute beginner through lower intermediate. The sheer volume makes it a decent daily listening habit, and a free account gives real access before you commit. Two caveats: the catalogue mixes varieties without always making the distinction obvious, so check whether a lesson is formal Arabic or dialect; and the marketing is relentless, with prices only reasonable during their frequent sales.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "maghrebi-arabic"
+    ],
+    "popularity": 4,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/learn-arabic-arabicpod101-com/id280208841"
+      },
+      {
+        "label": "RSS",
+        "url": "https://www.arabicpod101.com/wp-feed-audio-video.php"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "talk-in-arabic",
+    "name": "Talk in Arabic",
+    "url": "https://talkinarabic.com/",
+    "types": [
+      "website",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "paid",
+    "pitch": "Eight spoken dialects in one subscription — Egyptian, Levantine, Gulf, Maghrebi and more.",
+    "notes": "Covers Egyptian, Levantine, Saudi, Iraqi, Sudanese, Moroccan, Algerian and Tunisian with native-speaker audio and video dialogues and transcripts, which makes it the most practical single answer for someone who has picked a dialect other than Egyptian. Useful too if you are still deciding and want to hear them side by side. It is a paid membership, material is organised as a library rather than a course, and depth varies a lot between the well-served dialects and the smaller ones.",
+    "tags": [
+      "egyptian-arabic",
+      "levantine-arabic",
+      "gulf-arabic",
+      "maghrebi-arabic"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/c/talkinarabic"
+      }
+    ],
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "playaling",
+    "name": "Playaling",
+    "url": "https://playaling.com/",
+    "types": [
+      "website",
+      "app",
+      "media"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Real Arabic video clips with interactive dual subtitles, filtered by dialect and level.",
+    "notes": "Over a thousand clips — TV, music, interviews, cartoons — each with tappable Arabic and English captions, an audio dictionary and vocabulary practice, filterable by Levantine, Egyptian, Gulf, Maghrebi, MSA or Educated Spoken Arabic. It is the cleanest way to train your ear on how a specific dialect actually sounds instead of textbook recordings. There is a free tier and trial, but the useful volume needs a subscription, and there is an alphabet course but no full grammar syllabus.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "gulf-arabic",
+      "maghrebi-arabic"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/playaling-learn-arabic/id6740200598"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.playaling_app"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "lingualism",
+    "name": "Lingualism",
+    "url": "https://lingualism.com/",
+    "types": [
+      "book",
+      "tool"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "reading",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Dialect ebooks and graded readers with parallel text, transcription and free audio.",
+    "notes": "Matthew Aldrich's catalogue is the deepest independent source of written Egyptian and Levantine material: verb references, vocabulary books and graded readers with Arabic script, phonemic transcription, English translation and audio, plus matching Anki decks. For dialects that barely exist in print, this fills a real gap. Books are paid (though inexpensive), the audio is streamed free on their YouTube channel, and the presentation is functional rather than polished.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "graded-reader"
+    ],
+    "popularity": 2,
+    "methods": [
+      "graded-reading"
+    ]
+  },
+  {
+    "id": "living-arabic-project",
+    "name": "The Living Arabic Project",
+    "url": "https://www.livingarabic.com/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The largest free dialect dictionaries for Egyptian, Levantine, Gulf, Iraqi and more.",
+    "notes": "Search a word and see how it is used in Classical Arabic and across Egyptian, Levantine, North African, Gulf, Iraqi, Sudanese and Yemeni, with roots, plurals, pronunciation notes and example sentences — something no other free resource comes close to. Essential once you start reading or listening to real dialect material. The web dictionaries are free (a paid Lughatuna app adds offline access), and coverage is much thicker for Egyptian and Levantine than for the others.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "gulf-arabic",
+      "maghrebi-arabic"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "almaany",
+    "name": "Almaany المعاني",
+    "url": "https://www.almaany.com/",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free Arabic-Arabic and Arabic-English dictionary aggregating the classical lexicons.",
+    "notes": "The lookup most Arabic speakers and advanced learners actually use: it pulls together Lisan al-Arab and other classical dictionaries alongside modern bilingual entries, with roots, conjugations and idioms. Monolingual definitions make it the natural step up when English glosses stop being precise enough. The site is ad-heavy, the interface is cluttered, and it covers formal Arabic only — dialect words will not be there.",
+    "tags": [
+      "msa"
+    ],
+    "popularity": 3,
+    "methods": []
+  },
+  {
+    "id": "arabic-almanac",
+    "name": "Arabic Almanac (ejtaal.net)",
+    "url": "https://ejtaal.net/aa/",
+    "types": [
+      "dictionary",
+      "tool"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "skills": [
+      "reading",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Scanned Hans Wehr, Lane and other classical lexicons, searchable by root.",
+    "notes": "A free root-based interface to page scans of the major Arabic dictionaries — Hans Wehr, Lane's Lexicon, Steingass and more — which is how serious readers of classical and literary Arabic look words up. Indispensable if you are reading Qur'anic, poetic or pre-modern prose. It assumes you can derive the root yourself and read dictionary conventions, so it is useless as a beginner tool, and the scanned-page interface feels ancient.",
+    "tags": [
+      "msa",
+      "classical-arabic"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "desert-sky-arabic",
+    "name": "Desert Sky Arabic",
+    "url": "https://arabic.desert-sky.net/",
+    "types": [
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free, clearly written Egyptian Arabic grammar reference with MSA comparisons.",
+    "notes": "One learner's long-maintained notes covering pronouns, verb conjugation, negation, colloquial expressions and proverbs, giving Cairene Egyptian forms next to formal Arabic with transliteration throughout. For a dialect with almost no free structured grammar available, it remains the reference people link to first. The site is old-fashioned and no longer actively updated, and the transliteration-heavy presentation means you should already be comfortable with the script.",
+    "tags": [
+      "egyptian-arabic",
+      "msa"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "lisaan-masry",
+    "name": "Lisaan Masry",
+    "url": "https://sea.lisaanmasry.org/info/en/home.html",
+    "types": [
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "vocabulary",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Egyptian Arabic dictionary with full conjugation tables and audio for entries.",
+    "notes": "A dedicated Egyptian Colloquial dictionary that gives you conjugated verb forms, plurals and transliteration rather than making you guess how a Modern Standard entry gets pronounced in Cairo. Free browsing covers most needs; an account and paid tier unlock extras like saved lists. The database is community-built so quality varies between entries, the interface has not changed in years, and the site is intermittently unreachable — retry rather than assuming it is gone.",
+    "tags": [
+      "egyptian-arabic"
+    ],
+    "popularity": 2,
+    "methods": []
+  },
+  {
+    "id": "kallimni-arabi",
+    "name": "Kallimni 'Arabi series",
+    "url": "https://aucpress.com/9789774160318/kallimni-arabi/",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "speaking",
+      "listening",
+      "reading",
+      "grammar"
+    ],
+    "price": "paid",
+    "pitch": "Samia Louis's six-book Egyptian Arabic course, the closest thing to a dialect standard.",
+    "notes": "A properly sequenced spoken-Egyptian curriculum (Bishweesh through Aktar) written in Arabic script with audio, taking you from survival phrases to genuinely advanced colloquial — no other dialect has anything this complete. Widely used by language schools in Cairo. Books are paid and sold per level, instructions are largely in Arabic, and like most classroom series it works far better with a teacher or tutor than alone.",
+    "tags": [
+      "egyptian-arabic",
+      "textbook"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "learn-arabic-with-maha",
+    "name": "Learn Arabic with Maha",
+    "url": "https://www.youtube.com/@LearnArabicwithMaha",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "pronunciation",
+      "vocabulary",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Free Egyptian Arabic lessons with unusually good pronunciation coaching.",
+    "notes": "A long-running channel of short themed lessons — greetings, food, transport, common verbs — with careful attention to where each Arabic sound is produced in the mouth, which is exactly what most beginners get wrong and never fix. Everything is free and the Egyptian dialect is the one you will hear across Arab media. Videos are standalone rather than a sequenced course, so you need to impose your own order.",
+    "tags": [
+      "egyptian-arabic"
+    ],
+    "popularity": 2,
+    "methods": [
+      "pronunciation-training"
+    ]
+  },
+  {
+    "id": "comprehensible-egyptian-arabic",
+    "name": "Comprehensible Egyptian Arabic",
+    "url": "https://www.youtube.com/@ComprehensibleEgyptian",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Egyptian Arabic taught entirely in Arabic with visuals, gestures and slow speech.",
+    "notes": "Applies the comprehensible-input approach to Egyptian: no English, just simple narration supported by drawings and props so meaning arrives from context. Since almost all beginner dialect material leans on English explanation and transliteration, this trains your ear far earlier. The channel is smaller than its Spanish equivalents, so there is a limited number of videos — use it alongside a structured course, not instead of one.",
+    "tags": [
+      "egyptian-arabic",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "easy-arabic-youtube",
+    "name": "Easy Arabic",
+    "url": "https://www.youtube.com/@EasyArabicVideos",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Unscripted street interviews in Egypt, Palestine and Tunisia with dual subtitles.",
+    "notes": "Real people answering real questions at natural speed, with simultaneous Arabic and English subtitles so you can follow colloquial speech you would otherwise miss entirely. The Super Easy series has the team speaking slowly for lower levels. Because the interviews are filmed in different countries the dialect shifts between videos — check the description before assuming you are hearing the variety you study.",
+    "tags": [
+      "egyptian-arabic",
+      "levantine-arabic",
+      "maghrebi-arabic",
+      "street-interviews"
+    ],
+    "popularity": 3,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "acquire-arabic",
+    "name": "AcquireArabic",
+    "url": "https://www.youtube.com/@AcquireArabic",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Dreaming-Spanish-style comprehensible input in Modern Standard Arabic, from zero.",
+    "notes": "All-Arabic videos for absolute beginners, using drawings and gestures so you understand before you can translate — the model that worked for Spanish, finally applied to formal Arabic. Free and a genuinely gentle entry point for people who find textbook Arabic discouraging. The library is still small compared to established input channels, and because it teaches MSA you will still need dialect material for actual conversation.",
+    "tags": [
+      "msa",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "arabic-all-the-time",
+    "name": "Arabic All The Time",
+    "url": "https://www.arabicallthetime.com/",
+    "types": [
+      "website",
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "immersion",
+      "speaking"
+    ],
+    "price": "freemium",
+    "pitch": "Levelled A1–C1 comprehensible-input video library in Levantine Arabic and MSA.",
+    "notes": "Several hundred videos organised by level with input tracking, covering both Levantine and formal Arabic, plus crosstalk sessions with the creator (the first one free) for speaking practice. The clear level progression makes it one of the few input resources you can follow systematically rather than dipping into. A portion is free and the rest needs a subscription; Levantine and MSA only, so Egyptian or Gulf learners should look elsewhere.",
+    "tags": [
+      "levantine-arabic",
+      "msa",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "levantine-arabic-with-maha",
+    "name": "Levantine Arabic with Maha",
+    "url": "https://www.youtube.com/@LevantineArabicwithMaha",
+    "types": [
+      "youtube",
+      "podcast"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "B1–C1",
+    "skills": [
+      "listening",
+      "vocabulary",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Lebanese Arabic at intermediate-and-above level, spoken naturally throughout.",
+    "notes": "One of very few channels giving sustained Lebanese Levantine input above beginner level, with a companion podcast for listening on the move. Valuable precisely because intermediate dialect material is where most learners run out of resources. Videos are free with transcripts and early access on Patreon; the accent is specifically Lebanese, which differs noticeably from Palestinian or Syrian speech.",
+    "tags": [
+      "levantine-arabic"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/6m7mnfcmY68MftMJ2P6GgX"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "hob-learning",
+    "name": "Hob Learning",
+    "url": "https://hob-learning.com/",
+    "types": [
+      "app",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "speaking",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Structured Levantine (Jordanian) course built around understanding real speech.",
+    "notes": "Video lessons and a growing comprehensible-input library focused on Jordanian Levantine, available on the web and as an app, with sample material free on YouTube. It fills a specific gap: a sequenced dialect course rather than a scattered playlist. Full access is a paid subscription, the catalogue is smaller than long-established platforms, and the Jordanian focus means some vocabulary differs from Lebanese or Palestinian usage.",
+    "tags": [
+      "levantine-arabic"
+    ],
+    "popularity": 1,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/hob-learning/id6754415995"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.hoblearning.app"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@hob.learning"
+      }
+    ],
+    "methods": [
+      "structured-course",
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "arabic-with-toqa",
+    "name": "Arabic with Toqa",
+    "url": "https://www.youtube.com/@ArabicwithToqa",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "vocabulary",
+      "grammar",
+      "speaking"
+    ],
+    "price": "free",
+    "pitch": "Free lessons comparing MSA with Egyptian and Levantine forms side by side.",
+    "notes": "Explicitly addresses the problem every Arabic learner hits — the same idea has a formal form and several spoken ones — by teaching them together so you know which register you are producing. Energetic and beginner-friendly, all free. It is a collection of themed lessons rather than a syllabus, and the comparative approach can feel like a lot at once if you have not yet chosen a variety to focus on.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic"
+    ],
+    "popularity": 2,
+    "methods": [
+      "grammar-reference"
+    ]
+  },
+  {
+    "id": "arabic-with-matto",
+    "name": "Learn Arabic with Matto",
+    "url": "https://www.youtube.com/@ArabicwithMatto",
+    "types": [
+      "youtube"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "immersion",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Comprehensible input in both formal Arabic and Hijazi/Peninsular dialect, clearly labelled.",
+    "notes": "Each video states whether it is Modern Standard or western-Saudi Hijazi speech, which matters a lot given how rarely Arabian Peninsula varieties get taught to foreigners. Free, input-driven and a rare on-ramp for learners heading to Saudi Arabia or the Gulf. Hijazi is not identical to the Khaleeji spoken in the UAE, Kuwait or Qatar, so treat it as the closest available approximation rather than an exact match.",
+    "tags": [
+      "msa",
+      "gulf-arabic",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "gulf-arabic-com",
+    "name": "GulfArabic.com",
+    "url": "https://www.gulfarabic.com/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary",
+      "grammar"
+    ],
+    "price": "freemium",
+    "pitch": "One of the few structured courses in Khaleeji, the Gulf dialect of the UAE and Saudi.",
+    "notes": "A long-running course covering Gulf pronunciation, script, grammar, everyday vocabulary and business communication, with audio recorded for every word and sentence, aimed at expatriates working in the region. Gulf Arabic is badly underserved, so a sequenced course of any kind is worth knowing about. Some introductory lessons are free and the rest is a paid membership; the site design is dated and there is little independent review of the material.",
+    "tags": [
+      "gulf-arabic"
+    ],
+    "popularity": 1,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "darija-school",
+    "name": "Darija School",
+    "url": "https://darijaschool.com/en/",
+    "types": [
+      "course",
+      "website"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Structured Moroccan Darija lessons with video, audio, PDFs and quizzes.",
+    "notes": "A modern course platform for Moroccan Arabic — the dialect furthest from anything a Modern Standard course prepares you for — with a set of free modules before the paid tiers, taught by native speakers. Useful for anyone moving to or working in Morocco. Darija's Amazigh and French loan vocabulary means very little transfers to Middle Eastern Arabic, so choose it deliberately rather than as your default dialect.",
+    "tags": [
+      "maghrebi-arabic"
+    ],
+    "popularity": 1,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "peace-corps-moroccan-arabic",
+    "name": "Peace Corps Moroccan Arabic Course (Friends of Morocco)",
+    "url": "https://www.friendsofmorocco.org/learnarabic.htm",
+    "types": [
+      "book",
+      "course"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "speaking",
+      "listening",
+      "grammar",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "The free Peace Corps Darija textbook and audio, still the best free Moroccan course.",
+    "notes": "A complete government-produced Moroccan Arabic curriculum — dialogues, grammar notes, vocabulary lists and accompanying audio — released free and collected here alongside other Darija materials. Written for volunteers about to live in Moroccan villages, so the vocabulary is genuinely practical. The materials date from the 2000s, the page is a plain link hub rather than a polished platform, and transliteration conventions differ from what modern courses use.",
+    "tags": [
+      "maghrebi-arabic"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course"
+    ]
+  },
+  {
+    "id": "qasid-institute",
+    "name": "Qasid Arabic Institute",
+    "url": "https://www.qasid.com/online-courses",
+    "types": [
+      "course",
+      "tutoring"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "grammar",
+      "reading",
+      "speaking",
+      "writing"
+    ],
+    "price": "paid",
+    "pitch": "Amman institute's live online MSA and Levantine classes, taught to university standard.",
+    "notes": "Qasid is one of the best-known immersion schools in the Arab world and runs its full sequence — formal Arabic, classical texts and Jordanian Levantine — as live small-group and private online classes with placement testing. The right choice if you need accountability and real teaching rather than self-study. It is priced like tuition, not like an app, and requires committing to a schedule across time zones.",
+    "tags": [
+      "msa",
+      "levantine-arabic",
+      "classical-arabic"
+    ],
+    "popularity": 2,
+    "methods": [
+      "structured-course",
+      "conversation-practice"
+    ]
+  },
+  {
+    "id": "khallina",
+    "name": "Khallina",
+    "url": "https://khallina.org/",
+    "types": [
+      "website",
+      "media"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C1",
+    "skills": [
+      "listening",
+      "reading",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Free culture modules — music, film, food, history — built for Arabic learners.",
+    "notes": "An open educational project offering short thematic units around authentic Arab cultural material, each with video or audio, vocabulary support and activities, tagged by level so beginners get something they can actually use. It answers the 'why does my textbook have no culture in it' complaint directly. Content spans several dialects and MSA, module count is modest, and it supplements a course rather than replacing one.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "maghrebi-arabic",
+      "culture"
+    ],
+    "popularity": 1,
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "a-bit-of-arabic",
+    "name": "A bit of Arabic",
+    "url": "https://podcasts.apple.com/gb/podcast/a-bit-of-arabic/id1695840664",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B1",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Short, simplified MSA episodes mixing comprehensible input with light explanation.",
+    "notes": "Bite-sized episodes of slow, clear Modern Standard Arabic — stories and everyday vocabulary — that you can follow well before you could handle news or native podcasts. Learner podcasts in formal Arabic are rare, which makes this worth the shelf space on your phone. Most episodes are free with some behind a paywall, and MSA listening practice will not train you for conversation in any actual dialect.",
+    "tags": [
+      "msa",
+      "comprehensible-input"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/a-bit-of-arabic/id1695840664"
+      },
+      {
+        "label": "RSS",
+        "url": "https://anchor.fm/s/64f3cd48/podcast/rss"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FootballWeeklyPodcast"
+      }
+    ],
+    "methods": [
+      "comprehensible-input"
+    ]
+  },
+  {
+    "id": "storytime-with-teta",
+    "name": "Storytime with Teta",
+    "url": "https://storytimewithteta.com/",
+    "types": [
+      "podcast"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "cefr": "A1–A2",
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "pitch": "Free children's stories in simple, clearly narrated Arabic — great beginner listening.",
+    "notes": "Made for Arabic-speaking children rather than language learners, which is exactly why it works: simple sentences, repeated vocabulary and warm expressive narration at a speed beginners can follow. Free on the site and podcast apps. Being genuinely children's content, expect fairy-tale vocabulary rather than the language you need to order coffee or discuss work.",
+    "tags": [
+      "msa",
+      "kids-content"
+    ],
+    "popularity": 1,
+    "links": [
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/storytime-with-teta/id1470708012"
+      },
+      {
+        "label": "RSS",
+        "url": "https://rss.buzzsprout.com/352184.rss"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/5jfS87YxRRNQLpfbsbnvT8"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@StorytimeWithTeta"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "rumooz-aljazeera",
+    "name": "رموز Rumooz (Al Jazeera Podcasts)",
+    "url": "https://www.aljazeera.net/podcasts/rumooz/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "C1–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "free",
+    "pitch": "Al Jazeera's narrative documentary podcast — native-level Arabic, professionally produced.",
+    "notes": "Long-form profiles of influential figures in Arab history and politics, narrated in polished Modern Standard Arabic with archival audio, free from Al Jazeera. Once learner podcasts stop challenging you, this is the natural next step and doubles as a serious history education. It is full native speed with dense political and historical vocabulary — genuinely hard below C1, though transcript-free listening at that level is the point.",
+    "tags": [
+      "msa",
+      "native-content"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/0tMACllmViSiDSBfTYYh5D"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@aljazeera"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "sowt-podcasts",
+    "name": "Sowt صوت",
+    "url": "https://www.sowt.com/",
+    "types": [
+      "podcast",
+      "media"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "advanced"
+    ],
+    "cefr": "B2–C2",
+    "skills": [
+      "listening",
+      "immersion"
+    ],
+    "price": "freemium",
+    "pitch": "The leading independent Arabic podcast network — native shows across many genres.",
+    "notes": "Around 80 shows spanning society, history, literature and true crime, produced to international podcast standards by a Jordan-based network, in a mix of Modern Standard Arabic and regional dialects (Levantine most often). This is what Arabic media sounds like when it is not made for learners. Most episodes are free with an optional Sowt+ tier; there are no transcripts or vocabulary aids, so bring an intermediate-plus ear.",
+    "tags": [
+      "levantine-arabic",
+      "msa",
+      "native-content"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Sowt"
+      },
+      {
+        "label": "Spotify",
+        "url": "https://open.spotify.com/show/4nRmqhTiufdByd2WuSsIHA"
+      },
+      {
+        "label": "Apple Podcasts",
+        "url": "https://podcasts.apple.com/us/podcast/%D9%85-%D9%86%D8%A8-%D8%AA-manbet/id1535591764"
+      }
+    ],
+    "methods": [
+      "authentic-media"
+    ]
+  },
+  {
+    "id": "qutrub",
+    "name": "Qutrub Arabic Verb Conjugator",
+    "url": "https://qutrub.arabeyes.org/",
+    "types": [
+      "tool"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "writing"
+    ],
+    "price": "free",
+    "pitch": "Free open-source conjugator: type any Arabic verb, get every form fully vowelled.",
+    "notes": "Enter a verb and it returns the complete paradigm with full diacritics across tenses, moods and voices — the fastest way to check whether you have the right pattern when reading or writing. Free, open source and no account needed. It handles Modern Standard Arabic only, the interface is bare, and it tells you the forms without explaining the underlying verb-form system.",
+    "tags": [
+      "msa"
+    ],
+    "popularity": 1,
+    "methods": []
+  },
+  {
+    "id": "reddit-learn-arabic",
+    "name": "r/learn_arabic",
+    "url": "https://www.reddit.com/r/learn_arabic/",
+    "types": [
+      "community"
+    ],
+    "languages": [
+      "arabic"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "grammar",
+      "vocabulary",
+      "reading"
+    ],
+    "price": "free",
+    "pitch": "Active community for the questions Arabic textbooks leave unanswered.",
+    "notes": "The main English-language gathering point for Arabic learners, useful for translation checks, script and handwriting questions, resource comparisons and — most valuably — the recurring 'which dialect should I learn' discussions from people who have actually made that choice. Native speakers answer regularly. Quality varies as on any forum, and dialect advice is often coloured by where the answerer happens to be from.",
+    "tags": [
+      "msa",
+      "egyptian-arabic",
+      "levantine-arabic",
+      "gulf-arabic",
+      "maghrebi-arabic"
+    ],
+    "popularity": 3,
+    "methods": []
+  }
+]
