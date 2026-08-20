@@ -308,11 +308,22 @@ listed rather than silently patched:
   rather than a clear 404; `danskherognu.dk` (`dansk-her-og-nu`) returns a 302
   redirect loop to itself; `turkce.yee.org.tr` (`yunus-emre-turkce`) serves an
   incomplete TLS certificate chain and then 403s. All three probably still work
-  in a real browser — they need a human look.
-- **Eight URLs are plain `http://`** and should be moved to `https` where the
-  host supports it: `basby-dansk`, `filoglossia`, `sealang-indonesian`,
-  `swahili-grammar-guide`, `thai-language-com` (primary URLs), and the platform
-  links on `finnish-with-eemeli`, `ulpan-or`, `turkish-tea-time`.
+  in a real browser — they need a human look. This and the four self-signed
+  hosts above are one class of finding: browsers routinely complete an
+  incomplete chain by fetching the missing intermediate, and follow cookie
+  gates, where `curl` will not. **A failed request must never auto-remove a
+  resource** — a link audit produces a list for a human, not a delete list.
+- **Four URLs are plain `http://`, deliberately.** Of the eight originally
+  found, four were upgraded once `https` was confirmed to answer 200
+  (`swahili-grammar-guide`, and the platform links on `finnish-with-eemeli`,
+  `ulpan-or`, `turkish-tea-time`). The remaining four stay on `http` because
+  upgrading them makes things worse, not better: `basby-dansk` (basby.dk),
+  `sealang-indonesian` (sealang.net) and `thai-language-com` all present a
+  **self-signed certificate** over `https`, and `filoglossia`
+  (www.xanthi.ilsp.gr) times out over `https` entirely. All four answer 200 over
+  `http`. Rewriting them would send readers to a full-page browser security
+  interstitial instead of a working page. Verified 2026-08-20 — re-test before
+  changing.
 - **Two declared variant tags are unused.** `data/languages.json` declares
   `simplified-chinese` and `traditional-chinese` for Chinese, but the Chinese
   resources are tagged `simplified` and `traditional` instead. Anything

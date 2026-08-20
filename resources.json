@@ -8110,7 +8110,7 @@
       },
       {
         "label": "YouTube",
-        "url": "http://www.youtube.com/@FinnishwithEemeli"
+        "url": "https://www.youtube.com/@FinnishwithEemeli"
       }
     ],
     "methods": [
@@ -13217,7 +13217,7 @@
     "links": [
       {
         "label": "Spotify",
-        "url": "http://open.spotify.com/show/033K6LsZPo46dZqnSfKpEa"
+        "url": "https://open.spotify.com/show/033K6LsZPo46dZqnSfKpEa"
       },
       {
         "label": "YouTube",
@@ -25743,7 +25743,7 @@
     "language": "swahili",
     "id": "swahili-grammar-guide",
     "name": "Swahili Grammar Guide",
-    "url": "http://swahiligrammar.com/",
+    "url": "https://swahiligrammar.com/",
     "types": [
       "website",
       "course"
@@ -27996,7 +27996,7 @@
     "links": [
       {
         "label": "YouTube",
-        "url": "http://www.youtube.com/channel/UCV1kVIDeljeFOBjX9yye4PQ"
+        "url": "https://www.youtube.com/channel/UCV1kVIDeljeFOBjX9yye4PQ"
       }
     ],
     "methods": [
