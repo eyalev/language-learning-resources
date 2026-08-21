@@ -12,10 +12,23 @@ The data behind [howtolearn.app](https://howtolearn.app), under CC BY 4.0.
 
 ## Contents
 
+- [Browse it](#browse-it)
 - [Get the data](#get-the-data)
 - [Examples](#examples)
 - [Documentation](#documentation)
 - [License](#license)
+
+## Browse it
+
+The whole dataset as pages you can read on GitHub, one per language — with the
+notes and the caveats, not just the links:
+**[catalog/](catalog/)** · [Spanish](catalog/spanish.md) ·
+[Japanese](catalog/japanese.md) · [French](catalog/french.md) ·
+[all 33 languages](catalog/README.md)
+
+Each page opens with a table you can scan, then gives every resource its own
+section. Generated from the JSON by `node scripts/catalog.mjs` — corrections go
+to [`data/resources/`](data/resources), never to the Markdown.
 
 ## Get the data
 

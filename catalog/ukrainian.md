@@ -1,0 +1,273 @@
+# 🇺🇦 Ukrainian · Українська
+
+24 resources. Generated from [`data/resources/ukrainian.json`](../data/resources/ukrainian.json) — corrections go there, not here.
+
+| Resource | Type | Level | Price |
+| --- | --- | --- | --- |
+| [r/Ukrainian](#rukrainian) | community | A–C | Free |
+| [Ukrainian Lessons Podcast](#ukrainian-lessons-podcast) | podcast, course | A–C | Freemium |
+| [5 Minute Ukrainian](#5-minute-ukrainian) | podcast | A | Freemium |
+| [Slow Ukrainian with Yevhen](#slow-ukrainian-with-yevhen) | youtube, podcast | A/B | Free |
+| [SpeakUkrainian (Lingva.Skills)](#speakukrainian-lingvaskills) | course, website | A/B | Free |
+| [Ukrainian: A Comprehensive Grammar](#ukrainian-a-comprehensive-grammar) | book | B/C | Paid |
+| [UkrainianPod101](#ukrainianpod101) | course, podcast, app | A/B | Freemium |
+| [Горох (Goroh)](#горох-goroh) | dictionary, tool | B/C | Free |
+| [Лайфхаки з української мови (EdEra)](#лайфхаки-з-української-мови-edera) | book, website | C | Free |
+| [Рух Єдині (Yedyni)](#рух-єдині-yedyni) | course, community | B/C | Free |
+| [СУМ-20 (Academic Dictionary of Ukrainian)](#сум-20-academic-dictionary-of-ukrainian) | dictionary | C | Free |
+| [Dobra Forma](#dobra-forma) | website, course | A/B | Free |
+| [e2u.org.ua (English–Ukrainian Dictionaries)](#e2uorgua-englishukrainian-dictionaries) | dictionary | B/C | Free |
+| [Immersive Ukrainian with Hanna](#immersive-ukrainian-with-hanna) | youtube | A/B | Free |
+| [Learn Ukrainian with Viktoriia](#learn-ukrainian-with-viktoriia) | podcast | A/B | Free |
+| [PodorozhiUA](#podorozhiua) | course, book | A | Free |
+| [Speak Ukrainian](#speak-ukrainian) | tutoring, course, youtube | A–C | Paid |
+| [Ukrainian Alphabet Guide](#ukrainian-alphabet-guide) | website | A | Free |
+| [Ukrainian Up](#ukrainian-up) | podcast | A/B | Free |
+| [UkrainianCourse.com](#ukrainiancoursecom) | website, course | A/B | Free |
+| [UkrainianLanguage.uk](#ukrainianlanguageuk) | website, course | A/B | Free |
+| [VERBA School](#verba-school) | youtube, course | A/B | Freemium |
+| [Слухай (Sluhay)](#слухай-sluhay) | media | B/C | Free |
+| [ЧИТАНКА](#читанка) | youtube, media | C | Free |
+
+---
+
+### r/Ukrainian
+
+*Active learner community where native speakers answer translation and usage questions.*
+
+community · Free · writing, reading, grammar, vocabulary
+
+The main English-language gathering point for Ukrainian learners, with native speakers reliably answering 'why this ending' and 'how would you actually say this' questions, plus recurring resource threads. Useful for resolving the specific doubts no textbook covers and for sanity-checking sentences you have written. Free. As with any subreddit the answer quality varies and Russian-Ukrainian comparison threads can get heated.
+
+[Website](https://www.reddit.com/r/Ukrainian/)
+
+### Ukrainian Lessons Podcast
+
+*Anna Ohoiko's 240-episode structured audio course, the backbone of Ukrainian self-study.*
+
+podcast, course · A1–B2 · Freemium · listening, grammar, vocabulary, pronunciation
+
+Six seasons that climb from the alphabet to B2 discussion, each episode pairing a dialogue with grammar and cultural commentary — it is the closest thing Ukrainian has to a complete free audio curriculum. The final episode landed in July 2024, so treat it as a finished archive rather than an ongoing show; that also means the whole arc is available to binge in order. All 240 episodes are free; transcripts, translations and flashcards sit behind the paid Premium membership. If you only pick one Ukrainian resource, this is the usual answer.
+
+[Website](https://www.ukrainianlessons.com/thepodcast/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ukrainian-lessons-podcast-for-everyone-who-learns-and/id1128346151) · [RSS](https://rss.buzzsprout.com/1370836.rss)
+
+### 5 Minute Ukrainian
+
+*Sixty bite-sized episodes drilling one everyday conversation at a time.*
+
+podcast · A0–A2 · Freemium · listening, speaking, vocabulary
+
+The gentler sibling of the main Ukrainian Lessons podcast: 60 short lessons, each built around a single practical exchange with plenty of repetition and pauses for you to speak. It works well as a first contact with the language or as a low-effort daily habit alongside a heavier course. The series completed in 2021, so nothing new is coming, but beginner phrasebook material dates slowly. Free to listen; the lesson notes are part of the Premium membership.
+
+[Website](https://www.ukrainianlessons.com/fmu/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/5-minute-ukrainian-learn-ukrainian-one-conversation/id1532711571) · [RSS](https://rss.buzzsprout.com/1370695.rss)
+
+### Slow Ukrainian with Yevhen
+
+*Simple stories told slowly in Ukrainian, with subtitles — 200+ episodes and still going.*
+
+youtube, podcast · A2–B1 · Free · listening, vocabulary, immersion
+
+Comprehensible-input done properly: Yevhen narrates short, genuinely interesting stories at a deliberately reduced pace, with on-screen subtitles so you can read along when your ear falls behind. Over 200 episodes exist across YouTube and the podcast feed, with new ones through August 2026. It becomes usable earlier than most immersion channels — roughly A2 — and stays worthwhile into B1. Free on both platforms; there is no structured grammar teaching here by design.
+
+[Website](https://www.youtube.com/@slowukrainian) · [Podcast](https://podcasts.apple.com/us/podcast/slow-ukrainian-with-yevhen/id1626308911) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/slow-ukrainian-with-yevhen/id1626308911) · [RSS](https://anchor.fm/s/973b404c/podcast/rss)
+
+### SpeakUkrainian (Lingva.Skills)
+
+*Ukraine's national language platform: ~100 interactive lessons, free certificate.*
+
+course, website · A1–B1 · Free · listening, reading, vocabulary, speaking
+
+Built by Skills Academy for the Ministry of Culture and Information Policy, this is the state-backed platform for learning Ukrainian, organised into 25 everyday themes and roughly 100 lessons of dialogues, video and exercises. It deliberately teaches through situations rather than grammar tables, which makes it approachable but leaves gaps you will need a grammar reference to fill. Completely free including the certificate, and there is an English-facing version for foreigners. The interface feels dated in places and some media loads slowly from outside Ukraine.
+
+[Website](https://ukr.lingva.ua/) · [Google Play](https://play.google.com/store/apps/details?id=free.langame_ua.rivex)
+
+### Ukrainian: A Comprehensive Grammar
+
+*Ian Press and Stefan Pugh's reference grammar — the standard English-language one.*
+
+book · B1–C2 · Paid · grammar, reading, writing
+
+The most complete description of Ukrainian grammar available in English, covering morphology and syntax in the systematic detail that learner courses compress or skip. It is a reference to consult, not a book to read front to back, and it expects you to already know basic terminology. Worth owning once you are past the beginner stage and want authoritative answers about aspect, government of verbs or case usage. Expensive, and the presentation is dry academic prose.
+
+[Website](https://www.routledge.com/Press-Pugh/p/book/9780415150309)
+
+### UkrainianPod101
+
+*Big dialogue-and-drill library from the Pod101 network, still publishing in 2026.*
+
+course, podcast, app · A1–B1 · Freemium · listening, vocabulary, grammar
+
+The usual Pod101 formula: hundreds of recorded dialogues with line-by-line breakdowns, vocabulary lists, flashcards and PDF notes, plus a YouTube arm that posted through August 2026. Its strength is sheer volume of listening material at the lower levels and the polish of the audio. The weakness is structure — lessons are organised into pathways but the sequencing is loose, so it suits topping up an existing plan better than being your only course. Free tier is limited and the site pushes hard on discounted subscriptions.
+
+[Website](https://www.ukrainianpod101.com/)
+
+### Горох (Goroh)
+
+*The best all-in-one Ukrainian reference: definitions, inflection, etymology, synonyms.*
+
+dictionary, tool · B1–C2 · Free · vocabulary, reading, writing, pronunciation
+
+Goroh pulls definitions, full declension and conjugation tables, transcription, synonyms, phraseology, etymology and rhymes into a single lookup, which makes it far more practical than consulting several dictionaries in turn. The inflection tables alone justify bookmarking it when you are wrestling with noun endings. Everything is in Ukrainian with no English interface, so it becomes usable somewhere around B1. Free and maintained by volunteers.
+
+[Website](https://goroh.pp.ua/)
+
+### Лайфхаки з української мови (EdEra)
+
+*Free online Ukrainian grammar and orthography handbook, 16 sections.*
+
+book, website · B2–C2 · Free · grammar, writing, reading
+
+EdEra's open handbook covers Ukrainian phonetics, word formation, every part of speech, punctuation and text style across sixteen sections — effectively a complete reference grammar you can search. It was written for Ukrainian school students preparing for the national ZNO exam, which means it assumes you already speak the language and focuses on correctness. That makes it superb for advanced learners and heritage speakers cleaning up their written Ukrainian, and largely useless as a first course. Free and in Ukrainian only.
+
+[Website](https://ukr-lifehacks.ed-era.com/)
+
+### Рух Єдині (Yedyni)
+
+*Free 28-day switching course plus speaking clubs, run by a Ukrainian NGO.*
+
+course, community · B1–C2 · Free · speaking, listening, writing
+
+Yedyni's flagship is a free 28-day programme of daily tasks, materials and mentor support designed to move Russian-speaking Ukrainians into using Ukrainian every day, backed by online and in-person speaking clubs and webinars. The speaking-club network is the real prize — sustained conversation practice with native speakers at no cost. Everything runs in Ukrainian with no English scaffolding, so it suits heritage speakers and confident B1+ learners rather than beginners. Some paid advanced courses exist alongside the free track, and participation is restricted by nationality.
+
+[Website](https://yedyni.org/) · [YouTube](https://www.youtube.com/channel/UCP38C0jxC8aNbW34eBoQKJw)
+
+### СУМ-20 (Academic Dictionary of Ukrainian)
+
+*The official 20-volume academic dictionary of Ukrainian, online and free.*
+
+dictionary · B2–C2 · Free · vocabulary, reading
+
+Published by the Ukrainian Lingua-Information Foundation of the National Academy of Sciences, this is the authoritative monolingual dictionary — the one to cite when you need a definitive answer about a word's meaning or usage. Note that the widely-linked sum.in.ua is an unofficial copy of older volumes; this is the sanctioned, maintained edition. Entirely in Ukrainian and written for native-level users, so it is an advanced tool rather than a learning aid. Free to search.
+
+[Website](https://sum20ua.com/)
+
+### Dobra Forma
+
+*University of Kansas open textbook drilling Ukrainian cases and verb forms.*
+
+website, course · A1–B1 · Free · grammar, writing
+
+A free open-access grammar workbook focused squarely on Ukrainian morphology — the seven cases, aspect, verbs of motion — with explanations followed by interactive practice rather than prose alone. It is the resource to reach for when the case endings stop making sense and a podcast is not enough. Hosted by KU Libraries and stable, though the presentation is plain and there is no audio to speak of. Use it as a companion to a communicative course, not as a standalone way in.
+
+[Website](https://opentext.ku.edu/dobraforma/)
+
+### e2u.org.ua (English–Ukrainian Dictionaries)
+
+*Searches eleven English–Ukrainian dictionaries at once, including technical ones.*
+
+dictionary · A2–C2 · Free · vocabulary, writing, reading
+
+A volunteer project that queries around a dozen English-Ukrainian dictionaries simultaneously and shows the results side by side, which is genuinely useful when a word has several plausible translations and you want to see which sources agree. It leans scholarly and includes specialised and technical vocabularies you will not find in app dictionaries. The sister site r2u.org.ua does the same for Russian-Ukrainian and hosts a spelling checker. Free, but the interface is utilitarian and Ukrainian-only.
+
+[Website](https://e2u.org.ua/) · [r2u.org.ua](https://r2u.org.ua/)
+
+### Immersive Ukrainian with Hanna
+
+*Short story-based Ukrainian videos with visual support, aimed at absolute beginners up.*
+
+youtube · A1–B1 · Free · listening, vocabulary, immersion
+
+Hanna teaches through pictures, gesture and repetition rather than English explanation, which lets the videos work from a much lower level than most immersion content — several are pitched at people in their first weeks. Formats vary from six-minute stories to guessing games that quietly drill vocabulary. Uploads continued through August 2026 and the channel is free. If you want grammar rules stated explicitly in English, this is not that channel.
+
+[Website](https://www.youtube.com/@Ukrainian.Language)
+
+### Learn Ukrainian with Viktoriia
+
+*Over 100 short episodes mixing everyday vocabulary with clear grammar points.*
+
+podcast · A1–B1 · Free · listening, vocabulary, grammar
+
+Viktoriia works through practical topics and grammar in short episodes, using enough English early on that a near-beginner can follow, then shifting toward Ukrainian as the levels climb. With 100+ episodes released through mid-2026 it is one of the more substantial actively-produced Ukrainian learner podcasts. Free to listen. Audio is home-studio quality and episode ordering is loose, so browse rather than starting at episode one.
+
+[Website](https://podcasts.apple.com/us/podcast/learn-ukrainian-with-viktoriia/id1699940339) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-ukrainian-with-viktoriia/id1699940339) · [RSS](https://anchor.fm/s/c64053b4/podcast/rss) · [YouTube](https://www.youtube.com/c/SpazioGrigio)
+
+### PodorozhiUA
+
+*Free university e-textbook: 26 units of Ukrainian for English speakers.*
+
+course, book · A1–A2 · Free · reading, grammar, vocabulary, listening
+
+An open-access introductory course by Alla Nedashkivska and Olena Sivachenko (University of Alberta), structured as 26 'trips' through contemporary Ukrainian language and culture with quizzes, a glossary, grammar reference and verb tables. Because it was written for university classrooms it is more systematic about cases and conjugation than most free web courses. Self-learners can use everything at no cost, though without an instructor you lose the assignment layer. Best for someone who wants a real syllabus rather than scattered lessons.
+
+[Website](https://podorozhiua.com/)
+
+### Speak Ukrainian
+
+*Established online Ukrainian school: small-group courses, 1-on-1 lessons, speaking club.*
+
+tutoring, course, youtube · A1–C1 · Paid · speaking, listening, grammar
+
+One of the larger dedicated Ukrainian schools for foreigners, running levelled group courses, private lessons, short conversation sessions and a kids' programme with a sizeable teaching staff. It is the straightforward option when self-study has stalled and you need someone correcting you. Its YouTube channel publishes free comprehensible-input and tips videos and was active through August 2026, and there is a free placement test. Course pricing is not listed publicly — you have to request a consultation, which is worth factoring in.
+
+[Website](https://speakua.com/) · [YouTube](https://www.youtube.com/c/SpeakUkrainian)
+
+### Ukrainian Alphabet Guide
+
+*Free walkthrough of all 33 Cyrillic letters with audio for each sound.*
+
+website · A0–A1 · Free · reading, pronunciation
+
+A single page that gets you reading Ukrainian Cyrillic, with recorded pronunciation for every letter and explicit warnings about the letters that differ from Russian (і, ї, є, ґ and the г/ґ distinction). Working through it takes an evening and removes the biggest early barrier for learners coming from a Latin alphabet. Entirely free with no signup. Pair it with a handwriting resource if you also want to write by hand, which this page does not teach.
+
+[Website](https://www.ukrainianlessons.com/ukrainian-alphabet/)
+
+### Ukrainian Up
+
+*Graded Ukrainian podcast where each episode is labelled by level.*
+
+podcast · A2–B1 · Free · listening, vocabulary
+
+Tutor Larissa's show grades every episode so you can pick material that sits just above your current level instead of guessing — the thing most learner podcasts fail to do. Around 30 episodes exist, with the most recent from late 2025, so it is a compact archive rather than a weekly habit. Free on the usual podcast apps. Best used to bridge the gap between beginner phrase courses and full-speed comprehensible input.
+
+[Website](https://podcasts.apple.com/us/podcast/ukrainian-up-your-graded-podcast-for-learning-ukrainian/id1778859408) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/ukrainian-up-your-graded-podcast-for-learning-ukrainian/id1778859408) · [RSS](https://anchor.fm/s/fd32e06c/podcast/rss)
+
+### UkrainianCourse.com
+
+*Free lessons with audio, plus a dedicated course on the Ukrainian case system.*
+
+website, course · A1–B1 · Free · grammar, reading, listening, vocabulary
+
+A no-signup site collecting alphabet lessons, graded texts and dialogues with audio, and — most usefully — a standalone course working through the cases one at a time. There is also a section using Ukrainian songs as listening material. It is the work of an individual rather than an institution, so coverage is uneven and some sections are thinner than others. Good free supplementary practice, particularly if cases are your sticking point.
+
+[Website](https://www.ukrainiancourse.com/)
+
+### UkrainianLanguage.uk
+
+*Free British-made collection: a reading course, stress guide and themed vocabulary.*
+
+website, course · A1–B1 · Free · reading, vocabulary, pronunciation, grammar
+
+A quietly excellent non-commercial site whose standout piece is a beginners' reading course that takes you from decoding Cyrillic to handling real sentences, alongside themed vocabulary lists and an unusually good guide to Ukrainian word stress. There is also niche material for researchers and a legal English-Ukrainian reference. Everything is free with no accounts. The design is spartan and navigation is old-fashioned, so it rewards a bit of clicking around.
+
+[Website](https://ukrainianlanguage.uk/)
+
+### VERBA School
+
+*Ukrainian grammar and culture explained in English by a working language school.*
+
+youtube, course · A1–B1 · Freemium · grammar, vocabulary, speaking
+
+VERBA's channel does the explanatory half that the immersion channels skip: verb groups, case usage, word-building, delivered in clear English with Ukrainian examples and a strong thread of cultural context. Videos are tagged by CEFR level, which makes it easy to find material that actually fits you. YouTube content is free; the school's actual courses and one-to-one lessons are paid. Upload pace slowed during 2026, so treat the back catalogue as the main draw.
+
+[Website](https://www.youtube.com/@VERBA_SCHOOL)
+
+### Слухай (Sluhay)
+
+*Free Ukrainian audiobook library — prose, poetry, fairy tales and school classics.*
+
+media · B1–C2 · Free · listening, immersion, vocabulary
+
+A donation-funded library of Ukrainian-language audiobooks spanning poetry, short stories, novels and children's fairy tales, with progress tracking and favourites if you make an account. Fairy tales and shorter prose are a realistic on-ramp at B1; the literary catalogue is native-level listening. Free, with no subscription — support is via voluntary contributions. Recording quality varies between titles since much of it is volunteer-narrated.
+
+[Website](https://sluhay.com.ua/)
+
+### ЧИТАНКА
+
+*Ukrainian literature explained to Ukrainians — native-speed content worth graduating to.*
+
+youtube, media · B2–C2 · Free · listening, reading, immersion
+
+Not a learning channel at all: a well-made Ukrainian video essay series about Ukrainian literature, its censorship under Soviet rule and the writers school made boring. That is exactly why it is valuable once you are past B2 — natural pace, rich vocabulary, and subject matter that repays the effort with real cultural literacy. Free, actively publishing through 2026. Expect no concessions to learners: no subtitles aimed at you, no slowing down.
+
+[Website](https://www.youtube.com/@mychytanka)
+

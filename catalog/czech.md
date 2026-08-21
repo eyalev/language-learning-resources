@@ -1,0 +1,240 @@
+# 🇨🇿 Czech · Čeština
+
+21 resources. Generated from [`data/resources/czech.json`](../data/resources/czech.json) — corrections go there, not here.
+
+| Resource | Type | Level | Price |
+| --- | --- | --- | --- |
+| [Czech Step by Step](#czech-step-by-step) | book, website, youtube | A/B | Freemium |
+| [Internetová jazyková příručka](#internetová-jazyková-příručka) | dictionary, tool, website | B/C | Free |
+| [Seznam Slovník](#seznam-slovník) | dictionary | A/B | Free |
+| [Čeština pro cizince (official exam portal)](#čeština-pro-cizince-official-exam-portal) | website, tool | A/B | Free |
+| [Czech: An Essential Grammar (Naughton)](#czech-an-essential-grammar-naughton) | book | B/C | Paid |
+| [CzechClass101](#czechclass101) | course, podcast, app | A/B | Freemium |
+| [Easy Czech](#easy-czech) | youtube | A/B | Free |
+| [r/learnczech](#rlearnczech) | community | A–C | Free |
+| [Radio Prague International — Czech language](#radio-prague-international-czech-language) | media, website | A–C | Free |
+| [slowczech](#slowczech) | podcast, course, tutoring, youtube | A/B | Freemium |
+| [Umíme česky](#umíme-česky) | website, tool | A/B | Freemium |
+| [Český národní korpus](#český-národní-korpus) | tool | C | Free |
+| [Čeština s Michalem](#čeština-s-michalem) | podcast | A | Free |
+| [Czech by Zuzka](#czech-by-zuzka) | youtube | A/B | Free |
+| [Czech Your Day](#czech-your-day) | podcast | A/B | Free |
+| [iLearnCzech](#ilearnczech) | website, course | A–C | Free |
+| [Local Lingo (Czech)](#local-lingo-czech) | website | A | Free |
+| [Mluvte česky / Czech Online](#mluvte-česky-czech-online) | course | A/B | Free |
+| [Nechybujte](#nechybujte) | dictionary, website | B/C | Free |
+| [Talkie Czech](#talkie-czech) | youtube | A | Free |
+| [Zprávičky (ČT :D)](#zprávičky-čt-d) | media | B | Free |
+
+---
+
+### Czech Step by Step
+
+*The standard Czech-for-foreigners textbook family, with free audio and exercises.*
+
+book, website, youtube · A1–B1 · Freemium · grammar, reading, listening, speaking
+
+Lída Holá's series — Čeština Start, Čeština expres, Česky krok za krokem and New Czech Step by Step — is what most Czech language schools teach from, with editions annotated in English, German, Russian, Ukrainian, Polish and Spanish. Crucially, the audio recordings, online exercises, word banks and teacher manuals are free downloads even if you don't buy the books, and the accompanying YouTube channel posts short graded news videos with subtitles most weeks. The books themselves are paid, and prices are high for what is a fairly traditional course.
+
+[Website](https://www.czechstepbystep.cz/) · [YouTube](https://www.youtube.com/@czech-step-by-step)
+
+### Internetová jazyková příručka
+
+*The official Czech language handbook: every declension and conjugation, plus usage rules.*
+
+dictionary, tool, website · B1–C2 · Free · grammar, writing, reading
+
+Maintained by the Czech Language Institute of the Academy of Sciences, this is the authority Czechs themselves consult. Search any word to get its complete declension or conjugation table, and the accompanying articles settle spelling, punctuation, capitalisation and word-formation questions. For a language whose difficulty is concentrated in case endings, having the full paradigm one search away is the highest-value free tool there is. Everything is in Czech, and the explanatory articles assume you already read Czech comfortably.
+
+[Website](https://prirucka.ujc.cas.cz/)
+
+### Seznam Slovník
+
+*The Czech–English dictionary most people in Czechia actually use, free and fast.*
+
+dictionary · A1–B2 · Free · vocabulary, reading, writing
+
+Seznam's dictionary is the default bilingual lookup in Czechia, covering Czech against English, German, French, Spanish, Italian, Russian and Slovak, with audio pronunciation and inflected forms shown for entries. It is quick, free and needs no account, which is what you want for the dozens of lookups a day that early Czech demands. Definitions are terse and it gives little sense of register or collocation, so move to a monolingual dictionary as soon as you can read one.
+
+[Website](https://slovnik.seznam.cz/)
+
+### Čeština pro cizince (official exam portal)
+
+*Official site for the A2 residence and B1 citizenship Czech exams, with mock tests.*
+
+website, tool · A2–B1 · Free · reading, writing, listening, speaking
+
+The state portal for the two exams that actually matter administratively: the A2 Czech exam for permanent residence and the B1 exam for citizenship. It explains who must sit them, the format of the written and oral parts, the roughly thirty annual sittings across 29 schools, and publishes free mock tests, preparation materials and a handbook. Interface available in Czech, English, Ukrainian, Russian, Vietnamese, French and Mongolian. It is exam preparation, not a course — nothing here teaches you Czech from scratch.
+
+[Website](https://cestina-pro-cizince.cz/)
+
+### Czech: An Essential Grammar (Naughton)
+
+*The compact English-language reference grammar of Czech, updated by von Kunes.*
+
+book · A2–C1 · Paid · grammar, writing, reading
+
+James Naughton's grammar, revised with Karen von Kunes, is the standard concise reference for Czech in English: the case system, verbal aspect, the numeral mess and the split between spoken and written Czech, all in short searchable chapters with real examples. It is the book to keep beside whatever course you use once endings stop making sense. Being a reference, it has no exercises and does not sequence anything for study, and it is priced like an academic title.
+
+[Website](https://www.routledge.com/Czech-An-Essential-Grammar/Naughton-vonKunes/p/book/9780367861858)
+
+### CzechClass101
+
+*The largest structured Czech audio-lesson library, with transcripts and flashcards.*
+
+course, podcast, app · A1–B1 · Freemium · listening, vocabulary, grammar, reading
+
+Innovative Language's Czech arm: dialogue-based audio and video lessons arranged into level pathways, each with a PDF transcript, line-by-line breakdown and SRS flashcards. Czech has very few structured audio courses, which is what makes this worth considering despite the format. A free lifetime account unlocks a fraction of the library, the rest is subscription-only, and the upgrade prompts are constant. The catalogue thins out badly above B1. The public podcast feed was still updating in August 2026.
+
+[Website](https://www.czechclass101.com/) · [YouTube](https://www.youtube.com/@Czechclass101) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-czech-czechclass101-com/id785218994) · [RSS](https://www.czechclass101.com/wp-feed-audio-video.php)
+
+### Easy Czech
+
+*Street interviews in real spoken Czech, with a slower 'Super Easy' beginner series.*
+
+youtube · A2–B2 · Free · listening, vocabulary, immersion
+
+The Czech branch of the Easy Languages format: unscripted conversations filmed on the street in Prague and elsewhere, subtitled in Czech and English so you can see the gap between textbook Czech and what people actually say — including the obecná čeština endings courses tend to hide. The parallel 'Super Easy Czech' series slows everything down for beginners. Free on YouTube and still posting in August 2026, though at a slower cadence than the larger Easy Languages channels.
+
+[Website](https://easyczech.org/) · [YouTube](https://www.youtube.com/@EasyCzechVideos)
+
+### r/learnczech
+
+*The English-language community for Czech learners' grammar and resource questions.*
+
+community · Free · grammar, vocabulary, reading
+
+The place to ask why a noun took that ending, whether a phrase sounds natural, or which textbook is worth the money, with Czech speakers answering regularly and useful recurring threads on the residence and citizenship exams. Particularly good for the spoken-versus-written Czech questions that textbooks avoid. It is a small subreddit, so replies can take a day and some questions go unanswered; r/czech is larger but mostly not about learning.
+
+[Website](https://www.reddit.com/r/learnczech/)
+
+### Radio Prague International — Czech language
+
+*The public broadcaster's English-language reporting on Czech itself — words, dialects, usage.*
+
+media, website · Free · vocabulary, reading, listening
+
+Czech Radio's international service keeps a dedicated section on the Czech language, publishing interviews and features in English about dialects like Brno's hantec, how learners master the ř, expressions and their origins, and Czech taught abroad. It is background and motivation rather than instruction — articles about Czech, not lessons in it — so pair it with an actual course. Everything is free, with audio versions of most pieces, and the section is updated regularly.
+
+[Website](https://english.radio.cz/czech-language) · [YouTube](https://www.youtube.com/@RadioPragueInternational)
+
+### slowczech
+
+*Slowly-spoken Czech podcast plus tutoring, aimed at people living in Czechia.*
+
+podcast, course, tutoring, youtube · A1–B1 · Freemium · listening, speaking, vocabulary
+
+Eliška's team built slowczech around one problem — foreigners who understand Czech on paper but freeze in a shop — so the podcast (close to 300 episodes and still weekly in August 2026) speaks slowly about ordinary life, and the tutoring and immersion programmes push output from the first lesson. There is a free starter kit and the whole podcast archive costs nothing. Self-paced courses, group immersion and one-to-one lessons are paid, and the content stops around B1.
+
+[Website](https://slowczech.com/) · [YouTube](https://www.youtube.com/@slowczech) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/slowczech-learn-czech-for-real-life/id1466543587) · [RSS](https://feeds.blubrry.com/feeds/slowczech.xml) · [Spotify](https://open.spotify.com/show/6oylf2ljLhnt67G3cOge4b)
+
+### Umíme česky
+
+*Adaptive Czech drills — thousands of short exercises that adjust to your mistakes.*
+
+website, tool · A2–B2 · Freemium · grammar, writing, vocabulary
+
+Built for Czech schoolchildren, this is a large bank of short adaptive exercises on spelling, case endings, verb forms and vocabulary, including games, dictations and multiplayer races, with a dedicated 'Czech as a second language' section for non-natives. The adaptive engine keeps feeding you what you get wrong, which is exactly what declension practice needs. It is entirely in Czech and pitched at native children, so the framing can feel odd; a lot is free, with personal and school licences unlocking the rest.
+
+[Website](https://www.umimecesky.cz/)
+
+### Český národní korpus
+
+*Search hundreds of millions of words of real Czech to see how a phrase is actually used.*
+
+tool · B2–C2 · Free · vocabulary, writing, reading
+
+The Czech National Corpus lets you search vast bodies of written and spoken Czech and see every attested context for a word or construction — the way to settle which preposition or case a verb really takes when dictionaries disagree or say nothing. Access is free but requires registration, and the query interfaces (KonText, SyD, Treq) are built for linguists, so there is a real learning curve. Overkill below B2; close to indispensable for anyone writing serious Czech.
+
+[Website](https://www.korpus.cz/)
+
+### Čeština s Michalem
+
+*Short, slow, all-Czech episodes for complete beginners, with transcripts.*
+
+podcast · A1–A2 · Free · listening, vocabulary
+
+Michal records short episodes spoken slowly and in deliberately simple Czech, with the explicit aim of getting beginners used to hearing the language rather than teaching grammar — transcripts for every episode are published alongside. Around 70 episodes and still publishing in August 2026, and it is entirely free. Because it is all in Czech with no English support, the first few episodes are hard going; the payoff is that you are listening to Czech from day one.
+
+[Website](https://czechstart.buzzsprout.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/%C4%8De%C5%A1tina-s-michalem-czech-podcast-for-beginners/id1864625726) · [RSS](https://rss.buzzsprout.com/2566674.rss) · [Spotify](https://open.spotify.com/show/4yJZsjPzDJYjxTWtEHyqN7) · [YouTube](https://www.youtube.com/channel/UChk8ANDALBq0mAwUsF3D3GA)
+
+### Czech by Zuzka
+
+*Weekly explainers on the Czech mistakes learners actually make.*
+
+youtube · A1–B1 · Free · grammar, vocabulary, pronunciation
+
+Zuzka publishes short, tightly-focused videos on the specific things that trip English speakers up — when téměř is the wrong word for 'almost', how to say 'it's me', numbers for public transport, the 42 letters of the Czech alphabet. Uploads were weekly through August 2026. Explanations are in English with Czech examples, which suits beginners; the format is a set of standalone clips rather than a course, so you will need something sequential underneath it.
+
+[Website](https://www.youtube.com/@CzechbyZuzka)
+
+### Czech Your Day
+
+*A daily Czech podcast built on weekly themes, ending in a Friday comprehension test.*
+
+podcast · A2–B1 · Free · listening, vocabulary
+
+Renča publishes short episodes every weekday around a single weekly topic, with each episode building vocabulary toward Friday's longer piece that you should be able to follow if you did the week — a structure that turns listening into a habit rather than a one-off. Over 130 episodes by August 2026 and free in any podcast app. The daily cadence means individual episodes are slight, and the accompanying blog is sparse.
+
+[Website](https://czech-me.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/czech-your-day/id1815426163) · [RSS](https://rss.buzzsprout.com/2503392.rss)
+
+### iLearnCzech
+
+*Free A1–C1 Czech lessons, videos and tests, including exam preparation.*
+
+website, course · A1–C1 · Free · grammar, listening, reading, vocabulary
+
+Jana Slav's site organises videos, grammar exercises, presentations, podcast episodes and tests by CEFR level all the way to C1, which puts it ahead of almost every other free Czech resource on range. There is a strong strand on the A2 permanent-residence and B1 citizenship exams. The site content is free with a small optional shop; the YouTube channel and podcast have both slowed markedly, with the podcast last updated in 2023, so the site is the living part of the project.
+
+[Website](https://ilearnczech.com/) · [Spotify](https://open.spotify.com/show/5Zpdl0qmqoYLKxssJpDbwU)
+
+### Local Lingo (Czech)
+
+*Free Czech pronunciation guide with native audio, plus grammar basics and phrases.*
+
+website · A1–A2 · Free · pronunciation, grammar, vocabulary
+
+A long-standing free reference whose strongest section is pronunciation: every Czech sound recorded by a native speaker, including the ř that defeats most learners, alongside grammar basics, themed phrase lists with audio and simple exercises. It remains the quickest way to get the sound system straight before you start speaking. The copyright line stops at 2021 and no new material has appeared since, so treat it as a fixed reference rather than a maintained course.
+
+[Website](https://www.locallingo.com/)
+
+### Mluvte česky / Czech Online
+
+*A completely free 114-lesson Czech course, including medical, legal and business Czech.*
+
+course · A1–B1 · Free · vocabulary, grammar, reading, listening
+
+An EU-supported portal offering a full free course with no time limit and no ads, split into five strands — everyday, medical, business and legal Czech plus a conversational tandem section — with the interface available in Czech, English, German and Polish. The professional strands are unusual and genuinely useful if you work in a Czech hospital or office. The platform is functional rather than polished, and free courseware of this kind tends to stop being updated once the funding round ends, so check the material still matches current usage.
+
+[Website](https://www.czechonline.org/)
+
+### Nechybujte
+
+*Free monolingual Czech dictionary, thesaurus and spelling rules in one place.*
+
+dictionary, website · B1–C2 · Free · vocabulary, writing, grammar
+
+Lingea's free Czech-language portal bundles a monolingual dictionary, a dictionary of synonyms and the spelling and punctuation rules, so you can check what a word means, find a less repetitive alternative and confirm how to write it without leaving the site. A good companion to the Academy's příručka, which is stronger on paradigms but weaker on meaning. It is entirely in Czech, so it becomes useful somewhere around B1, and Lingea advertises its commercial dictionaries throughout.
+
+[Website](https://www.nechybujte.cz/)
+
+### Talkie Czech
+
+*Hour-long A1–A2 dialogue compilations for passive Czech listening practice.*
+
+youtube · A1–A2 · Free · listening, vocabulary, speaking
+
+A channel built around real-life dialogues for beginners — ordering food, shopping, small talk — including hour-long 'listening marathon' compilations that work well as background repetition while commuting or cooking. Posting weekly as of August 2026. The dialogues are scripted and slower than real speech, so treat them as a drill rather than authentic input, and the channel offers no grammar explanation at all.
+
+[Website](https://www.youtube.com/@Talkie-Czech)
+
+### Zprávičky (ČT :D)
+
+*Czech TV's daily children's news — real news, deliberately simple language.*
+
+media · B1–B2 · Free · listening, vocabulary
+
+The public broadcaster's news bulletin for children runs every weekday in short episodes, using ordinary vocabulary, short sentences and clear delivery because its audience is eight-year-olds — which makes it the closest thing Czech has to a graded news service for learners. Free to stream from the ČT :D site. There are no subtitles or transcripts, the topics skew towards school and animals, and playback of Czech Television content can be restricted outside Czechia.
+
+[Website](https://decko.ceskatelevize.cz/zpravicky)
+

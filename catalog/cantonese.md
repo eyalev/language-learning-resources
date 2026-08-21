@@ -1,0 +1,262 @@
+# 🇭🇰 Cantonese · 廣東話
+
+23 resources. Generated from [`data/resources/cantonese.json`](../data/resources/cantonese.json) — corrections go there, not here.
+
+| Resource | Type | Level | Price |
+| --- | --- | --- | --- |
+| [Cantonese: A Comprehensive Grammar](#cantonese-a-comprehensive-grammar) | book | B/C | Paid |
+| [CantoneseClass101](#cantoneseclass101) | podcast, course, app | A/B | Freemium |
+| [RTHK](#rthk) | media | C | Free |
+| [words.hk (粵典)](#wordshk-粵典) | dictionary | B/C | Free |
+| [CC-Canto](#cc-canto) | dictionary, tool | A–C | Free |
+| [Colloquial Cantonese](#colloquial-cantonese) | book, course | A | Paid |
+| [Hambaanglaang (冚唪唥粵文讀本)](#hambaanglaang-冚唪唥粵文讀本) | book, website, course | A/B | Free |
+| [Jyutping.org (粵拼)](#jyutpingorg-粵拼) | website, tool | A | Free |
+| [Learn Cantonese Together](#learn-cantonese-together) | youtube, podcast | A–C | Free |
+| [Naked Cantonese (RTHK)](#naked-cantonese-rthk) | podcast | A/B | Free |
+| [r/Cantonese](#rcantonese) | community | A–C | Free |
+| [5 minute Cantonese](#5-minute-cantonese) | youtube | A/B | Free |
+| [Basic Cantonese: A Grammar and Workbook](#basic-cantonese-a-grammar-and-workbook) | book | A/B | Paid |
+| [Bite Size Cantonese](#bite-size-cantonese) | podcast | A/B | Free |
+| [CantoBoo!](#cantoboo) | youtube | A | Free |
+| [Cantonese after hours](#cantonese-after-hours) | youtube | A/B | Free |
+| [Cantonese Corner & CantoLingo](#cantonese-corner-cantolingo) | youtube, community | A/B | Freemium |
+| [Cantonese Tools](#cantonese-tools) | tool, website | A/B | Free |
+| [Cantonese with Brittany](#cantonese-with-brittany) | youtube | A/B | Free |
+| [Chatty Cantonese (粵語白白講)](#chatty-cantonese-粵語白白講) | podcast | B/C | Free |
+| [Comprehensible Cantonese](#comprehensible-cantonese) | youtube | B | Free |
+| [Dope Chinese with Gloria](#dope-chinese-with-gloria) | youtube | A/B | Free |
+| [Orangugu Cantonese (廣東話小星猩)](#orangugu-cantonese-廣東話小星猩) | youtube | A | Free |
+
+---
+
+### Cantonese: A Comprehensive Grammar
+
+*Matthews and Yip's standard reference — the serious book on Cantonese grammar.*
+
+book · B1–C2 · Paid · grammar, reading, writing
+
+The reference work for the language, describing spoken Hong Kong Cantonese systematically: classifiers, aspect markers, the sentence-final particles that carry so much of the meaning, comparative and relative structures, and code-mixing with English, all with jyutping and translations. If you have ever wondered why a particle changes the whole tone of a sentence, the answer is in here. It is a linguist's description with no exercises and no audio, and it costs reference-book money — buy it when courses stop answering your questions.
+
+[Website](https://www.routledge.com/Cantonese-A-Comprehensive-Grammar/Matthews-Yip/p/book/9781138831322)
+
+### CantoneseClass101
+
+*The largest structured Cantonese audio course, dialogue plus breakdown.*
+
+podcast, course, app · A1–B1 · Freemium · listening, vocabulary, grammar, speaking
+
+Short native dialogues followed by a line-by-line explanation, with jyutping, traditional characters, PDF transcripts and flashcards on the paid tiers, plus a YouTube channel that posts almost daily. For a language with very few complete courses, the sheer volume is the point: you can follow a beginner path end to end without assembling it yourself. The usual Innovative Language caveats apply — aggressive discount emails, confusing tiers, uneven quality between older and newer series — and the catalogue thins out above lower-intermediate.
+
+[Website](https://www.cantoneseclass101.com/) · [YouTube](https://www.youtube.com/@CantoneseClass101) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-cantonese-cantoneseclass101-com/id381008537) · [RSS](https://www.cantoneseclass101.com/wp-feed-audio-video.php) · [App Store](https://apps.apple.com/us/app/cantonese/id1546692785)
+
+### RTHK
+
+*Hong Kong's public broadcaster: live Cantonese radio and on-demand archives.*
+
+media · B2–C2 · Free · listening, immersion, vocabulary
+
+Radio 1 and Radio 2 stream live and almost everything is available on demand, giving you unlimited free Cantonese news, phone-ins, drama and culture programming recorded for Hong Kong people rather than for learners. It is the most reliable free source of native Cantonese audio outside Hong Kong, since the commercial streamers geo-block. Nothing is graded or transcribed and the site is clunky to browse, so save individual programmes you like rather than trying to navigate it each time.
+
+[Website](https://www.rthk.hk/radio/radio1) · [App Store](https://apps.apple.com/app/id371680815) · [Google Play](https://play.google.com/store/apps/details?id=hk.rthk.fwRTHK01)
+
+### words.hk (粵典)
+
+*The modern Cantonese dictionary, defined in Cantonese by Cantonese speakers.*
+
+dictionary · Free · vocabulary, reading
+
+A large crowd-built dictionary where entries are defined in Cantonese itself with jyutping, usage examples and English glosses on many words, alongside a corpus of written Cantonese text. Because it documents how people actually speak, it catches slang, particles and internet coinages that older Chinese dictionaries pretend do not exist. The main site is in Chinese; CantoWords.com is the same data with an English interface, which is what most learners should use. Not every entry has an English gloss yet.
+
+[Website](https://words.hk/) · [English site](https://cantowords.com/)
+
+### CC-Canto
+
+*Free open-source Cantonese-English dictionary, searchable by jyutping or Yale.*
+
+dictionary, tool · Free · vocabulary, reading
+
+Pleco's open Cantonese project: it merges the CC-Canto database with CC-CEDICT and Cantonese readings, so you can search by characters, jyutping, Yale or English and get clean English definitions. Everything is free, the data is downloadable, and the same dictionary installs as a free add-on inside the Pleco app for offline lookup on a phone — the usual setup for serious learners. It leans on Mandarin-era CC-CEDICT data for many entries, so for colloquial Cantonese usage check words.hk as well.
+
+[Website](https://cantonese.org/)
+
+### Colloquial Cantonese
+
+*A complete beginner course in book form, with the audio free to download.*
+
+book, course · A1–A2 · Paid · speaking, listening, grammar, vocabulary
+
+Yip and Matthews take you from nothing to basic conversation through graded dialogues, vocabulary and exercises, using jyutping alongside characters, and the accompanying audio is free to stream or download from Routledge's Colloquials site even though the book itself is paid. For learners who want a structured path on paper rather than a video playlist, this is the standard choice. The dialogues are functional rather than lively, and the book alone will not get you speaking without someone to practise with.
+
+[Website](https://www.routledge.com/Colloquial-Cantonese-The-Complete-Course-for-Beginners/Yip-Matthews/p/book/9780415478878)
+
+### Hambaanglaang (冚唪唥粵文讀本)
+
+*Free graded readers in written Cantonese, each with audio and video.*
+
+book, website, course · A1–B1 · Free · reading, listening, vocabulary
+
+A Hong Kong community project publishing story books written in real Cantonese (粵文, not standard written Chinese), graded step by step and split into a series for all ages and one written specifically for teens and adults, with a video and an audio recording for every book plus lesson plans for teachers. Reading it all online is free; printed sets are sold to fund the project. This is the graded-reading resource Cantonese has always lacked, but the site is Cantonese-first and awkward to navigate, and written Cantonese looks alien at first even if you read Chinese.
+
+[Website](https://hambaanglaang.hk/)
+
+### Jyutping.org (粵拼)
+
+*Learn the jyutping romanisation properly before you learn anything else.*
+
+website, tool · A1–A2 · Free · pronunciation, reading
+
+A dedicated free site for the LSHK jyutping scheme — what each initial, final and tone number means, how to learn the system in one sitting, and which input methods let you type Cantonese by sound. Getting jyutping straight early is the single highest-leverage hour in Cantonese, because every good dictionary and course assumes it. The site is written mainly in Cantonese with only partial English, so pair it with a jyutping chart in English if you are starting from zero.
+
+[Website](https://jyutping.org/)
+
+### Learn Cantonese Together
+
+*Comprehensible input in Cantonese only, colour-coded from zero to advanced.*
+
+youtube, podcast · A1–B2 · Free · listening, vocabulary, immersion
+
+Built explicitly on Krashen and the ALG approach: every video is in Cantonese with visuals and context doing the explaining, and each title is tagged complete beginner, beginner, intermediate or advanced so you can find your level immediately. Topics come from Hong Kong life and news, uploads ran several times a week through August 2026, and there is an audio-only podcast version. It is free. The channel is young, so the higher levels have less material than the beginner tiers, and there is no grammar explanation anywhere by design.
+
+[Website](https://www.youtube.com/@LearnCantoneseTogether) · [Podcast](https://podcasts.apple.com/us/podcast/learn-cantonese-together/id1896888426) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-cantonese-together/id1896888426) · [RSS](https://anchor.fm/s/1138462a0/podcast/rss) · [Spotify](https://open.spotify.com/show/033uYo20swKFhlOgb2LuTt)
+
+### Naked Cantonese (RTHK)
+
+*Two hundred short, funny Hong Kong radio lessons on the Cantonese people speak.*
+
+podcast · A1–B1 · Free · listening, vocabulary, speaking
+
+Cecilie Gamst Berg and Sarah Passmore made this for RTHK Radio 3: seven-to-fifteen-minute lessons on slang, swearing, food ordering and the phrases textbooks refuse to print, delivered as comedy rather than instruction. The full run of roughly two hundred episodes is free from RTHK and the podcast apps. It ended in 2021 and the audio quality shows its age, and it is a supplement rather than a syllabus — but nothing since has been this entertaining about spoken Cantonese.
+
+[Website](https://podcasts.apple.com/us/podcast/rthk-naked-cantonese/id217743398) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/rthk-naked-cantonese/id217743398) · [RSS](https://podcast.rthk.hk//podcast/nakedlunch.xml)
+
+### r/Cantonese
+
+*The main English-language forum for Cantonese learners and native speakers.*
+
+community · Free · vocabulary, reading, writing
+
+The place to ask what a phrase means, get a sanity check on a translation, or find out which resource people actually use, with native speakers and long-term learners answering — plus recurring debates about romanisation, written Cantonese and the language's political situation that are worth reading once. Free and searchable, so check the archive before posting. Answers are crowd-sourced and occasionally confidently wrong, and threads skew toward Hong Kong usage.
+
+[Website](https://www.reddit.com/r/Cantonese/)
+
+### 5 minute Cantonese
+
+*Amanda's numbered short lessons on the small words that trip learners up.*
+
+youtube · A1–B1 · Free · vocabulary, grammar, pronunciation
+
+A Hong Kong teacher with a multilingual background has published nearly three hundred numbered lessons, still weekly in 2026, focusing on the details that make Cantonese hard: sentence-final mood particles, tone contrasts, quiz-style review of everyday vocabulary. Short enough to watch on a break, and free, with a membership tier for extras. The numbering is chronological rather than a syllabus, so treat it as a lucky-dip of targeted explanations rather than a course to work through in order.
+
+[Website](https://www.youtube.com/@5minutecantonese)
+
+### Basic Cantonese: A Grammar and Workbook
+
+*Twenty-eight short grammar units, each drilled with exercises and an answer key.*
+
+book · A1–B1 · Paid · grammar, writing, vocabulary
+
+The same authors as the comprehensive grammar, rewritten for beginners: each unit explains one point in a couple of pages and then makes you use it, with answers in the back so self-study actually works, and an Intermediate Cantonese volume waiting when you finish. Everything is in jyutping with characters, which keeps the focus on speech. There is no audio and no conversation practice, so it is the grammar half of a plan that also needs listening and a speaking partner.
+
+[Website](https://www.routledge.com/Basic-Cantonese-A-Grammar-and-Workbook/Yip-Matthews/p/book/9780415471817)
+
+### Bite Size Cantonese
+
+*Short weekly episodes on everyday phrases, tones and pronunciation fixes.*
+
+podcast · A1–B1 · Free · listening, vocabulary, pronunciation
+
+Celia publishes a few minutes at a time — practical vocabulary, tone and pronunciation tips, cultural context, and some episodes recorded entirely in Cantonese as comprehensible input — with about fifty episodes by mid-2026 and a new one most weeks. Free, and transcripts are available if you email her. The episodes are deliberately tiny and not sequenced into a course, so use it as the habit-forming daily drip rather than your main study.
+
+[Website](https://podcasts.apple.com/us/podcast/bite-size-cantonese/id1823318361) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/bite-size-cantonese/id1823318361) · [RSS](https://anchor.fm/s/106778cb8/podcast/rss)
+
+### CantoBoo!
+
+*Absolute-beginner drills on the highest-frequency Cantonese words and patterns.*
+
+youtube · A1–A2 · Free · vocabulary, speaking, pronunciation
+
+A Hong Kong channel aimed squarely at people starting from zero: it takes a small set of very common words and shows how to recombine them into sentences you can use the same day, mostly in short vertical videos, and it was still active in August 2026. Free, and the repetition is genuinely useful for fixing tones early. The short-form format means very little context and no progression to follow, so it works as daily reinforcement next to a structured course, not as one.
+
+[Website](https://www.youtube.com/@CantoBoo)
+
+### Cantonese after hours
+
+*A Hong Kong native building a slow, learner-paced video series from scratch.*
+
+youtube · A1–B1 · Free · listening, speaking, vocabulary
+
+A small free channel by a Hong Konger who teaches languages on the side, working through a numbered series — self-introduction, talking about Hong Kong — at a pace built for learners, with a companion site. New episodes appeared through mid-2026. The library is genuinely small, so this is one to subscribe to and grow with rather than binge; use it for the friendly, unhurried delivery when the bigger channels feel too fast.
+
+[Website](https://www.youtube.com/@Cantoneseafterhours) · [Website](https://www.cantoneseafterhours.com/)
+
+### Cantonese Corner & CantoLingo
+
+*An adult learner turned teacher on speaking plus reading traditional characters.*
+
+youtube, community · A1–B1 · Freemium · speaking, reading, vocabulary
+
+Sue Marguerite moved to Hong Kong in 1988, learned Cantonese and traditional characters as an adult, and has been teaching since 2017 — so the channel covers the half most Cantonese resources skip, reading and writing characters with Cantonese readings rather than Mandarin ones. YouTube videos are free; the CantoLingo community and courses are a paid subscription. Uploads have slowed considerably (the most recent were early 2026), so check the back catalogue rather than expecting a weekly stream.
+
+[Website](https://www.youtube.com/@cantonesecorner)
+
+### Cantonese Tools
+
+*How to actually type, dictate and hear Cantonese on your phone and computer.*
+
+tool, website · Free · writing, pronunciation
+
+A free practical guide to Cantonese support on iOS, macOS, Android and Windows: handwriting and Cangjie input for traditional characters, jyutping and Yale typing by sound, text-to-speech so you can hear any text read aloud, and dictation. It solves the unglamorous problem that stops people writing Cantonese at all. Narrow by design — it teaches you nothing about the language itself — and the device instructions need re-checking after major OS updates.
+
+[Website](https://www.cantonese.tools/)
+
+### Cantonese with Brittany
+
+*A learner's-eye channel on Cantonese study, culture and overseas Chinese life.*
+
+youtube · A2–B1 · Free · listening, vocabulary, speaking
+
+Brittany learned Cantonese as an adult and made videos for overseas Chinese families and fellow learners: study strategy, native speakers testing her Cantonese, food and culture episodes, plus study-tip posts on her blog. That learner perspective is the value — she names the things natives forget to explain. Uploads stopped in late 2022, so treat it as a finished free archive rather than an active channel; nothing in it has gone stale.
+
+[Website](https://www.youtube.com/@cantobritt) · [Blog](https://www.cantonesewithbrittany.com/)
+
+### Chatty Cantonese (粵語白白講)
+
+*A teacher and a student in real Cantonese conversation, with transcripts.*
+
+podcast · B1–C1 · Free · listening, vocabulary, immersion
+
+Forty-plus episodes of unscripted Cantonese conversation aimed at building listening, interleaved with English-language interviews with people in the global Cantonese world — linguists, literary translators, community-school teachers — and every episode links a transcript and vocabulary list. The transcripts are what make the Cantonese episodes usable at intermediate level. It stopped publishing in April 2025, so this is a complete free archive rather than a live show.
+
+[Website](https://podcasts.apple.com/us/podcast/chatty-cantonese/id1588780616) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/chatty-cantonese-%E7%B2%B5%E8%AA%9E%E7%99%BD%E7%99%BD%E8%AC%9B/id1588780616) · [RSS](https://rss.buzzsprout.com/1864001.rss)
+
+### Comprehensible Cantonese
+
+*Natural Cantonese conversation and travel vlogs, captioned in Cantonese.*
+
+youtube · A2–B2 · Free · listening, vocabulary, immersion
+
+Running since 2020 and still posting weekly in 2026, this channel puts Cantonese closed captions on every video, so you can watch conversations and trip diaries with the written form in front of you and switch the support off as you improve. That combination — unscripted speech plus accurate Cantonese subtitles — is rare and is exactly what the intermediate stage needs. It is free, and it aims above absolute beginners: expect natural pace and no English explanation.
+
+[Website](https://www.youtube.com/@comprehensiblecantonese)
+
+### Dope Chinese with Gloria
+
+*Listening practice and common-mistake videos from a Guangdong Cantonese teacher.*
+
+youtube · A1–B1 · Free · listening, vocabulary, speaking
+
+Gloria posts short, free listening exercises, beginner vocabulary sets and 'most learners get this wrong' clips, and was still uploading in August 2026, with paid classes as the commercial side. Two things to know: she teaches both Cantonese and Mandarin on the same channel, so you will need to filter, and she is based in Guangdong rather than Hong Kong — the language is the same but some vocabulary and written conventions differ from Hong Kong usage.
+
+[Website](https://www.youtube.com/@dopecantonese)
+
+### Orangugu Cantonese (廣東話小星猩)
+
+*Original songs, comics and games for overseas Hong Kong kids learning Cantonese.*
+
+youtube · A1–A2 · Free · listening, vocabulary, reading
+
+Founded in 2022 by a Hong Kong teacher to give diaspora children proper Cantonese and traditional-Chinese material, with original songs, interactive games, comic-based lessons and an interactive podcast series, still publishing in 2026 and free. Adults are not the audience, but the slow, repetitive, picture-supported speech makes it usable early listening practice — and the comic episodes are a gentle way into reading written Cantonese.
+
+[Website](https://www.youtube.com/@orangugucantonese3270)
+
