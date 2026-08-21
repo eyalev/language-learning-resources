@@ -106,7 +106,11 @@ for (const f of files.sort()) {
   const lang = langBySlug.get(slug);
   index.push({
     slug,
-    name: lang ? `${lang.flag || ''} ${lang.name}`.trim() : slug,
+    label: lang ? `${lang.flag || ''} ${lang.name}`.trim() : slug,
+    // Sort on the bare name: the label starts with a flag emoji, and sorting on
+    // that orders the list by Unicode codepoint of a country flag, which is a
+    // fact about Unicode rather than about languages.
+    sortName: lang ? lang.name : slug,
     n: rows.length,
     free: rows.filter((r) => r.price === 'free').length,
   });
@@ -122,8 +126,12 @@ const idx = [
   '| Language | Resources | Free |',
   '| --- | ---: | ---: |',
   ...index
-    .sort((a, b) => b.n - a.n || a.name.localeCompare(b.name))
-    .map((l) => `| [${l.name}](${l.slug}.md) | ${l.n} | ${l.free} |`),
+    // Alphabetical, with the language-agnostic page pinned first: it applies to
+    // whatever you are learning, so it is not one entry among the others.
+    .sort((a, b) =>
+      a.slug === 'universal' ? -1 : b.slug === 'universal' ? 1 : a.sortName.localeCompare(b.sortName)
+    )
+    .map((l) => `| [${l.label}](${l.slug}.md) | ${l.n} | ${l.free} |`),
   '',
 ];
 writeFileSync(join(OUT, 'README.md'), idx.join('\n'));
