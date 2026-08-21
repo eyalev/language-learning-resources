@@ -1,23 +1,21 @@
 # Language learning resources — an open dataset
 
-Around 800 curated language-learning resources across 30+ languages, as
-structured data: apps, courses, podcasts, YouTube channels, books, dictionaries,
-tools and communities.
+Around 800 curated language-learning resources across 30+ languages, as JSON and
+CSV: apps, courses, podcasts, YouTube channels, books, dictionaries, tools and
+communities — each with honest notes and machine-readable facets (type, CEFR,
+level, skills, method, price).
 
-Each record carries a one-line pitch, a few sentences of honest notes including
-the catch, and machine-readable facets — type, CEFR range, level, skills,
-learning method, price. A few hundred also carry verified platform links (Apple
-Podcasts, Spotify, RSS, App Store, Google Play, YouTube) — found by reading
-Apple's catalogue and each resource's own site, never constructed from a name.
+A list of links is a bookmark folder. This is meant to answer *"what should I
+use, at my level, for this language"* — and to stay queryable while it does.
 
-The point is the notes and the facets. A list of links is a bookmark folder;
-this is meant to answer "what should I use, at my level, for this language" —
-and to be queryable while it does.
+The data behind [howtolearn.app](https://howtolearn.app), under CC BY 4.0.
 
-This is the data behind [howtolearn.app](https://howtolearn.app), published under
-CC BY 4.0. The numbers above are deliberately approximate — exact counts live in
-[`stats.json`](stats.json) and [docs/breakdown.md](docs/breakdown.md), where they
-are regenerated from the data instead of going stale in prose.
+## Contents
+
+- [Get the data](#get-the-data)
+- [Examples](#examples)
+- [Documentation](#documentation)
+- [License](#license)
 
 ## Get the data
 
@@ -27,23 +25,64 @@ are regenerated from the data instead of going stale in prose.
 | [`resources.csv`](resources.csv) | one row per resource, for spreadsheets |
 | [`data/resources/*.json`](data/resources) | the source of truth, one file per language |
 
+The root files are generated and committed, so nothing needs building. After
+editing `data/`, regenerate with `node scripts/build.mjs` — plain Node, no
+dependencies. Exact counts live in [`stats.json`](stats.json); the numbers above
+are approximate on purpose, so they cannot go stale here.
+
+## Examples
+
+A record, trimmed:
+
+```json
+{
+  "language": "spanish",
+  "id": "notes-in-spanish",
+  "name": "Notes in Spanish",
+  "url": "https://www.notesinspanish.com/",
+  "types": ["podcast", "course"],
+  "levels": ["beginner", "intermediate", "advanced"],
+  "cefr": "A1–C1",
+  "skills": ["listening", "vocabulary", "speaking"],
+  "price": "freemium",
+  "methods": ["comprehensible-input"],
+  "pitch": "Unscripted conversations between Ben and Marina, graded across three clear levels.",
+  "notes": "… the audio is free; worksheets and transcripts are sold as paid packs, which is the main catch …",
+  "links": [{ "label": "Apple Podcasts", "url": "https://podcasts.apple.com/…" }]
+}
+```
+
+Free podcasts a beginner can start with, in any language:
+
 ```bash
-# every free podcast a beginner can start with, in any language
 jq -r '.[] | select((.types | index("podcast")) and .price == "free"
                     and (.levels | index("beginner")))
        | [.language, .name, .url] | @tsv' resources.json
 ```
 
-The root files are generated and committed, so nothing needs building. To
-regenerate after editing `data/`: `node scripts/build.mjs` (plain Node, no
-dependencies).
+Every RSS feed, one per line — a ready-made podcast OPML source:
+
+```bash
+jq -r '.[] | .links[]? | select(.label == "RSS") | .url' resources.json
+```
+
+Everything teaching Japanese through comprehensible input:
+
+```python
+import json
+rows = json.load(open("resources.json"))
+[r["name"] for r in rows
+ if r["language"] == "japanese" and "comprehensible-input" in r.get("methods", [])]
+```
+
+More recipes, the CSV columns and the full record: [docs/usage.md](docs/usage.md).
 
 ## Documentation
 
 - [Schema](SCHEMA.md) — every field, type and allowed value
 - [What is in it](docs/breakdown.md) — counts by type, method and language
-- [Using the data](docs/usage.md) — a full record, more recipes, the CSV columns
-- [How it was curated](docs/curation.md) — selection, link verification, link-check results
+- [Using the data](docs/usage.md) — recipes, CSV columns, repo layout
+- [How it was curated](docs/curation.md) — selection, link verification, link check
 - [Limitations](docs/limitations.md) — what the data is not, and known issues
 - [Contributing](CONTRIBUTING.md) — corrections are the main thing this repo wants
 
