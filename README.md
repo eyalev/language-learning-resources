@@ -1,23 +1,23 @@
 # Language learning resources — an open dataset
 
-838 curated language-learning resources across 32 languages, as JSON and CSV.
-Apps, courses, podcasts, YouTube channels, books, dictionaries, tools and
-communities — each with a one-line pitch, a few sentences of honest notes
-(including the catch), and machine-readable facets: type, CEFR range, level,
-skills, learning method and price.
+Around 800 curated language-learning resources across 30+ languages, as
+structured data: apps, courses, podcasts, YouTube channels, books, dictionaries,
+tools and communities.
 
-329 of them carry verified platform links — 751 in all — found by reading
+Each record carries a one-line pitch, a few sentences of honest notes including
+the catch, and machine-readable facets — type, CEFR range, level, skills,
+learning method, price. A few hundred also carry verified platform links (Apple
+Podcasts, Spotify, RSS, App Store, Google Play, YouTube) — found by reading
 Apple's catalogue and each resource's own site, never constructed from a name.
 
-This is the data behind [howtolearn.app](https://howtolearn.app), published
-under CC BY 4.0.
+The point is the notes and the facets. A list of links is a bookmark folder;
+this is meant to answer "what should I use, at my level, for this language" —
+and to be queryable while it does.
 
-| | |
-| --- | --- |
-| Resources | **838** |
-| Languages | **32** + 36 language-agnostic |
-| Platform links | **751** across **329** resources |
-| Free / freemium / paid | 468 / 234 / 136 |
+This is the data behind [howtolearn.app](https://howtolearn.app), published under
+CC BY 4.0. The numbers above are deliberately approximate — exact counts live in
+[`stats.json`](stats.json) and [docs/breakdown.md](docs/breakdown.md), where they
+are regenerated from the data instead of going stale in prose.
 
 ## Get the data
 
