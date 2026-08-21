@@ -1,306 +1,34 @@
 # 🇵🇹 Portuguese · Português
 
-27 resources. Generated from [`data/resources/portuguese.json`](../data/resources/portuguese.json) — corrections go there, not here.
-
-| Resource | Type | Level | Price |
-| --- | --- | --- | --- |
-| [Dicionário Priberam da Língua Portuguesa](#dicionário-priberam-da-língua-portuguesa) | dictionary | A–C | Free |
-| [Porta dos Fundos](#porta-dos-fundos) | media, youtube | C | Free |
-| [Practice Portuguese](#practice-portuguese) | course, app, podcast | A–C | Freemium |
-| [Camões Institute — Learning Portuguese](#camões-institute-learning-portuguese) | course, website | A–C | Paid |
-| [Infopédia (Porto Editora)](#infopédia-porto-editora) | dictionary, website | A–C | Freemium |
-| [Michaelis Dicionário Brasileiro](#michaelis-dicionário-brasileiro) | dictionary | A–C | Free |
-| [Portuguese With Leo](#portuguese-with-leo) | youtube, podcast, course | A–C | Freemium |
-| [PortuguesePod101](#portuguesepod101) | podcast, course, app | A–C | Freemium |
-| [Short Stories in Brazilian Portuguese for Beginners (Olly Richards)](#short-stories-in-brazilian-portuguese-for-beginners-olly-richards) | book | A/B | Paid |
-| [Speaking Brazilian](#speaking-brazilian) | youtube, course | A–C | Freemium |
-| [BrazilianPodClass](#brazilianpodclass) | podcast, course | A–C | Freemium |
-| [Carioca Connection](#carioca-connection) | podcast, course | B/C | Freemium |
-| [Ciberdúvidas da Língua Portuguesa](#ciberdúvidas-da-língua-portuguesa) | website | C | Free |
-| [Conjugação.com.br](#conjugaçãocombr) | tool, website | A–C | Free |
-| [Fala Gringo!](#fala-gringo) | podcast | B | Free |
-| [Mia Esmeriz Academy](#mia-esmeriz-academy) | course | A/B | Paid |
-| [Portuguese Lab](#portuguese-lab) | podcast, course | A/B | Freemium |
-| [Portuguese With Carla](#portuguese-with-carla) | course, podcast, youtube | A–C | Freemium |
-| [RTP Ensina](#rtp-ensina) | media, website | B/C | Free |
-| [Semantica Portuguese](#semantica-portuguese) | course, media | A–C | Paid |
-| [Street Smart Brazil](#street-smart-brazil) | tutoring, course, youtube | A–C | Freemium |
-| [Tá Falado](#tá-falado) | podcast, course | A/B | Free |
-| [Talk the Streets](#talk-the-streets) | course, youtube, podcast | A/B | Freemium |
-| [Todo Mundo Pod](#todo-mundo-pod) | podcast | A/B | Freemium |
-| [Portuguesepedia](#portuguesepedia) | website, tool | B/C | Freemium |
-| [Say It In Portuguese](#say-it-in-portuguese) | tutoring, course, podcast | A–C | Paid |
-| [Storyglot (European Portuguese readers)](#storyglot-european-portuguese-readers) | book | A–C | Paid |
-
----
-
-### Dicionário Priberam da Língua Portuguesa
-
-*The standard free monolingual Portuguese dictionary, with Portugal and Brazil spellings.*
-
-dictionary · Free · vocabulary, reading
-
-Fast, free and comprehensive, with full conjugation for every verb, etymologies, and an explicit switch between the Portuguese and Brazilian orthographic conventions — which is exactly what you need when the same word is spelled differently on each side of the Atlantic. Definitions are in Portuguese only, so it becomes useful around B1. This is the dictionary most Portuguese speakers actually open.
-
-[Website](https://dicionario.priberam.org/)
-
-### Porta dos Fundos
-
-*Brazil's biggest comedy sketch channel — native-speed Portuguese made for Brazilians.*
-
-media, youtube · B2–C2 · Free · listening, immersion, vocabulary
-
-Short sketches, usually two or three minutes, performed at full conversational speed with the slang, sarcasm and cultural references intact. Nothing here is adapted for learners, which is exactly the value: if you laugh at the right moment you understand Brazilian Portuguese. Free, enormous back catalogue, Portuguese auto-subtitles are usable. Frequently crude and irreverent about religion and politics, so it will not suit everyone.
-
-[Website](https://www.youtube.com/@portadosfundos)
-
-### Practice Portuguese
-
-*The most complete European Portuguese course anywhere — 950+ episodes, all from Portugal.*
-
-course, app, podcast · A1–C1 · Freemium · listening, reading, vocabulary, grammar, pronunciation
-
-Rui and Joel have built since 2012 what nobody else has for European Portuguese: 100+ structured units, hundreds of graded audio Shorties and podcast episodes, a verb trainer, pronunciation analysis and an SRS review system, all in the Lisbon standard rather than Brazilian. The Practice Portuguese Podcast and Shorties are free in any podcast app; full site and app access is about €15/month with no free trial but a money-back guarantee. If you live in Portugal and can only pay for one thing, this is it — the caveat is that it is Lisbon-accented and light on the northern varieties.
-
-[Website](https://www.practiceportuguese.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/practice-portuguese/id599326719) · [RSS](https://www.practiceportuguese.com/feed/podcast/) · [App Store](https://apps.apple.com/us/app/practice-portuguese/id1517216365) · [Google Play](https://play.google.com/store/apps/details?id=com.practiceportugueseap4.app)
-
-### Camões Institute — Learning Portuguese
-
-*Portugal's official language institute: A1–C1 online courses and certification.*
-
-course, website · A1–C1 · Paid · reading, writing, listening, grammar
-
-The state body responsible for teaching Portuguese abroad runs self-study and tutored eLearning courses aligned to both the CEFR and Portugal's own QuaREPE framework, along with workplace-Portuguese tracks and a network of Portuguese Language Centres. Being the official institution matters if you want certification or a syllabus that matches what Portuguese schools teach. It is bureaucratic to navigate, courses are paid and run in enrolment windows, and the platform feels institutional rather than modern.
-
-[Website](https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese) · [YouTube](https://www.youtube.com/c/CamoesIP)
-
-### Infopédia (Porto Editora)
-
-*Porto Editora's dictionary portal — monolingual, bilingual and audio, in European Portuguese.*
-
-dictionary, website · Freemium · vocabulary, reading, pronunciation
-
-The digital home of Portugal's biggest reference publisher: the Portuguese-language dictionary plus Portuguese–English and other bilingual pairs, verb conjugation, and native audio for headwords, all from a European Portuguese perspective. The core dictionary lookups are free; some encyclopaedic content sits behind a subscription. Between this and Priberam you have European Portuguese lexical questions covered without paying anything.
-
-[Website](https://www.infopedia.pt/)
-
-### Michaelis Dicionário Brasileiro
-
-*Brazil's reference dictionary, free online, with monolingual and bilingual editions.*
-
-dictionary · Free · vocabulary, reading
-
-Published by Melhoramentos, with over 350,000 definitions including regionalisms, colloquialisms and slang, plus Portuguese–English and other bilingual dictionaries alongside the monolingual one. It is the Brazilian counterpart to Priberam and the better choice when a word is Brazil-specific. The web version is free; the site is ad-heavy and the mobile apps are paid.
-
-[Website](https://michaelis.uol.com.br/)
-
-### Portuguese With Leo
-
-*Leo's European Portuguese videos on language, history and culture, mostly in Portuguese.*
-
-youtube, podcast, course · A2–C1 · Freemium · listening, vocabulary, immersion, pronunciation
-
-The best-known European Portuguese YouTube channel (around 290K subscribers), covering everything from why Portuguese sounds the way it does to interviews with speakers of other Romance languages, with Portuguese subtitles throughout. He also runs separate Beginner and Intermediate Portuguese Podcast series and gives away several ebooks; the B1, B2 and pronunciation courses are paid. YouTube uploads have slowed to every month or two, so treat the channel as a deep archive and the podcasts as the active feed.
-
-[Website](https://www.portuguesewithleo.com/) · [Spotify](https://open.spotify.com/show/0tex61CKrQ0InxdgdRmqf7) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/intermediate-portuguese-podcast/id1523344579) · [YouTube](https://www.youtube.com/@PortugueseWithLeo)
-
-### PortuguesePod101
-
-*Thousands of levelled Brazilian Portuguese audio lessons with transcripts and word lists.*
-
-podcast, course, app · A1–C1 · Freemium · listening, vocabulary, grammar, reading
-
-Innovative Language's Portuguese arm: short dialogue-plus-explanation lessons organised into level pathways, with line-by-line transcripts, flashcards and a decent mobile app. Sheer volume is the selling point — you will not run out of material at any level. The free account gives limited access and the marketing is relentlessly discount-driven, so never pay list price. It teaches Brazilian Portuguese, so it is the wrong tool if you are living in Portugal.
-
-[Website](https://www.portuguesepod101.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-portuguese-portuguesepod101-com/id381009175) · [RSS](https://www.portuguesepod101.com/wp-feed-audio-video.php)
-
-### Short Stories in Brazilian Portuguese for Beginners (Olly Richards)
-
-*Eight genre short stories in controlled Brazilian Portuguese, with glossaries and questions.*
-
-book · A2–B1 · Paid · reading, vocabulary
-
-The Portuguese entry in the Teach Yourself graded-reader series: sci-fi, fantasy, crime and thriller stories written for high-beginner to low-intermediate readers, with bolded vocabulary, chapter glossaries, plot summaries and comprehension questions. It is the most reliable way to get from textbook sentences to reading whole chapters. Brazilian Portuguese only — there is no European Portuguese edition, which is why Storyglot exists.
-
-[Website](https://us.teachyourself.com/products/short-stories-in-brazilian-portuguese-for-beginners)
-
-### Speaking Brazilian
-
-*Virginia Langhammer's clear Brazilian Portuguese lessons, nearly 300 of them free.*
-
-youtube, course · A1–C1 · Freemium · listening, speaking, grammar, pronunciation
-
-The most reliable Brazilian Portuguese teaching channel: pronunciation, grammar, verb conjugation and culture, taught slowly in Portuguese with English support, and still uploading several times a week to over 330K subscribers. Free on YouTube; the paid side is a school with levelled digital courses, group classes and private lessons. A good default first stop for Brazilian Portuguese, and it pairs well with a conversation podcast once you can follow one.
-
-[Website](https://www.speakingbrazilian.com/)
-
-### BrazilianPodClass
-
-*Hundreds of weekly Brazilian Portuguese lessons for all levels, running since 2007.*
-
-podcast, course · A1–C1 · Freemium · listening, vocabulary, grammar
-
-One of the oldest Portuguese learning podcasts still going, with a lesson every week focused on conversation, vocabulary and the popular expressions textbooks skip. The audio podcast is free in any app; structured course bundles and lesson materials are sold through their Teachable site, which is now the main web presence. Production is basic and the archive is organised by episode number rather than by level, so plan on some digging.
-
-[Website](https://brazilianpodclass-learn-portuguese.teachable.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-portuguese-brazilianpodclass-previous-episodes/id515270398) · [RSS](https://feeds.feedburner.com/BrazilianPodClassPreviousEpisodes)
-
-### Carioca Connection
-
-*Alexia and Foster's decade of unscripted Rio Portuguese conversations, 400+ episodes.*
-
-podcast, course · B1–C1 · Freemium · listening, vocabulary, immersion
-
-A Brazilian and her American partner talk about whatever is going on — music, relationships, Brazilian politics, language mistakes — without scripting or slowing down much, which is the whole appeal once learner audio starts to feel fake. The podcast is free; playbooks, worksheets and a self-study membership (around $149/year) are paid. Heavily carioca in accent and slang, so budget some confusion if you learned a more neutral Brazilian Portuguese.
-
-[Website](https://cariocaconnection.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/carioca-connection-brazilian-portuguese-conversation/id1111786097) · [RSS](https://feeds.transistor.fm/carioca-connection-brazilian-portuguese-conversation-79ed6130-3df4-4e42-a017-6aadd7a6ff12)
-
-### Ciberdúvidas da Língua Portuguesa
-
-*A 1997-vintage Q&A archive where linguists answer real questions about Portuguese usage.*
-
-website · B2–C2 · Free · grammar, reading, writing
-
-Run out of ISCTE in Lisbon, it answers submitted questions about grammar, usage, regional variation and the spelling accord, and the searchable back catalogue now covers nearly every argument speakers have about the language. This is where you go when a grammar book gives a rule and you want to know whether anyone follows it. Entirely in Portuguese and written for an educated native audience, so it is a C-level reference, not a study tool.
-
-[Website](https://ciberduvidas.iscte-iul.pt/)
-
-### Conjugação.com.br
-
-*Free full conjugation tables for any Portuguese verb, regular or irregular.*
-
-tool, website · Free · grammar, writing
-
-Type an infinitive and get every tense and mood laid out, including the personal infinitive and the future subjunctive that make Portuguese conjugation genuinely harder than Spanish. Free, fast and paired with dictionary, synonym and grammar sections from the same publisher. It is a Brazilian site, so where a form differs between varieties the Brazilian usage is what you see — check Priberam if you need the Portugal norm.
-
-[Website](https://www.conjugacao.com.br/)
-
-### Fala Gringo!
-
-*Leni talks about Brazilian news and culture in slow, clear Portuguese, with transcripts.*
-
-podcast · B1–B2 · Free · listening, vocabulary, immersion
-
-Short Portuguese-only episodes on current topics and everyday Brazilian life, delivered at a pace intermediates can actually follow, with full transcripts published free on the site. It is a one-person operation supported by voluntary contributions rather than a paywall, which is why it belongs on any free-resource list. Squarely intermediate — no English scaffolding at all.
-
-[Website](https://falagringopodcast.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/fala-gringo-a-brazilian-podcast-for-intermediate-learners/id1474096593) · [RSS](https://anchor.fm/s/e3f8c44/podcast/rss) · [Spotify](https://open.spotify.com/show/7fMN1tfd9XGieL9y002lHQ)
-
-### Mia Esmeriz Academy
-
-*A self-paced A1–B2 European Portuguese course from a qualified Portuguese teacher.*
-
-course · A1–B2 · Paid · grammar, vocabulary, pronunciation, listening
-
-The Master Course walks from true beginner to upper-intermediate in a conventional, thorough, CEFR-aligned way — grammar, vocabulary, pronunciation and exercises — plus a separate Speech Course on the sounds of European Portuguese and interactive story material. Courses are one-off purchases with lifetime access rather than a subscription, which suits people who dislike recurring fees. It is a solid textbook-style course, not an entertaining one; the free materials on the site are a fair sample of the teaching style.
-
-[Website](https://learn-portuguese.org/) · [YouTube](https://www.youtube.com/c/learneuropeanportugueseonline)
-
-### Portuguese Lab
-
-*Susana Morais' calm, short European Portuguese lessons with a large free podcast archive.*
-
-podcast, course · A1–B2 · Freemium · listening, grammar, pronunciation, vocabulary
-
-A Lisbon teacher who structures things unusually clearly: short podcast episodes each doing one thing — a grammar point, a pronunciation contrast, a listening drill — with printable support materials. The podcast and a starter phrase pack are free; Portuguese Lab Academy (A1–B2) is the paid course. Very good for the A1–A2 stage where European Portuguese material is thinnest; her Storyglot readers cover the same ground for reading.
-
-[Website](https://www.portugueselab.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/portuguese-lab-podcast-learn-european-portuguese/id1177744515) · [RSS](https://www.portugueselab.com/podcast?format=rss) · [YouTube](https://www.youtube.com/channel/UCb0zJhS1C8QK3fzcZdU0Xkw) · [Spotify](https://open.spotify.com/show/6kW8Hemxwn8N5M9BssisNg)
-
-### Portuguese With Carla
-
-*A cinematic story series through Portugal used as the spine of a full A1–C1 course.*
-
-course, podcast, youtube · A1–C1 · Freemium · listening, speaking, grammar, immersion
-
-Carla and Marlon built 'The Journey' — 80+ filmed episodes following two characters solving a family mystery around Portugal — and hang vocabulary, grammar and exercises off the narrative, which keeps motivation up far better than unit-by-unit slogging. Podcast episodes, YouTube lessons and a weekly email are free; membership is €30/month or €349/year. Genuinely goes up to C1–C2 grammar, which almost no other European Portuguese course does, though the storytelling format is slower per hour than a conventional textbook.
-
-[Website](https://www.portuguesewithcarla.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/portuguese-with-carla-podcast/id850676914) · [RSS](https://www.portuguesewithcarla.com/feed/podcast/)
-
-### RTP Ensina
-
-*Portugal's public broadcaster's free educational video archive, in European Portuguese.*
-
-media, website · B1–C1 · Free · listening, reading, immersion
-
-Thousands of short documentary and explainer videos from RTP's archive, organised by school subject — history, science, literature, Portuguese language itself — with accompanying text. It is made for Portuguese schoolchildren rather than foreign learners, which is the point: real European Portuguese, clearly enunciated, on topics concrete enough to follow. Free and not geo-blocked like RTP Play, but there is no vocabulary support of any kind, so bring a dictionary.
-
-[Website](https://ensina.rtp.pt/)
-
-### Semantica Portuguese
-
-*Brazilian Portuguese taught through filmed drama series shot in Brazil with local actors.*
-
-course, media · A1–B2 · Paid · listening, vocabulary, grammar, immersion
-
-Instead of studio dialogues you get episodic video stories filmed on location, with the language graded across series and grammar explained visually rather than in tables. It is the strongest option if you learn from narrative and want to hear Portuguese in situ rather than in a classroom. Subscription-only with some free sample posts, the accent is a deliberately neutral Brazilian one, and the video library grows slowly — long-standing subscribers do notice.
-
-[Website](https://www.semantica-portuguese.com/)
-
-### Street Smart Brazil
-
-*Luciana's one-to-one Brazilian Portuguese coaching, plus Celpe-Bras exam preparation.*
-
-tutoring, course, youtube · A1–C1 · Freemium · speaking, grammar, vocabulary
-
-Teaching since 2008, with self-paced courses, private video lessons and dedicated prep for Celpe-Bras — the Brazilian government's official proficiency exam, which matters for study or work in Brazil. The blog and YouTube channel carry a long run of free grammar and idiom lessons that stand alone even if you never book a class. YouTube uploads have become infrequent; the paid tutoring is the active part of the business.
-
-[Website](https://www.streetsmartbrazil.com/)
-
-### Tá Falado
-
-*Brazilian Portuguese pronunciation taught specifically to people who already speak Spanish.*
-
-podcast, course · A1–B1 · Free · pronunciation, listening, vocabulary
-
-A University of Texas project that contrasts each Portuguese sound with its Spanish equivalent, using paired dialogues plus a cultural comparison between the US and Brazil. If you come to Portuguese from Spanish it addresses your actual problems — nasal vowels, open and closed e/o, the sounds Spanish simply lacks — rather than starting from zero. Completely free with transcripts, from an academic institution. It is an older series with no new episodes, and useless if you have no Spanish.
-
-[Website](https://www.coerll.utexas.edu/brazilpod/tafalado/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/t%C3%A1-falado-brazilian-portuguese-pronunciation-for-speakers/id206150220) · [RSS](https://www.coerll.utexas.edu/brazilpod/tafalado/rss.php)
-
-### Talk the Streets
-
-*Liz Sharma teaches the European Portuguese natives actually speak, pronunciation first.*
-
-course, youtube, podcast · A1–B1 · Freemium · pronunciation, speaking, listening, vocabulary
-
-Built around the observation that most learners in Portugal can read fine and understand nothing, so the method leads with pronunciation and reduced everyday speech rather than grammar tables. The YouTube channel (around 134K subscribers, posting regularly) and a free beginner training are the entry points; the Portuguese Pro courses are paid. She is a fluent non-native teacher explaining in English, which some prefer for the early stages and others specifically do not want.
-
-[Website](https://www.talkthestreets.com/) · [YouTube](https://www.youtube.com/channel/UCAHp6bCNcUg6PTHaZ-hI3Bw)
-
-### Todo Mundo Pod
-
-*Brazilian culture and everyday topics, plus a Basic Tips series for near-beginners.*
-
-podcast · A2–B2 · Freemium · listening, vocabulary, grammar
-
-Two strands: 'Portuguese Basic Tips' for near-beginners and full Todo Mundo Pod episodes in Portuguese on Brazilian culture, history and figures, with transcripts and exercises behind a membership. The Brazilian-culture angle gives it more substance than generic learner chat. Output has become sporadic — the blog archive largely stops around 2021 — so value it for the existing catalogue rather than a steady feed.
-
-[Website](https://www.todomundopod.com/) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/todo-mundo-pod-todo-mundo-pod/id1067643556)
-
-### Portuguesepedia
-
-*Real European Portuguese audio and idioms, matched to your level, curated by one teacher.*
-
-website, tool · A2–C1 · Freemium · listening, vocabulary, grammar, immersion
-
-Pedro built this for the specific problem of understanding Portuguese as it is actually spoken in Portugal — fast, swallowed vowels, idiomatic — with levelled listening practice, vocabulary saving and grammar articles. The free tier gives a weekly allowance of content and vocabulary review; Plus is about €11.60/month annually and adds unlimited access and AI speaking practice. Explicitly best from A2 upward; absolute beginners should start elsewhere.
-
-[Website](https://www.portuguesepedia.com/)
-
-### Say It In Portuguese
-
-*Cristina's one-to-one European Portuguese lessons, including CAPLE exam preparation.*
-
-tutoring, course, podcast · A1–C1 · Paid · speaking, writing, listening, grammar
-
-A native Portuguese teacher offering personalised online lessons, with a specific focus on the CAPLE exams — CIPLE at A2 and DEPLE/DIPLE at B1–B2 — which matters if you are working toward Portuguese nationality or residency requirements. She publishes a free podcast on idioms and a blog on culture and learning. Pricing is not listed publicly, so you have to ask; this is a tutor, not a self-study product.
-
-[Website](https://sayitinportuguese.pt/) · [Spotify](https://open.spotify.com/show/3U2VYJp4ZQvgJYFUqSqayU) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/say-it-in-portuguese/id1604701948)
-
-### Storyglot (European Portuguese readers)
-
-*Graded story books written in European Portuguese, from A1 up to C1.*
-
-book · A1–C1 · Paid · reading, vocabulary, grammar
-
-Susana Morais of Portuguese Lab writes these to fill an obvious gap — nearly every Portuguese graded reader on the market is Brazilian. Each book targets a level and consolidates specific grammar through story rather than exercises, with audio available. Reasonably priced ebooks; the range is smaller than the Brazilian equivalents, so heavy readers will exhaust it faster than they would like.
-
-[Website](https://storyglot.com/)
+27 resources, everything the dataset holds for this language. Generated from [`data/resources/portuguese.json`](../data/resources/portuguese.json) — corrections go there, not here.
+
+| Resource | Type | Level | CEFR | Price | Skills | Method | Links | Pitch | Notes |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| [**Dicionário Priberam da Língua Portuguesa**](https://dicionario.priberam.org/) | dictionary | A–C | — | Free | vocabulary, reading | — | — | The standard free monolingual Portuguese dictionary, with Portugal and Brazil spellings. | Fast, free and comprehensive, with full conjugation for every verb, etymologies, and an explicit switch between the Portuguese and Brazilian orthographic conventions — which is exactly what you need when the same word is spelled differently on each side of the Atlantic. Definitions are in Portuguese only, so it becomes useful around B1. This is the dictionary most Portuguese speakers actually open. |
+| [**Porta dos Fundos**](https://www.youtube.com/@portadosfundos) | media, youtube | C | B2–C2 | Free | listening, immersion, vocabulary | authentic-media | — | Brazil's biggest comedy sketch channel — native-speed Portuguese made for Brazilians. | Short sketches, usually two or three minutes, performed at full conversational speed with the slang, sarcasm and cultural references intact. Nothing here is adapted for learners, which is exactly the value: if you laugh at the right moment you understand Brazilian Portuguese. Free, enormous back catalogue, Portuguese auto-subtitles are usable. Frequently crude and irreverent about religion and politics, so it will not suit everyone. |
+| [**Practice Portuguese**](https://www.practiceportuguese.com/) | course, app, podcast | A–C | A1–C1 | Freemium | listening, reading, vocabulary, grammar, pronunciation | structured-course, comprehensible-input | [Apple Podcasts](https://podcasts.apple.com/us/podcast/practice-portuguese/id599326719) · [RSS](https://www.practiceportuguese.com/feed/podcast/) · [App Store](https://apps.apple.com/us/app/practice-portuguese/id1517216365) · [Google Play](https://play.google.com/store/apps/details?id=com.practiceportugueseap4.app) | The most complete European Portuguese course anywhere — 950+ episodes, all from Portugal. | Rui and Joel have built since 2012 what nobody else has for European Portuguese: 100+ structured units, hundreds of graded audio Shorties and podcast episodes, a verb trainer, pronunciation analysis and an SRS review system, all in the Lisbon standard rather than Brazilian. The Practice Portuguese Podcast and Shorties are free in any podcast app; full site and app access is about €15/month with no free trial but a money-back guarantee. If you live in Portugal and can only pay for one thing, this is it — the caveat is that it is Lisbon-accented and light on the northern varieties. |
+| [**Camões Institute — Learning Portuguese**](https://www.instituto-camoes.pt/en/activity-camoes/what-we-do/learn-portuguese) | course, website | A–C | A1–C1 | Paid | reading, writing, listening, grammar | structured-course | [YouTube](https://www.youtube.com/c/CamoesIP) | Portugal's official language institute: A1–C1 online courses and certification. | The state body responsible for teaching Portuguese abroad runs self-study and tutored eLearning courses aligned to both the CEFR and Portugal's own QuaREPE framework, along with workplace-Portuguese tracks and a network of Portuguese Language Centres. Being the official institution matters if you want certification or a syllabus that matches what Portuguese schools teach. It is bureaucratic to navigate, courses are paid and run in enrolment windows, and the platform feels institutional rather than modern. |
+| [**Infopédia (Porto Editora)**](https://www.infopedia.pt/) | dictionary, website | A–C | — | Freemium | vocabulary, reading, pronunciation | — | — | Porto Editora's dictionary portal — monolingual, bilingual and audio, in European Portuguese. | The digital home of Portugal's biggest reference publisher: the Portuguese-language dictionary plus Portuguese–English and other bilingual pairs, verb conjugation, and native audio for headwords, all from a European Portuguese perspective. The core dictionary lookups are free; some encyclopaedic content sits behind a subscription. Between this and Priberam you have European Portuguese lexical questions covered without paying anything. |
+| [**Michaelis Dicionário Brasileiro**](https://michaelis.uol.com.br/) | dictionary | A–C | — | Free | vocabulary, reading | — | — | Brazil's reference dictionary, free online, with monolingual and bilingual editions. | Published by Melhoramentos, with over 350,000 definitions including regionalisms, colloquialisms and slang, plus Portuguese–English and other bilingual dictionaries alongside the monolingual one. It is the Brazilian counterpart to Priberam and the better choice when a word is Brazil-specific. The web version is free; the site is ad-heavy and the mobile apps are paid. |
+| [**Portuguese With Leo**](https://www.portuguesewithleo.com/) | youtube, podcast, course | A–C | A2–C1 | Freemium | listening, vocabulary, immersion, pronunciation | comprehensible-input | [Spotify](https://open.spotify.com/show/0tex61CKrQ0InxdgdRmqf7) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/intermediate-portuguese-podcast/id1523344579) · [YouTube](https://www.youtube.com/@PortugueseWithLeo) | Leo's European Portuguese videos on language, history and culture, mostly in Portuguese. | The best-known European Portuguese YouTube channel (around 290K subscribers), covering everything from why Portuguese sounds the way it does to interviews with speakers of other Romance languages, with Portuguese subtitles throughout. He also runs separate Beginner and Intermediate Portuguese Podcast series and gives away several ebooks; the B1, B2 and pronunciation courses are paid. YouTube uploads have slowed to every month or two, so treat the channel as a deep archive and the podcasts as the active feed. |
+| [**PortuguesePod101**](https://www.portuguesepod101.com/) | podcast, course, app | A–C | A1–C1 | Freemium | listening, vocabulary, grammar, reading | structured-course | [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-portuguese-portuguesepod101-com/id381009175) · [RSS](https://www.portuguesepod101.com/wp-feed-audio-video.php) | Thousands of levelled Brazilian Portuguese audio lessons with transcripts and word lists. | Innovative Language's Portuguese arm: short dialogue-plus-explanation lessons organised into level pathways, with line-by-line transcripts, flashcards and a decent mobile app. Sheer volume is the selling point — you will not run out of material at any level. The free account gives limited access and the marketing is relentlessly discount-driven, so never pay list price. It teaches Brazilian Portuguese, so it is the wrong tool if you are living in Portugal. |
+| [**Short Stories in Brazilian Portuguese for Beginners (Olly Richards)**](https://us.teachyourself.com/products/short-stories-in-brazilian-portuguese-for-beginners) | book | A/B | A2–B1 | Paid | reading, vocabulary | graded-reading | — | Eight genre short stories in controlled Brazilian Portuguese, with glossaries and questions. | The Portuguese entry in the Teach Yourself graded-reader series: sci-fi, fantasy, crime and thriller stories written for high-beginner to low-intermediate readers, with bolded vocabulary, chapter glossaries, plot summaries and comprehension questions. It is the most reliable way to get from textbook sentences to reading whole chapters. Brazilian Portuguese only — there is no European Portuguese edition, which is why Storyglot exists. |
+| [**Speaking Brazilian**](https://www.speakingbrazilian.com/) | youtube, course | A–C | A1–C1 | Freemium | listening, speaking, grammar, pronunciation | grammar-reference | — | Virginia Langhammer's clear Brazilian Portuguese lessons, nearly 300 of them free. | The most reliable Brazilian Portuguese teaching channel: pronunciation, grammar, verb conjugation and culture, taught slowly in Portuguese with English support, and still uploading several times a week to over 330K subscribers. Free on YouTube; the paid side is a school with levelled digital courses, group classes and private lessons. A good default first stop for Brazilian Portuguese, and it pairs well with a conversation podcast once you can follow one. |
+| [**BrazilianPodClass**](https://brazilianpodclass-learn-portuguese.teachable.com/) | podcast, course | A–C | A1–C1 | Freemium | listening, vocabulary, grammar | structured-course | [Apple Podcasts](https://podcasts.apple.com/us/podcast/learn-portuguese-brazilianpodclass-previous-episodes/id515270398) · [RSS](https://feeds.feedburner.com/BrazilianPodClassPreviousEpisodes) | Hundreds of weekly Brazilian Portuguese lessons for all levels, running since 2007. | One of the oldest Portuguese learning podcasts still going, with a lesson every week focused on conversation, vocabulary and the popular expressions textbooks skip. The audio podcast is free in any app; structured course bundles and lesson materials are sold through their Teachable site, which is now the main web presence. Production is basic and the archive is organised by episode number rather than by level, so plan on some digging. |
+| [**Carioca Connection**](https://cariocaconnection.com/) | podcast, course | B/C | B1–C1 | Freemium | listening, vocabulary, immersion | comprehensible-input | [Apple Podcasts](https://podcasts.apple.com/us/podcast/carioca-connection-brazilian-portuguese-conversation/id1111786097) · [RSS](https://feeds.transistor.fm/carioca-connection-brazilian-portuguese-conversation-79ed6130-3df4-4e42-a017-6aadd7a6ff12) | Alexia and Foster's decade of unscripted Rio Portuguese conversations, 400+ episodes. | A Brazilian and her American partner talk about whatever is going on — music, relationships, Brazilian politics, language mistakes — without scripting or slowing down much, which is the whole appeal once learner audio starts to feel fake. The podcast is free; playbooks, worksheets and a self-study membership (around $149/year) are paid. Heavily carioca in accent and slang, so budget some confusion if you learned a more neutral Brazilian Portuguese. |
+| [**Ciberdúvidas da Língua Portuguesa**](https://ciberduvidas.iscte-iul.pt/) | website | C | B2–C2 | Free | grammar, reading, writing | grammar-reference | — | A 1997-vintage Q&A archive where linguists answer real questions about Portuguese usage. | Run out of ISCTE in Lisbon, it answers submitted questions about grammar, usage, regional variation and the spelling accord, and the searchable back catalogue now covers nearly every argument speakers have about the language. This is where you go when a grammar book gives a rule and you want to know whether anyone follows it. Entirely in Portuguese and written for an educated native audience, so it is a C-level reference, not a study tool. |
+| [**Conjugação.com.br**](https://www.conjugacao.com.br/) | tool, website | A–C | — | Free | grammar, writing | grammar-reference | — | Free full conjugation tables for any Portuguese verb, regular or irregular. | Type an infinitive and get every tense and mood laid out, including the personal infinitive and the future subjunctive that make Portuguese conjugation genuinely harder than Spanish. Free, fast and paired with dictionary, synonym and grammar sections from the same publisher. It is a Brazilian site, so where a form differs between varieties the Brazilian usage is what you see — check Priberam if you need the Portugal norm. |
+| [**Fala Gringo!**](https://falagringopodcast.com/) | podcast | B | B1–B2 | Free | listening, vocabulary, immersion | comprehensible-input | [Apple Podcasts](https://podcasts.apple.com/us/podcast/fala-gringo-a-brazilian-podcast-for-intermediate-learners/id1474096593) · [RSS](https://anchor.fm/s/e3f8c44/podcast/rss) · [Spotify](https://open.spotify.com/show/7fMN1tfd9XGieL9y002lHQ) | Leni talks about Brazilian news and culture in slow, clear Portuguese, with transcripts. | Short Portuguese-only episodes on current topics and everyday Brazilian life, delivered at a pace intermediates can actually follow, with full transcripts published free on the site. It is a one-person operation supported by voluntary contributions rather than a paywall, which is why it belongs on any free-resource list. Squarely intermediate — no English scaffolding at all. |
+| [**Mia Esmeriz Academy**](https://learn-portuguese.org/) | course | A/B | A1–B2 | Paid | grammar, vocabulary, pronunciation, listening | structured-course | [YouTube](https://www.youtube.com/c/learneuropeanportugueseonline) | A self-paced A1–B2 European Portuguese course from a qualified Portuguese teacher. | The Master Course walks from true beginner to upper-intermediate in a conventional, thorough, CEFR-aligned way — grammar, vocabulary, pronunciation and exercises — plus a separate Speech Course on the sounds of European Portuguese and interactive story material. Courses are one-off purchases with lifetime access rather than a subscription, which suits people who dislike recurring fees. It is a solid textbook-style course, not an entertaining one; the free materials on the site are a fair sample of the teaching style. |
+| [**Portuguese Lab**](https://www.portugueselab.com/) | podcast, course | A/B | A1–B2 | Freemium | listening, grammar, pronunciation, vocabulary | structured-course | [Apple Podcasts](https://podcasts.apple.com/us/podcast/portuguese-lab-podcast-learn-european-portuguese/id1177744515) · [RSS](https://www.portugueselab.com/podcast?format=rss) · [YouTube](https://www.youtube.com/channel/UCb0zJhS1C8QK3fzcZdU0Xkw) · [Spotify](https://open.spotify.com/show/6kW8Hemxwn8N5M9BssisNg) | Susana Morais' calm, short European Portuguese lessons with a large free podcast archive. | A Lisbon teacher who structures things unusually clearly: short podcast episodes each doing one thing — a grammar point, a pronunciation contrast, a listening drill — with printable support materials. The podcast and a starter phrase pack are free; Portuguese Lab Academy (A1–B2) is the paid course. Very good for the A1–A2 stage where European Portuguese material is thinnest; her Storyglot readers cover the same ground for reading. |
+| [**Portuguese With Carla**](https://www.portuguesewithcarla.com/) | course, podcast, youtube | A–C | A1–C1 | Freemium | listening, speaking, grammar, immersion | structured-course, comprehensible-input | [Apple Podcasts](https://podcasts.apple.com/us/podcast/portuguese-with-carla-podcast/id850676914) · [RSS](https://www.portuguesewithcarla.com/feed/podcast/) | A cinematic story series through Portugal used as the spine of a full A1–C1 course. | Carla and Marlon built 'The Journey' — 80+ filmed episodes following two characters solving a family mystery around Portugal — and hang vocabulary, grammar and exercises off the narrative, which keeps motivation up far better than unit-by-unit slogging. Podcast episodes, YouTube lessons and a weekly email are free; membership is €30/month or €349/year. Genuinely goes up to C1–C2 grammar, which almost no other European Portuguese course does, though the storytelling format is slower per hour than a conventional textbook. |
+| [**RTP Ensina**](https://ensina.rtp.pt/) | media, website | B/C | B1–C1 | Free | listening, reading, immersion | authentic-media | — | Portugal's public broadcaster's free educational video archive, in European Portuguese. | Thousands of short documentary and explainer videos from RTP's archive, organised by school subject — history, science, literature, Portuguese language itself — with accompanying text. It is made for Portuguese schoolchildren rather than foreign learners, which is the point: real European Portuguese, clearly enunciated, on topics concrete enough to follow. Free and not geo-blocked like RTP Play, but there is no vocabulary support of any kind, so bring a dictionary. |
+| [**Semantica Portuguese**](https://www.semantica-portuguese.com/) | course, media | A–C | A1–B2 | Paid | listening, vocabulary, grammar, immersion | structured-course, comprehensible-input | — | Brazilian Portuguese taught through filmed drama series shot in Brazil with local actors. | Instead of studio dialogues you get episodic video stories filmed on location, with the language graded across series and grammar explained visually rather than in tables. It is the strongest option if you learn from narrative and want to hear Portuguese in situ rather than in a classroom. Subscription-only with some free sample posts, the accent is a deliberately neutral Brazilian one, and the video library grows slowly — long-standing subscribers do notice. |
+| [**Street Smart Brazil**](https://www.streetsmartbrazil.com/) | tutoring, course, youtube | A–C | A1–C1 | Freemium | speaking, grammar, vocabulary | conversation-practice, structured-course | — | Luciana's one-to-one Brazilian Portuguese coaching, plus Celpe-Bras exam preparation. | Teaching since 2008, with self-paced courses, private video lessons and dedicated prep for Celpe-Bras — the Brazilian government's official proficiency exam, which matters for study or work in Brazil. The blog and YouTube channel carry a long run of free grammar and idiom lessons that stand alone even if you never book a class. YouTube uploads have become infrequent; the paid tutoring is the active part of the business. |
+| [**Tá Falado**](https://www.coerll.utexas.edu/brazilpod/tafalado/) | podcast, course | A/B | A1–B1 | Free | pronunciation, listening, vocabulary | pronunciation-training | [Apple Podcasts](https://podcasts.apple.com/us/podcast/t%C3%A1-falado-brazilian-portuguese-pronunciation-for-speakers/id206150220) · [RSS](https://www.coerll.utexas.edu/brazilpod/tafalado/rss.php) | Brazilian Portuguese pronunciation taught specifically to people who already speak Spanish. | A University of Texas project that contrasts each Portuguese sound with its Spanish equivalent, using paired dialogues plus a cultural comparison between the US and Brazil. If you come to Portuguese from Spanish it addresses your actual problems — nasal vowels, open and closed e/o, the sounds Spanish simply lacks — rather than starting from zero. Completely free with transcripts, from an academic institution. It is an older series with no new episodes, and useless if you have no Spanish. |
+| [**Talk the Streets**](https://www.talkthestreets.com/) | course, youtube, podcast | A/B | A1–B1 | Freemium | pronunciation, speaking, listening, vocabulary | pronunciation-training, structured-course | [YouTube](https://www.youtube.com/channel/UCAHp6bCNcUg6PTHaZ-hI3Bw) | Liz Sharma teaches the European Portuguese natives actually speak, pronunciation first. | Built around the observation that most learners in Portugal can read fine and understand nothing, so the method leads with pronunciation and reduced everyday speech rather than grammar tables. The YouTube channel (around 134K subscribers, posting regularly) and a free beginner training are the entry points; the Portuguese Pro courses are paid. She is a fluent non-native teacher explaining in English, which some prefer for the early stages and others specifically do not want. |
+| [**Todo Mundo Pod**](https://www.todomundopod.com/) | podcast | A/B | A2–B2 | Freemium | listening, vocabulary, grammar | comprehensible-input | [Apple Podcasts](https://podcasts.apple.com/us/podcast/todo-mundo-pod-todo-mundo-pod/id1067643556) | Brazilian culture and everyday topics, plus a Basic Tips series for near-beginners. | Two strands: 'Portuguese Basic Tips' for near-beginners and full Todo Mundo Pod episodes in Portuguese on Brazilian culture, history and figures, with transcripts and exercises behind a membership. The Brazilian-culture angle gives it more substance than generic learner chat. Output has become sporadic — the blog archive largely stops around 2021 — so value it for the existing catalogue rather than a steady feed. |
+| [**Portuguesepedia**](https://www.portuguesepedia.com/) | website, tool | B/C | A2–C1 | Freemium | listening, vocabulary, grammar, immersion | comprehensible-input | — | Real European Portuguese audio and idioms, matched to your level, curated by one teacher. | Pedro built this for the specific problem of understanding Portuguese as it is actually spoken in Portugal — fast, swallowed vowels, idiomatic — with levelled listening practice, vocabulary saving and grammar articles. The free tier gives a weekly allowance of content and vocabulary review; Plus is about €11.60/month annually and adds unlimited access and AI speaking practice. Explicitly best from A2 upward; absolute beginners should start elsewhere. |
+| [**Say It In Portuguese**](https://sayitinportuguese.pt/) | tutoring, course, podcast | A–C | A1–C1 | Paid | speaking, writing, listening, grammar | conversation-practice | [Spotify](https://open.spotify.com/show/3U2VYJp4ZQvgJYFUqSqayU) · [Apple Podcasts](https://podcasts.apple.com/us/podcast/say-it-in-portuguese/id1604701948) | Cristina's one-to-one European Portuguese lessons, including CAPLE exam preparation. | A native Portuguese teacher offering personalised online lessons, with a specific focus on the CAPLE exams — CIPLE at A2 and DEPLE/DIPLE at B1–B2 — which matters if you are working toward Portuguese nationality or residency requirements. She publishes a free podcast on idioms and a blog on culture and learning. Pricing is not listed publicly, so you have to ask; this is a tutor, not a self-study product. |
+| [**Storyglot (European Portuguese readers)**](https://storyglot.com/) | book | A–C | A1–C1 | Paid | reading, vocabulary, grammar | graded-reading | — | Graded story books written in European Portuguese, from A1 up to C1. | Susana Morais of Portuguese Lab writes these to fill an obvious gap — nearly every Portuguese graded reader on the market is Brazilian. Each book targets a level and consolidates specific grammar through story rather than exercises, with audio available. Reasonably priced ebooks; the range is smaller than the Brazilian equivalents, so heavy readers will exhaust it faster than they would like. |
 

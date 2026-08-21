@@ -8,10 +8,10 @@
 //          catalog/<language>.md  one page per language
 //
 // Why this exists: JSON and CSV are for programs. Someone who lands on the repo
-// from a link wants to READ the thing — and the notes are the part worth
-// reading, which no table can hold. So each page opens with a scannable table
-// (name, type, level, price) and then gives every resource its own short
-// section underneath. Generated, never hand-edited: the source of truth stays
+// from a link wants to READ the thing. Each page is one table holding every
+// field the dataset has for that language — facets first so they stay on screen,
+// pitch and notes last, since those are the columns you read one of rather than
+// scan. Generated, never hand-edited: the source of truth stays
 // data/resources/*.json.
 //
 // Plain Node ESM, no dependencies. Node 18+.
@@ -61,43 +61,35 @@ function page(slug, rows) {
   out.push(`# ${title}${native}`);
   out.push('');
   out.push(
-    `${sorted.length} resource${sorted.length === 1 ? '' : 's'}. ` +
-      `Generated from [\`data/resources/${slug}.json\`](../data/resources/${slug}.json) — ` +
+    `${sorted.length} resource${sorted.length === 1 ? '' : 's'}, everything the dataset holds ` +
+      `for this language. Generated from [\`data/resources/${slug}.json\`](../data/resources/${slug}.json) — ` +
       `corrections go there, not here.`
   );
   out.push('');
-  out.push('| Resource | Type | Level | Price |');
-  out.push('| --- | --- | --- | --- |');
+  // Facets first, prose last: the columns worth scanning stay on screen, and
+  // the ones that force a horizontal scroll are the ones you read one of.
+  out.push('| Resource | Type | Level | CEFR | Price | Skills | Method | Links | Pitch | Notes |');
+  out.push('| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |');
   for (const r of sorted) {
+    const extra = (r.links || []).map((l) => `[${cell(l.label)}](${l.url})`).join(' · ');
     out.push(
-      `| [${cell(r.name)}](#${anchor(r.name)}) | ${cell((r.types || []).join(', '))} ` +
-        `| ${levels(r)} | ${PRICE[r.price] || '—'} |`
+      [
+        `[**${cell(r.name)}**](${r.url})`,
+        cell((r.types || []).join(', ')),
+        levels(r),
+        cell(r.cefr || '') || '—',
+        PRICE[r.price] || '—',
+        cell((r.skills || []).join(', ')) || '—',
+        cell((r.methods || []).join(', ')) || '—',
+        extra || '—',
+        cell(r.pitch || '') || '—',
+        cell(r.notes || '') || '—',
+      ].join(' | ')
     );
+    out[out.length - 1] = `| ${out[out.length - 1]} |`;
   }
   out.push('');
-  out.push('---');
-  out.push('');
-
-  for (const r of sorted) {
-    out.push(`### ${r.name}`);
-    out.push('');
-    if (r.pitch) out.push(`*${r.pitch}*`);
-    out.push('');
-    const facts = [
-      (r.types || []).join(', '),
-      r.cefr || null,
-      PRICE[r.price] || null,
-      (r.skills || []).length ? (r.skills || []).join(', ') : null,
-    ].filter(Boolean);
-    if (facts.length) out.push(facts.join(' · '));
-    out.push('');
-    if (r.notes) out.push(r.notes);
-    out.push('');
-    const links = [`[Website](${r.url})`, ...(r.links || []).map((l) => `[${l.label}](${l.url})`)];
-    out.push(links.join(' · '));
-    out.push('');
-  }
-  return out.join('\n');
+  return `${out.join('\n')}`;
 }
 
 const files = readdirSync(join(ROOT, 'data', 'resources')).filter((f) => f.endsWith('.json'));
