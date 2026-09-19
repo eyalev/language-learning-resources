@@ -1,15 +1,15 @@
 {
-  "generated": "2026-08-20",
-  "resources": 838,
+  "generated": "2026-09-19",
+  "resources": 839,
   "languageFiles": 33,
   "languages": 32,
   "universalResources": 36,
-  "resourcesWithPlatformLinks": 329,
-  "platformLinks": 751,
-  "uniquePrimaryDomains": 590,
+  "resourcesWithPlatformLinks": 330,
+  "platformLinks": 753,
+  "uniquePrimaryDomains": 591,
   "byPrice": {
     "free": 468,
-    "freemium": 234,
+    "freemium": 235,
     "paid": 136
   },
   "byType": {
@@ -21,24 +21,24 @@
     "book": 92,
     "tool": 92,
     "dictionary": 89,
-    "app": 81,
+    "app": 82,
     "community": 40,
     "tutoring": 37
   },
   "byLevel": {
-    "intermediate": 731,
-    "beginner": 594,
+    "intermediate": 732,
+    "beginner": 595,
     "advanced": 464
   },
   "bySkill": {
-    "vocabulary": 624,
-    "listening": 531,
+    "vocabulary": 625,
+    "listening": 532,
     "grammar": 370,
     "reading": 360,
     "speaking": 186,
-    "writing": 170,
+    "writing": 171,
     "immersion": 155,
-    "pronunciation": 123
+    "pronunciation": 124
   },
   "byMethod": {
     "structured-course": 225,
@@ -48,12 +48,12 @@
     "conversation-practice": 42,
     "graded-reading": 40,
     "pronunciation-training": 31,
-    "flashcards": 19,
+    "flashcards": 20,
     "audio-method": 18,
     "gamified": 6
   },
   "byPopularity": {
-    "1": 24,
+    "1": 25,
     "2": 349,
     "3": 307,
     "4": 145,
@@ -63,8 +63,8 @@
     "Apple Podcasts": 178,
     "RSS": 167,
     "YouTube": 151,
-    "Google Play": 77,
-    "App Store": 76,
+    "Google Play": 78,
+    "App Store": 77,
     "Spotify": 73,
     "Podcast": 6,
     "Website": 4,
@@ -86,7 +86,7 @@
     "r2u.org.ua": 1,
     "r/Vietnamese": 1
   },
-  "distinctTags": 344,
+  "distinctTags": 346,
   "perLanguage": {
     "universal": {
       "resources": 36,
@@ -125,10 +125,10 @@
       "platformLinks": 27
     },
     "french": {
-      "resources": 31,
+      "resources": 32,
       "free": 12,
-      "withPlatformLinks": 17,
-      "platformLinks": 42
+      "withPlatformLinks": 18,
+      "platformLinks": 44
     },
     "italian": {
       "resources": 31,

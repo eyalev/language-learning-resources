@@ -882,6 +882,50 @@
     ]
   },
   {
+    "id": "briovocab",
+    "name": "BrioVocab",
+    "url": "https://briovocab.com/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "french"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "cefr": "A1–B2",
+    "skills": [
+      "vocabulary",
+      "listening",
+      "pronunciation",
+      "writing"
+    ],
+    "price": "freemium",
+    "pitch": "French vocabulary drills with illustrated A1–B2 decks and adaptive spaced repetition.",
+    "notes": "BrioVocab combines ready-made illustrated French word sets for CEFR A1–B2 with the option to add your own words. Its drills cover translation, spelling, articles, definitions and listening, while an FSRS-based schedule recalculates individual memory parameters from each learner's review history. It is strongest as a focused vocabulary trainer rather than a complete French course, and its newer app has a much smaller learner community than the established tools here.",
+    "tags": [
+      "spaced-repetition",
+      "illustrated-vocabulary",
+      "custom-word-lists"
+    ],
+    "popularity": 1,
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/app/id6793255945"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.briovocab.googleplay.app"
+      }
+    ],
+    "methods": [
+      "flashcards"
+    ]
+  },
+  {
     "id": "larousse-dictionnaire-francais",
     "name": "Larousse Dictionnaire de français",
     "url": "https://www.larousse.fr/dictionnaires/francais",
