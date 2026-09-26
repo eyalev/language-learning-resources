@@ -1112,5 +1112,26 @@
     "notes": "The Spanish government's own language institute publishes a large free library here — the Rayuela interactive exercise bank, the daily Rinconete culture column, translation and neologism blogs, and teaching materials. It is a sprawling, badly-signposted site rather than a course, so come with a specific goal. The paid AVE Global courses are the Institute's structured offering; everything under cvc.cervantes.es is free.",
     "popularity": 2,
     "methods": []
+  },
+  {
+    "id": "spanish-verb-conjugation",
+    "name": "Spanish Verb Conjugation",
+    "url": "https://www.spanishverbconjugation.com/",
+    "types": ["website", "tool", "app"],
+    "languages": ["spanish"],
+    "levels": ["beginner", "intermediate", "advanced"],
+    "skills": ["grammar"],
+    "price": "free",
+    "pitch": "Free Spanish verb conjugation tables and practice, with an offline Android companion for SRS learning.",
+    "notes": "Look up Spanish verb forms and practice conjugations by tense and pronoun, with reference tables for regular and irregular verbs. The Android companion schedules flashcard reviews for verb conjugations with FSRS spaced repetition.",
+    "popularity": 1,
+    "methods": ["grammar-reference", "flashcards"],
+    "tags": ["verb-conjugation", "offline-android"],
+    "links": [
+      {
+        "label": "Android app",
+        "url": "https://play.google.com/store/apps/details?id=com.spanishverbconjugation.app"
+      }
+    ]
   }
 ]
