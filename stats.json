@@ -1,14 +1,14 @@
 {
-  "generated": "2026-08-20",
-  "resources": 838,
+  "generated": "2026-10-07",
+  "resources": 839,
   "languageFiles": 33,
   "languages": 32,
   "universalResources": 36,
-  "resourcesWithPlatformLinks": 329,
-  "platformLinks": 751,
-  "uniquePrimaryDomains": 590,
+  "resourcesWithPlatformLinks": 330,
+  "platformLinks": 752,
+  "uniquePrimaryDomains": 591,
   "byPrice": {
-    "free": 468,
+    "free": 469,
     "freemium": 234,
     "paid": 136
   },
@@ -21,18 +21,18 @@
     "book": 92,
     "tool": 92,
     "dictionary": 89,
-    "app": 81,
+    "app": 82,
     "community": 40,
     "tutoring": 37
   },
   "byLevel": {
     "intermediate": 731,
-    "beginner": 594,
+    "beginner": 595,
     "advanced": 464
   },
   "bySkill": {
-    "vocabulary": 624,
-    "listening": 531,
+    "vocabulary": 625,
+    "listening": 532,
     "grammar": 370,
     "reading": 360,
     "speaking": 186,
@@ -63,8 +63,8 @@
     "Apple Podcasts": 178,
     "RSS": 167,
     "YouTube": 151,
+    "App Store": 77,
     "Google Play": 77,
-    "App Store": 76,
     "Spotify": 73,
     "Podcast": 6,
     "Website": 4,
@@ -86,7 +86,7 @@
     "r2u.org.ua": 1,
     "r/Vietnamese": 1
   },
-  "distinctTags": 344,
+  "distinctTags": 346,
   "perLanguage": {
     "universal": {
       "resources": 36,
@@ -142,17 +142,17 @@
       "withPlatformLinks": 9,
       "platformLinks": 25
     },
+    "korean": {
+      "resources": 30,
+      "free": 22,
+      "withPlatformLinks": 13,
+      "platformLinks": 22
+    },
     "spanish": {
       "resources": 30,
       "free": 13,
       "withPlatformLinks": 16,
       "platformLinks": 42
-    },
-    "korean": {
-      "resources": 29,
-      "free": 21,
-      "withPlatformLinks": 12,
-      "platformLinks": 21
     },
     "hebrew": {
       "resources": 27,

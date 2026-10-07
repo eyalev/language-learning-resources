@@ -951,5 +951,38 @@
     "notes": "The most reliable free place to get a specific Korean question answered — nuance between two endings, whether a sentence you wrote sounds natural, which textbook to pick next. The wiki and pinned resource threads are a good sanity check on any study plan. Answers are crowd-sourced, so quality varies and confidently wrong replies do appear; weigh explanations that cite a source over ones that do not.",
     "popularity": 3,
     "methods": []
+  },
+  {
+    "id": "korean-bridge-hangul-for-kids",
+    "name": "Korean Bridge: Hangul for Kids",
+    "url": "https://pifl-labs.com/en/apps/pipi-bridge/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "methods": [],
+    "tags": [
+      "children",
+      "ios",
+      "offline"
+    ],
+    "pitch": "Free Korean picture-and-audio activities for ages 4–8 on iPhone and iPad.",
+    "notes": "Children listen to Korean and choose or match pictures, with first Hangul sounds and everyday school phrases. Parent guidance is available in English, Korean, Japanese, Simplified Chinese and Vietnamese. The app is free, with no ads, purchases, subscriptions or signup, and its core activities work offline. It is designed for ages 4–8 on iPhone/iPad, not an adult conversation course or TOPIK preparation; progress stays on the device.",
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/korean-bridge-hangul-for-kids/id6801205183"
+      }
+    ]
   }
 ]

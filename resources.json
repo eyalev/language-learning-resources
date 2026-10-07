@@ -17998,6 +17998,40 @@
   },
   {
     "language": "korean",
+    "id": "korean-bridge-hangul-for-kids",
+    "name": "Korean Bridge: Hangul for Kids",
+    "url": "https://pifl-labs.com/en/apps/pipi-bridge/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "korean"
+    ],
+    "levels": [
+      "beginner"
+    ],
+    "skills": [
+      "listening",
+      "vocabulary"
+    ],
+    "price": "free",
+    "methods": [],
+    "tags": [
+      "children",
+      "ios",
+      "offline"
+    ],
+    "pitch": "Free Korean picture-and-audio activities for ages 4–8 on iPhone and iPad.",
+    "notes": "Children listen to Korean and choose or match pictures, with first Hangul sounds and everyday school phrases. Parent guidance is available in English, Korean, Japanese, Simplified Chinese and Vietnamese. The app is free, with no ads, purchases, subscriptions or signup, and its core activities work offline. It is designed for ages 4–8 on iPhone/iPad, not an adult conversation course or TOPIK preparation; progress stays on the device.",
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/korean-bridge-hangul-for-kids/id6801205183"
+      }
+    ]
+  },
+  {
+    "language": "korean",
     "id": "korean-grammar-in-use",
     "name": "Korean Grammar in Use",
     "url": "https://www.darakwon.co.kr/koreanbooks/detail.asp?lang=1&category=&bookid=24",
