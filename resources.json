@@ -30355,6 +30355,52 @@
   },
   {
     "language": "universal",
+    "id": "indilingo",
+    "name": "Indilingo",
+    "url": "https://www.indilingo.ai/",
+    "types": [
+      "app"
+    ],
+    "languages": [
+      "*"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate"
+    ],
+    "skills": [
+      "speaking",
+      "listening",
+      "vocabulary",
+      "pronunciation",
+      "reading"
+    ],
+    "price": "freemium",
+    "pitch": "Voice-tutor app for 22 Indian and 17 world languages, taught from a language you know.",
+    "notes": "Indilingo covers all 22 scheduled Indian languages, including low-resource ones like Konkani, Santali and Bodo, plus 17 world languages, and lets you study from English or from another Indian language you already speak. Lessons teach the native script and everyday sentences, and a voice tutor gives speaking practice with pronunciation feedback. The free tier is usable, with a paid Pro plan for more. It is a young app, so the smaller-language courses are newer and less tested than long-running courses, and there is less depth for advanced learners.",
+    "popularity": 1,
+    "methods": [
+      "structured-course",
+      "conversation-practice",
+      "pronunciation-training"
+    ],
+    "tags": [
+      "indian-languages",
+      "low-resource-languages"
+    ],
+    "links": [
+      {
+        "label": "App Store",
+        "url": "https://apps.apple.com/us/app/indilingo-learn-any-language/id6754466568"
+      },
+      {
+        "label": "Google Play",
+        "url": "https://play.google.com/store/apps/details?id=com.indilingo"
+      }
+    ]
+  },
+  {
+    "language": "universal",
     "id": "italki",
     "name": "italki",
     "url": "https://www.italki.com/",
