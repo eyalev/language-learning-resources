@@ -1313,5 +1313,35 @@
     ],
     "popularity": 3,
     "methods": []
+  },
+  {
+    "id": "findchinesename",
+    "name": "FindChineseName",
+    "url": "https://findchinesename.com/",
+    "types": [
+      "tool",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "skills": [
+      "pronunciation",
+      "vocabulary"
+    ],
+    "price": "freemium",
+    "pitch": "Suggests a native-style Chinese name for an English name, instead of a transliteration.",
+    "notes": "Enter an English name and it proposes a short Chinese name that sounds like a real person's name (e.g. Chloe → 柯露 Kē Lù rather than the transliteration 克洛伊), with pinyin, character meanings and a comparison against the phonetic version. It also hosts a reference encyclopedia of 1,000+ Chinese surnames. The basic result is free with no account; comparing several options and surname-fit reasoning is a one-time paid report. It is a one-off naming aid rather than a study tool, and a name is still worth checking with a native speaker or teacher.",
+    "tags": [
+      "simplified",
+      "names"
+    ],
+    "popularity": 1,
+    "methods": []
   }
 ]
