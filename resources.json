@@ -3024,6 +3024,54 @@
   },
   {
     "language": "chinese",
+    "id": "mingzi",
+    "name": "Mingzi",
+    "url": "https://mingzi.io/",
+    "types": [
+      "tool",
+      "dictionary",
+      "website"
+    ],
+    "languages": [
+      "chinese"
+    ],
+    "levels": [
+      "beginner",
+      "intermediate",
+      "advanced"
+    ],
+    "cefr": "A1–C2",
+    "skills": [
+      "vocabulary",
+      "reading",
+      "pronunciation"
+    ],
+    "price": "free",
+    "pitch": "Chinese name generator, English-to-Chinese converter and surname dictionary with tone audio.",
+    "notes": "Helps Mandarin learners choose or convert a culturally natural Chinese personal name rather than a stiff phonetic transliteration. Each entry breaks down character meanings, Pinyin tone patterns, stroke counts and Five-Element associations, alongside a searchable reference for the Hundred Family Surnames (Baijiaxing) and practical guides on Chinese naming etiquette.",
+    "tags": [
+      "simplified",
+      "traditional"
+    ],
+    "popularity": 2,
+    "links": [
+      {
+        "label": "Name Converter",
+        "url": "https://mingzi.io/chinese-name-converter"
+      },
+      {
+        "label": "Name Generator",
+        "url": "https://mingzi.io/chinese-name-generator"
+      },
+      {
+        "label": "100 Chinese Surnames",
+        "url": "https://mingzi.io/chinese-names/last-names"
+      }
+    ],
+    "methods": []
+  },
+  {
+    "language": "chinese",
     "id": "moedict",
     "name": "萌典 MoeDict",
     "url": "https://www.moedict.tw/",
