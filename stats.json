@@ -1,44 +1,44 @@
 {
-  "generated": "2026-08-20",
-  "resources": 838,
+  "generated": "2026-10-27",
+  "resources": 839,
   "languageFiles": 33,
   "languages": 32,
   "universalResources": 36,
-  "resourcesWithPlatformLinks": 329,
-  "platformLinks": 751,
-  "uniquePrimaryDomains": 590,
+  "resourcesWithPlatformLinks": 330,
+  "platformLinks": 754,
+  "uniquePrimaryDomains": 591,
   "byPrice": {
-    "free": 468,
+    "free": 469,
     "freemium": 234,
     "paid": 136
   },
   "byType": {
     "course": 258,
-    "website": 217,
+    "website": 218,
     "podcast": 204,
     "youtube": 197,
     "media": 108,
+    "tool": 93,
     "book": 92,
-    "tool": 92,
-    "dictionary": 89,
+    "dictionary": 90,
     "app": 81,
     "community": 40,
     "tutoring": 37
   },
   "byLevel": {
-    "intermediate": 731,
-    "beginner": 594,
-    "advanced": 464
+    "intermediate": 732,
+    "beginner": 595,
+    "advanced": 465
   },
   "bySkill": {
-    "vocabulary": 624,
+    "vocabulary": 625,
     "listening": 531,
     "grammar": 370,
-    "reading": 360,
+    "reading": 361,
     "speaking": 186,
     "writing": 170,
     "immersion": 155,
-    "pronunciation": 123
+    "pronunciation": 124
   },
   "byMethod": {
     "structured-course": 225,
@@ -54,7 +54,7 @@
   },
   "byPopularity": {
     "1": 24,
-    "2": 349,
+    "2": 350,
     "3": 307,
     "4": 145,
     "5": 13
@@ -71,6 +71,9 @@
     "Apple": 3,
     "Blog": 1,
     "English site": 1,
+    "Name Converter": 1,
+    "Name Generator": 1,
+    "100 Chinese Surnames": 1,
     "Grammar": 1,
     "About": 1,
     "Spreaker": 1,
@@ -88,6 +91,12 @@
   },
   "distinctTags": 344,
   "perLanguage": {
+    "chinese": {
+      "resources": 36,
+      "free": 17,
+      "withPlatformLinks": 18,
+      "platformLinks": 43
+    },
     "universal": {
       "resources": 36,
       "free": 8,
@@ -99,12 +108,6 @@
       "free": 18,
       "withPlatformLinks": 9,
       "platformLinks": 21
-    },
-    "chinese": {
-      "resources": 35,
-      "free": 16,
-      "withPlatformLinks": 17,
-      "platformLinks": 40
     },
     "japanese": {
       "resources": 35,
